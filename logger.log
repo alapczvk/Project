@@ -1,0 +1,1910 @@
+2023-01-08 23:24:04 ERROR Main:6   hello
+2023-01-08 23:38:00 ERROR Main:6   hello
+2023-01-09 16:36:32 INFO  GUI:81  Button USD chosen
+2023-01-09 16:36:45 INFO  GUI:81  Button CHF chosen
+2023-01-09 16:39:59 INFO  GUI:81  Button USD chosen
+2023-01-09 16:40:44 INFO  GUI:81  Button EUR chosen
+2023-01-09 16:48:11 INFO  GUI:81  Button USD chosen
+2023-01-09 17:29:43 INFO  GUI:91  Button USD chosen
+2023-01-09 17:29:48 INFO  GUI:91  Button EUR chosen
+2023-01-09 17:32:19 INFO  GUI:91  Button BGN chosen
+2023-01-09 17:43:33 INFO  GUI:93  Button CHF chosen
+2023-01-09 17:50:28 INFO  GUI:94  Button USD chosen
+2023-01-09 17:52:18 INFO  GUI:93  Button USD chosen
+2023-01-09 17:53:05 INFO  GUI:93  Button USD chosen
+2023-01-09 19:16:41 INFO  GUI:93  Button USD chosen
+2023-01-09 19:18:23 INFO  TableInfo:14  connecting with org.jsoup.helper.HttpConnection@7d417077
+2023-01-09 19:21:48 INFO  TableInfo:14  connecting with org.jsoup.helper.HttpConnection@7d417077
+2023-01-09 19:23:10 INFO  TableInfo:14  connecting with https://kantor.live/kantory/krakow/603758-kantor-1913
+2023-01-09 19:25:33 INFO  TableInfo:14  connecting with https://kantor.live/kantory/krakow/603758-kantor-1913
+2023-01-09 19:26:41 INFO  TableInfo:14  connecting with https://kantor.live/kantory/krakow/603758-kantor-1913
+2023-01-09 19:26:43 INFO  TableInfo:26  <!doctype html>
+<html lang="pl">
+ <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="csrf-token" content="yKwVz8RBjFakUl6Hh5qBgZ0sx5yZIBViMUKKMS3O">
+  <meta name="theme-color" content="#576574">
+  <meta name="base-url" content="https://kantor.live">
+  <meta name="user-currency" content="">
+  <link rel="apple-touch-icon" sizes="180x180" href="https://kantor.live/images/favicon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="https://kantor.live/images/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="https://kantor.live/images/favicon/favicon-16x16.png">
+  <link rel="manifest" href="https://kantor.live/images/favicon/site.webmanifest">
+  <link rel="canonical" href="https://kantor.live/kantory/krakow/603758-kantor-1913">
+  <title>Kantor 1913, Kraków. Aktualne kursy walut - Kantor.live</title>
+  <meta name="description" content="Aktualne kursy wymiany walut Kantor 1913, ul. Długa 16, Kraków. 18 dostępnych walut. Najlepsze kursy. Fachowa obsługa. Negocjacja cen">
+  <meta name="keywords" content="kursy walut,  kantor Kantor 1913,  kursy walut Kantor 1913,  kantor Kantor 1913 na mapie,  ceny walut Kantor 1913,  kantor Kantor 1913 adres,  kantor Kantor 1913 kontakt,  kantor Kantor 1913 telefon,  opinie kantor Kantor 1913,  komentarze kantor Kantor 1913">
+  <meta property="og:description" content="Aktualne kursy wymiany walut Kantor 1913, ul. Długa 16, Kraków. 18 dostępnych walut. Najlepsze kursy. Fachowa obsługa. Negocjacja cen">
+  <meta property="og:title" content="Kantor 1913, Kraków. Aktualne kursy walut">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Kantor 1913, Kraków. Aktualne kursy walut">
+  <meta property="og:locale" content="pl_PL">
+  <meta property="og:image" content="https://kantor.live/storage/kantor_maps/603758-kantor-1913.png">
+  <meta property="og:url" content="https://kantor.live/kantory/krakow/603758-kantor-1913">
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"FinancialService","name":"Kantor 1913, Kraków. Aktualne kursy walut","description":"Aktualne kursy wymiany walut Kantor 1913, ul. Długa 16, Kraków. 18 dostępnych walut. Najlepsze kursy. Fachowa obsługa. Negocjacja cen","url":"https://kantor.live/kantory/krakow/603758-kantor-1913","image":"https://kantor.live/storage/kantor_maps/603758-kantor-1913.png","@id":"603758-kantor-1913","telephone":"+48511119131","priceRange":"zł","address":{"@type":"PostalAddress","streetAddress":"ul. Długa 16","addressLocality":"Kraków","addressCountry":"Polska","addressRegion":"Małopolskie","postalCode":"31-146"},"geo":{"@type":"GeoCoordinates","latitute":"50.06743891825396","longitude":"19.93867009878159"},"aggregateRating":{"@type":"AggregateRating","ratingValue":4,"reviewCount":17,"bestRating":5},"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":"Monday","opens":"09:00","closes":"20:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Tuesday","opens":"09:00","closes":"20:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Wednesday","opens":"09:00","closes":"20:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Thursday","opens":"09:00","closes":"20:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Friday","opens":"09:00","closes":"20:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Saturday","opens":"09:00","closes":"20:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Sunday","opens":"09:00","closes":"20:00"}]}</script>
+  <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAtp2Z9JtMwP5VU_tX8udCxLGNDv_hQSSQ&amp;language=pl"></script>
+  <link rel="stylesheet" href="/css/app.css?id=c3dac430fa38a44631e7">
+  <script src="/js/app.js?id=1069b7e4ac0154871b32"></script>
+  <script>
+        function recaptchaSuccess(e) {
+            $('.btn-recaptcha').removeClass('disabled').prop('disabled', false);
+        }
+        function recaptchaFail(e) {
+            $('.btn-recaptcha').addClass('disabled').prop('disabled', true);
+        }
+    </script>
+  <script src="https://www.google.com/recaptcha/api.js?hl=PL" async defer></script> <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-T52BQGH');</script> <!-- End Google Tag Manager -->
+  <script>
+            (function(h,o,t,j,a,r){
+                h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+                h._hjSettings={hjid:3310823,hjsv:6};
+                a=o.getElementsByTagName('head')[0];
+                r=o.createElement('script');r.async=1;
+                r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+                a.appendChild(r);
+            })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+        </script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-X6LHFV8RPF"></script>
+  <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-X6LHFV8RPF');
+        </script>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1588163567665001" crossorigin="anonymous"></script>
+  <script>
+        $(function () {
+            var cb = new Cookiebanner({
+                message: 'Strona wykorzystuje pliki cookies. Korzystając ze strony wyrażasz zgodę na używanie cookies, zgodnie z polityką prywatności serwisu.',
+                moreinfo: "/polityka-prywatnosci",
+                linkmsg: "Polityka prywatności",
+                padding: '20px 20px',
+            });
+            cb.run();
+        })
+    </script>
+ </head>
+ <body class="d-flex flex-column h-100" data-coordinates="0">
+  <div class="modal" id="searchModal" role="dialog" aria-hidden="true">
+   <div class="modal-dialog" role="document">
+    <div class="modal-content overflow-hidden">
+     <div class="modal-body p-0">
+      <div class="input-group input-group-seamless py-2"><span class="input-group-text bg-white border-0 border-bottom border-light pe-0"> <i data-eva="search-outline" data-eva-fill="#95afc0"></i> </span> <input autofocus type="text" data-additional=".search-modal-additional" data-cities=".search-modal-cities" data-kantors=".search-modal-kantors" data-nothing=".search-modal-nothing" data-near_btn=".search-modal-near-btn" data-near_block=".search-modal-near-block" class="liveSearchCities form-control-modal-search form-control fw-normal bg-white border-0 shadow-none border-bottom border-light" placeholder="Wpisz nazwę miasta lub kantoru">
+      </div>
+      <div class="p-3 search-modal-cities" style="display: none;"><small class="small text-muted"> <small class="text-uppercase ">Miasta</small> </small>
+       <div class="search-modal-cities-list"></div>
+      </div>
+      <div class="p-3 search-modal-kantors" style="display: none;"><small class="small text-muted"> <small class="text-uppercase ">Kantory</small> </small>
+       <div class="search-modal-kantors-list"></div>
+      </div>
+      <div class="search-modal-nothing" style="display: none;">
+       <div class="px-3 py-5 text-center text-muted h4">
+        Nie znaleziono miasta/kantoru
+       </div>
+      </div>
+      <div class="search-modal-additional">
+       <div class="p-3"><small class="small text-muted"> <small class="text-uppercase ">Popularne miasta</small> </small>
+        <div class="d-flex flex-row flex-wrap mt-2"><a class="me-2 mt-2 py-0 px-2 btn btn-light" href="https://kantor.live/kantory/gdansk">Gdańsk</a> <a class="me-2 mt-2 py-0 px-2 btn btn-light" href="https://kantor.live/kantory/katowice">Katowice</a> <a class="me-2 mt-2 py-0 px-2 btn btn-light" href="https://kantor.live/kantory/krakow">Kraków</a> <a class="me-2 mt-2 py-0 px-2 btn btn-light" href="https://kantor.live/kantory/lublin">Lublin</a> <a class="me-2 mt-2 py-0 px-2 btn btn-light" href="https://kantor.live/kantory/lodz">Łódź</a> <a class="me-2 mt-2 py-0 px-2 btn btn-light" href="https://kantor.live/kantory/poznan">Poznań</a> <a class="me-2 mt-2 py-0 px-2 btn btn-light" href="https://kantor.live/kantory/rzeszow">Rzeszów</a> <a class="me-2 mt-2 py-0 px-2 btn btn-light" href="https://kantor.live/kantory/szczecin">Szczecin</a> <a class="me-2 mt-2 py-0 px-2 btn btn-light" href="https://kantor.live/kantory/warszawa">Warszawa</a> <a class="me-2 mt-2 py-0 px-2 btn btn-light" href="https://kantor.live/kantory/wroclaw">Wrocław</a>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <script>
+    </script> <!-- Google Tag Manager (noscript) -->
+  <noscript>
+   <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T52BQGH" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+  </noscript> <!-- End Google Tag Manager (noscript) -->
+  <header class="container-lg d-flex justify-content-center flex-column bg-body">
+   <nav class="navbar navbar-container navbar-light nowrap px-0 d-flex align-items-center justify-content-between"><a class="ms-0 d-flex flex-column justify-content-start align-items-start nowrap text-decoration-none lh-1" href="https://kantor.live"> <span class="d-flex flex-row nowrap align-items-center lh-1"> <span class="h1 m-0 pr-0 fw-normal text-dark">Kantor</span> <span class="h1 m-0 ps-0 fw-normal text-muted">.live</span> </span>
+     <div class="text-muted text-start text-uppercase navbar-subtitle p-0 m-0"><img class="mr-2 shadow-lg mb-1" height="10px" width="16px" src="https://kantor.live/images/countries/pl.png"> porównywarka kantorów
+     </div> </a>
+    <div class="mt-1 input-group cursor-pointer mx-3 px-0 px-md-5 w-auto bg-white d-flex flex-grow-1 flex-md-grow-0 flex-row align-items-center justify-content-center liveSearchCitiesStarter border">
+     <div class="px-1 px-md-2 my-2  border-white">
+      <i data-eva="search-outline" data-eva-fill="#95afc0"></i>
+     </div>
+     <div class="d-block d-md-none my-2 text-secondary fw-normal ps-0 pe-2 pe-md-3">
+      Wyszukaj
+     </div>
+     <div class="d-none d-md-block my-2 text-secondary fw-normal ps-1 pe-1 pe-md-3">
+      Wyszukaj miasto lub kantor
+     </div>
+    </div>
+    <div class="mt-1 d-flex flex-row justify-content-between align-items-center"><a class="d-none d-md-inline btn btn-primary shadow" href="https://kantor.live/dla-biznesu"> <span class="d-none d-md-block text-uppercase">Dla biznesu</span> <span class="d-block d-md-none"><i data-eva="plus-outline" data-eva-fill="#fff"></i></span> </a>
+     <div class="dropdown ms-0 ms-md-3"><a class="btn btn-white dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false"> <img class="mr-2" height="14px" src="https://kantor.live/images/countries/pl.png" alt="pl"> <span class="d-none d-md-inline">PL</span> </a>
+      <ul class="dropdown-menu dropdown-menu-end">
+       <li><a class="dropdown-item" title="Polski" href="https://kantor.live/kantory/krakow/603758-kantor-1913"> <img class="mr-2" height="12px" width="20px" src="https://kantor.live/images/countries/pl.png" title="Polski" alt="Polski"> <span class="">Polski</span> </a></li>
+       <li><a class="dropdown-item" title="English" href="https://kantor.live/en/kantory/krakow/603758-kantor-1913"> <img class="mr-2" height="12px" width="20px" src="https://kantor.live/images/countries/en.png" title="English" alt="English"> <span class="">English</span> </a></li>
+       <li><a class="dropdown-item" title="Українська" href="https://kantor.live/uk/kantory/krakow/603758-kantor-1913"> <img class="mr-2" height="12px" width="20px" src="https://kantor.live/images/countries/ua.png" title="Українська" alt="Українська"> <span class="">Українська</span> </a></li>
+      </ul>
+     </div>
+    </div>
+   </nav>
+  </header>
+  <main id="main" class="flex-shrink-0 position-relative mt-5">
+   <div class="my-3 container-lg">
+    <div class="py-2 my-2 position-relative">
+     <ins class="adsbygoogle" style="display:block;height:120px;width:100%;" data-ad-client="ca-pub-1588163567665001" data-ad-slot="1142095003"></ins>
+     <script>
+                             (adsbygoogle = window.adsbygoogle || []).push({});
+                        </script>
+    </div>
+   </div>
+   <script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https:\/\/kantor.live","name":"Strona g\u0142\u00f3wna","image":null}},{"@type":"ListItem","position":2,"item":{"@id":"https:\/\/kantor.live\/kantory\/krakow","name":"Kantory Krak\u00f3w","image":null}},{"@type":"ListItem","position":3,"item":{"@id":"https:\/\/kantor.live\/kantory\/krakow\/603758-kantor-1913","name":"Kantor 1913","image":null}}]}</script>
+   <section class="my-2 mt-4 kantor-section">
+    <div class="container-lg">
+     <h1><a href="https://kantor.live/kantory/krakow" class="d-none d-md-inline-block fw-normal">Kraków</a> <span class="d-none d-md-inline-block text-primary"> / </span> <span>Kantor 1913</span></h1>
+     <div class="container-lg my-1 my-md-5 ">
+      <div class="row">
+       <div class="col-12 col-lg-4 p-0 pe-md-2">
+        <div class="card shadow d-none d-md-block"><a class="p-0 w-100" target="_blank" href="https://www.google.com/maps/search/?api=1&amp;query=Kantor+1913+Krak%C3%B3w+ul.+D%C5%82uga+16+31-146"> <img src="https://kantor.live/storage/kantor_maps/603758-kantor-1913.png?v=ef2f14a6ba246aff37d006cc4fd00260" class="w-100" alt="Kantor 1913, Kraków"> </a>
+        </div>
+        <div class="card shadow mt-0 mt-md-3">
+         <div class="card-body pt-0 mt-0 position-relative"><a data-bs-toggle="modal" data-bs-target="#improvementModal" class="bg-light d-flex flex-row justify-content-center align-items-center p-1 cursor-pointer bg-white position-absolute top-0 end-0"> <span data-bs-toggle="tooltip" data-placement="top" title="Zaproponuj zmianę"> <i data-eva="edit-outline" data-eva-fill="#555" data-eva-height="18px"></i> </span> </a>
+          <div class="media my-4 d-flex align-items-start"><i class="me-3" data-eva="pin-outline" data-eva-fill="#555"></i>
+           <div class="media-body"><a target="_blank" href="https://www.google.com/maps/search/?api=1&amp;query=Kantor+1913+Krak%C3%B3w+ul.+D%C5%82uga+16+31-146"> <h2 class="mt-0 h6 mb-0 text-primary fw-bold">ul. Długa 16, <br> 31-146 Kraków</h2> </a>
+           </div>
+          </div>
+          <div class="media mb-4 d-flex align-items-center cursor-pointer scrollTo" data-scrollto="feedbacksBlock"><i class="me-3" data-eva="star-outline" data-eva-fill="#555"></i>
+           <div class="media-body">
+            <div class="d-flex justify-content-between align-items-center">
+             <div class="d-flex flex-row align-items-center"><i data-eva="star" data-eva-fill="#17c671" data-eva-height="18px" data-eva-width="18px"></i> <i data-eva="star" data-eva-fill="#17c671" data-eva-height="18px" data-eva-width="18px"></i> <i data-eva="star" data-eva-fill="#17c671" data-eva-height="18px" data-eva-width="18px"></i> <i data-eva="star" data-eva-fill="#17c671" data-eva-height="18px" data-eva-width="18px"></i> <i data-eva="star-outline" data-eva-fill="#7ff0b9" data-eva-height="18px" data-eva-width="18px"></i>
+             </div>
+             <div class="ms-2"><span class=" text-success ">4.0</span> <small class="text-muted ms-2">(4 opinie)</small>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="media mb-4 d-flex align-items-start"><i class="me-3" data-eva="phone-outline" data-eva-fill="#555"></i>
+           <div class="media-body fw-bold"><a href="tel:+48511119131" class="mb-0">+48 511 119 131</a>
+           </div>
+          </div>
+          <div class="media mb-4 d-flex align-items-start"><i class="me-3" data-eva="globe-outline" data-eva-fill="#555"></i>
+           <div class="media-body fw-bold"><a href="http://kantor1913.pl/wszystkie-waluty" target="_blank">https://kantor1913.pl/wszystkie-waluty</a>
+           </div>
+          </div>
+          <div class="media mb-4 d-flex align-items-start"><i class="me-3" data-eva="clock-outline" data-eva-fill="#555"></i>
+           <div class="media-body d-flex flex-column align-items-start justify-content-start"><a class=" text-decoration-none" data-bs-toggle="collapse" href="#collapseOpeningHours" role="button" aria-expanded="false" aria-controls="collapseOpeningHours">
+             <div class="d-flex align-items-center">
+              <div class="d-flex flex-column justify-content-start align-items-start">
+               <div class="d-flex flex-column align-items-start justify-content-start"><span class=" text-warning ">Otwarte do <span class="h6">20:00</span></span>
+               </div>
+              </div> <span class="ms-2"> <i data-eva="arrow-ios-downward-outline" data-eva-height="18px" data-eva-width="18px" data-eva-fill="#bbb"></i> </span>
+             </div> </a>
+            <div class="collapse" id="collapseOpeningHours">
+             <table class="mt-2">
+              <tbody>
+               <tr class=" text-dark ">
+                <td class="pe-3">Poniedziałek</td>
+                <td class="px-2"><span>09:00</span> <span>-</span> <span>20:00</span></td>
+               </tr>
+               <tr class=" text-muted ">
+                <td class="pe-3">Wtorek</td>
+                <td class="px-2"><span>09:00</span> <span>-</span> <span>20:00</span></td>
+               </tr>
+               <tr class=" text-muted ">
+                <td class="pe-3">Środa</td>
+                <td class="px-2"><span>09:00</span> <span>-</span> <span>20:00</span></td>
+               </tr>
+               <tr class=" text-muted ">
+                <td class="pe-3">Czwartek</td>
+                <td class="px-2"><span>09:00</span> <span>-</span> <span>20:00</span></td>
+               </tr>
+               <tr class=" text-muted ">
+                <td class="pe-3">Piątek</td>
+                <td class="px-2"><span>09:00</span> <span>-</span> <span>20:00</span></td>
+               </tr>
+               <tr class=" text-muted ">
+                <td class="pe-3">Sobota</td>
+                <td class="px-2"><span>09:00</span> <span>-</span> <span>20:00</span></td>
+               </tr>
+               <tr class=" text-muted ">
+                <td class="pe-3">Niedziela</td>
+                <td class="px-2"><span>09:00</span> <span>-</span> <span>20:00</span></td>
+               </tr>
+              </tbody>
+             </table>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="py-2 my-2 position-relative">
+         <ins class="adsbygoogle" style="display:block;height:160px;width:100%;" data-ad-client="ca-pub-1588163567665001" data-ad-slot="7468168543"></ins>
+         <script>
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        </script>
+        </div>
+       </div>
+       <div class="col-12 col-lg-8 p-0 ps-md-2">
+        <div class="media-body ms-0 ms-md-3 mb-4 my-lg-0">
+         <div class="nav-scroller" id="exchangeRatesBlock">
+          <ul class="nav nav-tabs" id="myTab" role="tablist">
+           <li class="nav-item" role="presentation"><button class="nav-link active px-2 px-md-3" id="detal-tab" data-bs-toggle="tab" data-bs-target="#detal" role="tab" aria-controls="detal" aria-selected="true">Kursy detaliczne</button></li>
+           <li class="nav-item" role="presentation"><button class="nav-link px-2 px-md-3" id="hurt-tab" data-bs-toggle="tab" data-bs-target="#hurt" role="tab" aria-controls="hurt" aria-selected="false">Kursy hurtowe</button></li>
+           <li class="nav-item" role="presentation"><button class="nav-link px-2 px-md-3" id="kalkulator-tab" data-bs-toggle="tab" data-bs-target="#kalkulator" role="tab" aria-controls="kalkulator" aria-selected="false">Kalkulator</button></li>
+          </ul>
+         </div>
+         <div class="tab-content-wrap  shadow bg-white">
+          <div class="tab-content " id="myTabContent">
+           <div class="tab-pane border fade show active" id="detal" role="tabpanel" aria-labelledby="detal-tab">
+            <div class="table-responsive table-responsive-md p-2">
+             <table class="table table-sm mb-0 overflow-hidden">
+              <thead class="thead-light">
+               <tr>
+                <th class="fw-bold text-uppercase small" style="width: 120px">Waluta</th>
+                <th class="d-none d-md-table-cell"></th>
+                <th class="fw-bold text-uppercase small" style="width: 140px">Kupno</th>
+                <th class="fw-bold text-uppercase small" style="width: 140px">Sprzedaż</th>
+                <th style="width: 1%;white-space: nowrap;"></th>
+               </tr>
+              </thead>
+              <tbody>
+               <tr>
+                <td class="nowrap">
+                 <div class="currency-flag currency-flag-eur me-2"></div> <span class="me-2">1 EUR</span></td>
+                <td class="text-muted d-none d-md-table-cell">euro</td>
+                <td class="nowrap">
+                 <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">4.644</span> <span class="text-muted fw-normal small">PLN</span>
+                 </div></td>
+                <td class="nowrap">
+                 <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">4.724</span> <span class="text-muted fw-normal small">PLN</span>
+                 </div></td>
+                <td><a class="btn btn-outline-light text-primary btn-sm px-1 py-1 py-lg-0 pb-lg-1 nowrap" href="https://kantor.live/kantory/krakow/EUR"> <i data-eva="swap-outline" data-eva-height="16px" data-eva-fill="#95afc0"></i> <span class="fw-normal d-none d-lg-inline my-0">porównaj</span> </a></td>
+               </tr>
+               <tr>
+                <td class="nowrap">
+                 <div class="currency-flag currency-flag-usd me-2"></div> <span class="me-2">1 USD</span></td>
+                <td class="text-muted d-none d-md-table-cell">dolar amerykański</td>
+                <td class="nowrap">
+                 <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">4.335</span> <span class="text-muted fw-normal small">PLN</span>
+                 </div></td>
+                <td class="nowrap">
+                 <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">4.395</span> <span class="text-muted fw-normal small">PLN</span>
+                 </div></td>
+                <td><a class="btn btn-outline-light text-primary btn-sm px-1 py-1 py-lg-0 pb-lg-1 nowrap" href="https://kantor.live/kantory/krakow/USD"> <i data-eva="swap-outline" data-eva-height="16px" data-eva-fill="#95afc0"></i> <span class="fw-normal d-none d-lg-inline my-0">porównaj</span> </a></td>
+               </tr>
+               <tr>
+                <td class="nowrap">
+                 <div class="currency-flag currency-flag-gbp me-2"></div> <span class="me-2">1 GBP</span></td>
+                <td class="text-muted d-none d-md-table-cell">funt szterling</td>
+                <td class="nowrap">
+                 <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">5.25</span> <span class="text-muted fw-normal small">PLN</span>
+                 </div></td>
+                <td class="nowrap">
+                 <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">5.35</span> <span class="text-muted fw-normal small">PLN</span>
+                 </div></td>
+                <td><a class="btn btn-outline-light text-primary btn-sm px-1 py-1 py-lg-0 pb-lg-1 nowrap" href="https://kantor.live/kantory/krakow/GBP"> <i data-eva="swap-outline" data-eva-height="16px" data-eva-fill="#95afc0"></i> <span class="fw-normal d-none d-lg-inline my-0">porównaj</span> </a></td>
+               </tr>
+               <tr>
+                <td class="nowrap">
+                 <div class="currency-flag currency-flag-chf me-2"></div> <span class="me-2">1 CHF</span></td>
+                <td class="text-muted d-none d-md-table-cell">frank szwajcarski</td>
+                <td class="nowrap">
+                 <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">4.734</span> <span class="text-muted fw-normal small">PLN</span>
+                 </div></td>
+                <td class="nowrap">
+                 <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">4.814</span> <span class="text-muted fw-normal small">PLN</span>
+                 </div></td>
+                <td><a class="btn btn-outline-light text-primary btn-sm px-1 py-1 py-lg-0 pb-lg-1 nowrap" href="https://kantor.live/kantory/krakow/CHF"> <i data-eva="swap-outline" data-eva-height="16px" data-eva-fill="#95afc0"></i> <span class="fw-normal d-none d-lg-inline my-0">porównaj</span> </a></td>
+               </tr>
+               <tr>
+                <td class="nowrap">
+                 <div class="currency-flag currency-flag-ils me-2"></div> <span class="me-2">1 ILS</span></td>
+                <td class="text-muted d-none d-md-table-cell">nowy szekel izraelski</td>
+                <td class="nowrap">
+                 <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">1.15</span> <span class="text-muted fw-normal small">PLN</span>
+                 </div></td>
+                <td class="nowrap">
+                 <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">1.35</span> <span class="text-muted fw-normal small">PLN</span>
+                 </div></td>
+                <td><a class="btn btn-outline-light text-primary btn-sm px-1 py-1 py-lg-0 pb-lg-1 nowrap" href="https://kantor.live/kantory/krakow/ILS"> <i data-eva="swap-outline" data-eva-height="16px" data-eva-fill="#95afc0"></i> <span class="fw-normal d-none d-lg-inline my-0">porównaj</span> </a></td>
+               </tr>
+               <tr>
+                <td class="nowrap">
+                 <div class="currency-flag currency-flag-cny me-2"></div> <span class="me-2">1 CNY</span></td>
+                <td class="text-muted d-none d-md-table-cell">juan chiński</td>
+                <td class="nowrap">
+                 <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">0.511</span> <span class="text-muted fw-normal small">PLN</span>
+                 </div></td>
+                <td class="nowrap">
+                 <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">0.661</span> <span class="text-muted fw-normal small">PLN</span>
+                 </div></td>
+                <td><a class="btn btn-outline-light text-primary btn-sm px-1 py-1 py-lg-0 pb-lg-1 nowrap" href="https://kantor.live/kantory/krakow/CNY"> <i data-eva="swap-outline" data-eva-height="16px" data-eva-fill="#95afc0"></i> <span class="fw-normal d-none d-lg-inline my-0">porównaj</span> </a></td>
+               </tr>
+               <tr>
+                <td class="nowrap">
+                 <div class="currency-flag currency-flag-try me-2"></div> <span class="me-2">1 TRY</span></td>
+                <td class="text-muted d-none d-md-table-cell">lira turecka</td>
+                <td class="nowrap">
+                 <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">0.225</span> <span class="text-muted fw-normal small">PLN</span>
+                 </div></td>
+                <td class="nowrap">
+                 <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">0.315</span> <span class="text-muted fw-normal small">PLN</span>
+                 </div></td>
+                <td><a class="btn btn-outline-light text-primary btn-sm px-1 py-1 py-lg-0 pb-lg-1 nowrap" href="https://kantor.live/kantory/krakow/TRY"> <i data-eva="swap-outline" data-eva-height="16px" data-eva-fill="#95afc0"></i> <span class="fw-normal d-none d-lg-inline my-0">porównaj</span> </a></td>
+               </tr>
+               <tr>
+                <td class="nowrap">
+                 <div class="currency-flag currency-flag-cad me-2"></div> <span class="me-2">1 CAD</span></td>
+                <td class="text-muted d-none d-md-table-cell">dolar kanadyjski</td>
+                <td class="nowrap">
+                 <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">3.211</span> <span class="text-muted fw-normal small">PLN</span>
+                 </div></td>
+                <td class="nowrap">
+                 <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">3.339</span> <span class="text-muted fw-normal small">PLN</span>
+                 </div></td>
+                <td><a class="btn btn-outline-light text-primary btn-sm px-1 py-1 py-lg-0 pb-lg-1 nowrap" href="https://kantor.live/kantory/krakow/CAD"> <i data-eva="swap-outline" data-eva-height="16px" data-eva-fill="#95afc0"></i> <span class="fw-normal d-none d-lg-inline my-0">porównaj</span> </a></td>
+               </tr>
+               <tr>
+                <td class="nowrap">
+                 <div class="currency-flag currency-flag-aud me-2"></div> <span class="me-2">1 AUD</span></td>
+                <td class="text-muted d-none d-md-table-cell">dolar australijski</td>
+                <td class="nowrap">
+                 <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">2.942</span> <span class="text-muted fw-normal small">PLN</span>
+                 </div></td>
+                <td class="nowrap">
+                 <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">3.059</span> <span class="text-muted fw-normal small">PLN</span>
+                 </div></td>
+                <td><a class="btn btn-outline-light text-primary btn-sm px-1 py-1 py-lg-0 pb-lg-1 nowrap" href="https://kantor.live/kantory/krakow/AUD"> <i data-eva="swap-outline" data-eva-height="16px" data-eva-fill="#95afc0"></i> <span class="fw-normal d-none d-lg-inline my-0">porównaj</span> </a></td>
+               </tr>
+               <tr>
+                <td class="nowrap">
+                 <div class="currency-flag currency-flag-dkk me-2"></div> <span class="me-2">1 DKK</span></td>
+                <td class="text-muted d-none d-md-table-cell">korona duńska</td>
+                <td class="nowrap">
+                 <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">0</span> <span class="text-muted fw-normal small">PLN</span>
+                 </div></td>
+                <td class="nowrap">
+                 <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">0.646</span> <span class="text-muted fw-normal small">PLN</span>
+                 </div></td>
+                <td><a class="btn btn-outline-light text-primary btn-sm px-1 py-1 py-lg-0 pb-lg-1 nowrap" href="https://kantor.live/kantory/krakow/DKK"> <i data-eva="swap-outline" data-eva-height="16px" data-eva-fill="#95afc0"></i> <span class="fw-normal d-none d-lg-inline my-0">porównaj</span> </a></td>
+               </tr>
+               <tr>
+                <td class="nowrap">
+                 <div class="currency-flag currency-flag-nok me-2"></div> <span class="me-2">1 NOK</span></td>
+                <td class="text-muted d-none d-md-table-cell">korona norweska</td>
+                <td class="nowrap">
+                 <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">0.43</span> <span class="text-muted fw-normal small">PLN</span>
+                 </div></td>
+                <td class="nowrap">
+                 <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">0.443</span> <span class="text-muted fw-normal small">PLN</span>
+                 </div></td>
+                <td><a class="btn btn-outline-light text-primary btn-sm px-1 py-1 py-lg-0 pb-lg-1 nowrap" href="https://kantor.live/kantory/krakow/NOK"> <i data-eva="swap-outline" data-eva-height="16px" data-eva-fill="#95afc0"></i> <span class="fw-normal d-none d-lg-inline my-0">porównaj</span> </a></td>
+               </tr>
+               <tr>
+                <td class="nowrap">
+                 <div class="currency-flag currency-flag-sek me-2"></div> <span class="me-2">1 SEK</span></td>
+                <td class="text-muted d-none d-md-table-cell">korona szwedzka</td>
+                <td class="nowrap">
+                 <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">0.407</span> <span class="text-muted fw-normal small">PLN</span>
+                 </div></td>
+                <td class="nowrap">
+                 <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">0.426</span> <span class="text-muted fw-normal small">PLN</span>
+                 </div></td>
+                <td><a class="btn btn-outline-light text-primary btn-sm px-1 py-1 py-lg-0 pb-lg-1 nowrap" href="https://kantor.live/kantory/krakow/SEK"> <i data-eva="swap-outline" data-eva-height="16px" data-eva-fill="#95afc0"></i> <span class="fw-normal d-none d-lg-inline my-0">porównaj</span> </a></td>
+               </tr>
+               <tr>
+                <td class="nowrap">
+                 <div class="currency-flag currency-flag-czk me-2"></div> <span class="me-2">1 CZK</span></td>
+                <td class="text-muted d-none d-md-table-cell">korona czeska</td>
+                <td class="nowrap">
+                 <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">0.184</span> <span class="text-muted fw-normal small">PLN</span>
+                 </div></td>
+                <td class="nowrap">
+                 <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">0.199</span> <span class="text-muted fw-normal small">PLN</span>
+                 </div></td>
+                <td><a class="btn btn-outline-light text-primary btn-sm px-1 py-1 py-lg-0 pb-lg-1 nowrap" href="https://kantor.live/kantory/krakow/CZK"> <i data-eva="swap-outline" data-eva-height="16px" data-eva-fill="#95afc0"></i> <span class="fw-normal d-none d-lg-inline my-0">porównaj</span> </a></td>
+               </tr>
+               <tr>
+                <td class="nowrap">
+                 <div class="currency-flag currency-flag-huf me-2"></div> <span class="me-2">1 HUF</span></td>
+                <td class="text-muted d-none d-md-table-cell">forint węgierski</td>
+                <td class="nowrap">
+                 <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">0.011</span> <span class="text-muted fw-normal small">PLN</span>
+                 </div></td>
+                <td class="nowrap">
+                 <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">0.013</span> <span class="text-muted fw-normal small">PLN</span>
+                 </div></td>
+                <td><a class="btn btn-outline-light text-primary btn-sm px-1 py-1 py-lg-0 pb-lg-1 nowrap" href="https://kantor.live/kantory/krakow/HUF"> <i data-eva="swap-outline" data-eva-height="16px" data-eva-fill="#95afc0"></i> <span class="fw-normal d-none d-lg-inline my-0">porównaj</span> </a></td>
+               </tr>
+               <tr>
+                <td class="nowrap">
+                 <div class="currency-flag currency-flag-hkd me-2"></div> <span class="me-2">1 HKD</span></td>
+                <td class="text-muted d-none d-md-table-cell">dolar hongkoński</td>
+                <td class="nowrap">
+                 <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">0.4</span> <span class="text-muted fw-normal small">PLN</span>
+                 </div></td>
+                <td class="nowrap">
+                 <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">0.49</span> <span class="text-muted fw-normal small">PLN</span>
+                 </div></td>
+                <td><a class="btn btn-outline-light text-primary btn-sm px-1 py-1 py-lg-0 pb-lg-1 nowrap" href="https://kantor.live/kantory/krakow/HKD"> <i data-eva="swap-outline" data-eva-height="16px" data-eva-fill="#95afc0"></i> <span class="fw-normal d-none d-lg-inline my-0">porównaj</span> </a></td>
+               </tr>
+               <tr>
+                <td class="nowrap">
+                 <div class="currency-flag currency-flag-isk me-2"></div> <span class="me-2">1 ISK</span></td>
+                <td class="text-muted d-none d-md-table-cell">korona islandzka</td>
+                <td class="nowrap">
+                 <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">0.025</span> <span class="text-muted fw-normal small">PLN</span>
+                 </div></td>
+                <td class="nowrap">
+                 <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">0.035</span> <span class="text-muted fw-normal small">PLN</span>
+                 </div></td>
+                <td><a class="btn btn-outline-light text-primary btn-sm px-1 py-1 py-lg-0 pb-lg-1 nowrap" href="https://kantor.live/kantory/krakow/ISK"> <i data-eva="swap-outline" data-eva-height="16px" data-eva-fill="#95afc0"></i> <span class="fw-normal d-none d-lg-inline my-0">porównaj</span> </a></td>
+               </tr>
+               <tr>
+                <td class="nowrap">
+                 <div class="currency-flag currency-flag-jpy me-2"></div> <span class="me-2">1 JPY</span></td>
+                <td class="text-muted d-none d-md-table-cell">jen japoński</td>
+                <td class="nowrap">
+                 <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">0.03</span> <span class="text-muted fw-normal small">PLN</span>
+                 </div></td>
+                <td class="nowrap">
+                 <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">0.035</span> <span class="text-muted fw-normal small">PLN</span>
+                 </div></td>
+                <td><a class="btn btn-outline-light text-primary btn-sm px-1 py-1 py-lg-0 pb-lg-1 nowrap" href="https://kantor.live/kantory/krakow/JPY"> <i data-eva="swap-outline" data-eva-height="16px" data-eva-fill="#95afc0"></i> <span class="fw-normal d-none d-lg-inline my-0">porównaj</span> </a></td>
+               </tr>
+               <tr>
+                <td class="nowrap">
+                 <div class="currency-flag currency-flag-aed me-2"></div> <span class="me-2">1 AED</span></td>
+                <td class="text-muted d-none d-md-table-cell">dirham arabski</td>
+                <td class="nowrap">
+                 <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">1.1</span> <span class="text-muted fw-normal small">PLN</span>
+                 </div></td>
+                <td class="nowrap">
+                 <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">1.3</span> <span class="text-muted fw-normal small">PLN</span>
+                 </div></td>
+                <td><a class="btn btn-outline-light text-primary btn-sm px-1 py-1 py-lg-0 pb-lg-1 nowrap" href="https://kantor.live/kantory/krakow/AED"> <i data-eva="swap-outline" data-eva-height="16px" data-eva-fill="#95afc0"></i> <span class="fw-normal d-none d-lg-inline my-0">porównaj</span> </a></td>
+               </tr>
+              </tbody>
+             </table>
+            </div>
+            <div class="p-2">
+             <div class="d-flex flex-row align-items-center justify-content-start small fw-normal"><i data-eva="clock-outline" data-eva-height="16px" data-eva-fill="#aaa"></i> <span class="mx-1">Kursy zaktualizowane </span> <span class="momentJsComment" data-date="2023-01-09 19:25:13"></span>
+             </div>
+             <div class="small lh-1 text-center bg-white text-muted text-wrap fw-normal mt-2 mb-0">
+              Kursy walut często ulegają zmianom, dlatego tabela ma jedynie charakter informacyjny. W celu potwierdzenia kursu prosimy o sprawdzenie kursów walut na podanej stronie internetowej kantoru lub za pomocą kontaktu telefonicznego z wybranym kantorem.
+             </div>
+            </div>
+           </div>
+           <div class="tab-pane border fade" id="hurt" role="tabpanel" aria-labelledby="hurt-tab">
+            <div class="text-center px-2 py-5 d-flex justify-content-center align-items-center flex-column" style="min-height: 200px;">
+             <div class="h4 text-muted">
+              Brak danych
+             </div> <a class="mt-3" href="https://kantor.live/kantory/krakow">Sprawdź inne kantory w mieście Kraków</a>
+            </div>
+           </div>
+           <div class="tab-pane border fade" id="kalkulator" role="tabpanel" aria-labelledby="kalkulator-tab">
+            <div class="p-2 p-md-3">
+             <script>
+                                            var calculator_exchanges = {"EUR":{"iso":"EUR","buy":"4.644","sell":"4.724"},"USD":{"iso":"USD","buy":"4.335","sell":"4.395"},"GBP":{"iso":"GBP","buy":"5.25","sell":"5.35"},"CHF":{"iso":"CHF","buy":"4.734","sell":"4.814"},"ILS":{"iso":"ILS","buy":"1.15","sell":"1.35"},"CNY":{"iso":"CNY","buy":"0.511","sell":"0.661"},"TRY":{"iso":"TRY","buy":"0.225","sell":"0.315"},"CAD":{"iso":"CAD","buy":"3.211","sell":"3.339"},"AUD":{"iso":"AUD","buy":"2.942","sell":"3.059"},"DKK":{"iso":"DKK","buy":"0","sell":"0.646"},"NOK":{"iso":"NOK","buy":"0.43","sell":"0.443"},"SEK":{"iso":"SEK","buy":"0.407","sell":"0.426"},"CZK":{"iso":"CZK","buy":"0.184","sell":"0.199"},"HUF":{"iso":"HUF","buy":"0.011","sell":"0.013"},"HKD":{"iso":"HKD","buy":"0.4","sell":"0.49"},"ISK":{"iso":"ISK","buy":"0.025","sell":"0.035"},"JPY":{"iso":"JPY","buy":"0.03","sell":"0.035"},"AED":{"iso":"AED","buy":"1.1","sell":"1.3"}};
+                                        </script>
+             <div class="row mb-4">
+              <div class="col-12 col-md-4 mt-3"><label>Kwota</label> <input type="text" maxlength="11" class="kantorCalculator kantorCalculatorAmount form-control border-light fw-normal bg-white" placeholder="Kwota">
+              </div>
+              <div class="col-6 col-md-4 mt-3"><label>Z waluty</label> <select class="kantorCalculator kantorCalculatorFrom " data-style="border-light" data-width="100%" data-live-search="true"> <option value="" selected>Wybierz walutę</option> <option data-content="<span class=&quot;currency-flag currency-flag-pln me-2&quot;></span>PLN" value="PLN">PLN</option> <option data-content="<span class=&quot;currency-flag currency-flag-aed me-2&quot;></span>AED" value="AED"> AED </option> <option data-content="<span class=&quot;currency-flag currency-flag-aud me-2&quot;></span>AUD" value="AUD"> AUD </option> <option data-content="<span class=&quot;currency-flag currency-flag-cad me-2&quot;></span>CAD" value="CAD"> CAD </option> <option data-content="<span class=&quot;currency-flag currency-flag-chf me-2&quot;></span>CHF" value="CHF"> CHF </option> <option data-content="<span class=&quot;currency-flag currency-flag-cny me-2&quot;></span>CNY" value="CNY"> CNY </option> <option data-content="<span class=&quot;currency-flag currency-flag-czk me-2&quot;></span>CZK" value="CZK"> CZK </option> <option data-content="<span class=&quot;currency-flag currency-flag-dkk me-2&quot;></span>DKK" value="DKK"> DKK </option> <option data-content="<span class=&quot;currency-flag currency-flag-eur me-2&quot;></span>EUR" value="EUR"> EUR </option> <option data-content="<span class=&quot;currency-flag currency-flag-gbp me-2&quot;></span>GBP" value="GBP"> GBP </option> <option data-content="<span class=&quot;currency-flag currency-flag-hkd me-2&quot;></span>HKD" value="HKD"> HKD </option> <option data-content="<span class=&quot;currency-flag currency-flag-huf me-2&quot;></span>HUF" value="HUF"> HUF </option> <option data-content="<span class=&quot;currency-flag currency-flag-ils me-2&quot;></span>ILS" value="ILS"> ILS </option> <option data-content="<span class=&quot;currency-flag currency-flag-isk me-2&quot;></span>ISK" value="ISK"> ISK </option> <option data-content="<span class=&quot;currency-flag currency-flag-jpy me-2&quot;></span>JPY" value="JPY"> JPY </option> <option data-content="<span class=&quot;currency-flag currency-flag-nok me-2&quot;></span>NOK" value="NOK"> NOK </option> <option data-content="<span class=&quot;currency-flag currency-flag-sek me-2&quot;></span>SEK" value="SEK"> SEK </option> <option data-content="<span class=&quot;currency-flag currency-flag-try me-2&quot;></span>TRY" value="TRY"> TRY </option> <option data-content="<span class=&quot;currency-flag currency-flag-usd me-2&quot;></span>USD" value="USD"> USD </option> </select>
+              </div>
+              <div class="col-6 col-md-4 mt-3"><label>Na walutę</label> <select class="kantorCalculator kantorCalculatorTo " data-style="border-light" data-width="100%" data-live-search="true"> <option value="" selected>Wybierz walutę</option> <option data-content="<span class=&quot;currency-flag currency-flag-pln me-2&quot;></span>PLN" value="PLN">PLN</option> <option data-content="<span class=&quot;currency-flag currency-flag-aed me-2&quot;></span>AED" value="AED"> AED </option> <option data-content="<span class=&quot;currency-flag currency-flag-aud me-2&quot;></span>AUD" value="AUD"> AUD </option> <option data-content="<span class=&quot;currency-flag currency-flag-cad me-2&quot;></span>CAD" value="CAD"> CAD </option> <option data-content="<span class=&quot;currency-flag currency-flag-chf me-2&quot;></span>CHF" value="CHF"> CHF </option> <option data-content="<span class=&quot;currency-flag currency-flag-cny me-2&quot;></span>CNY" value="CNY"> CNY </option> <option data-content="<span class=&quot;currency-flag currency-flag-czk me-2&quot;></span>CZK" value="CZK"> CZK </option> <option data-content="<span class=&quot;currency-flag currency-flag-dkk me-2&quot;></span>DKK" value="DKK"> DKK </option> <option data-content="<span class=&quot;currency-flag currency-flag-eur me-2&quot;></span>EUR" value="EUR"> EUR </option> <option data-content="<span class=&quot;currency-flag currency-flag-gbp me-2&quot;></span>GBP" value="GBP"> GBP </option> <option data-content="<span class=&quot;currency-flag currency-flag-hkd me-2&quot;></span>HKD" value="HKD"> HKD </option> <option data-content="<span class=&quot;currency-flag currency-flag-huf me-2&quot;></span>HUF" value="HUF"> HUF </option> <option data-content="<span class=&quot;currency-flag currency-flag-ils me-2&quot;></span>ILS" value="ILS"> ILS </option> <option data-content="<span class=&quot;currency-flag currency-flag-isk me-2&quot;></span>ISK" value="ISK"> ISK </option> <option data-content="<span class=&quot;currency-flag currency-flag-jpy me-2&quot;></span>JPY" value="JPY"> JPY </option> <option data-content="<span class=&quot;currency-flag currency-flag-nok me-2&quot;></span>NOK" value="NOK"> NOK </option> <option data-content="<span class=&quot;currency-flag currency-flag-sek me-2&quot;></span>SEK" value="SEK"> SEK </option> <option data-content="<span class=&quot;currency-flag currency-flag-try me-2&quot;></span>TRY" value="TRY"> TRY </option> <option data-content="<span class=&quot;currency-flag currency-flag-usd me-2&quot;></span>USD" value="USD"> USD </option> </select>
+              </div>
+             </div>
+             <div class="kantorCalculatorResult" style="display: none;">
+              <div class="fw-bold mb-3">
+               Wynik
+              </div>
+              <div class="d-flex flex-row align-items-center flex-wrap d-row w-100">
+               <div class="my-2 my-md-0 d-flex flex-row align-items-center"><span class="me-2 currency-flag kantorCalculatorResultFromCurrency"></span> <span class="h5 fw-normal mb-0 me-1 kantorCalculatorResultFromAmount"></span> <span class="me-1 text-muted fw-normal kantorCalculatorResultFromISO"></span>
+               </div>
+               <div class="my-2 my-md-0 "><i class="mx-2" data-eva="arrow-forward-outline" data-eva-height="16px" data-eva-fill="#bbb"></i>
+               </div>
+               <div class="my-2 my-md-0 kantorCalculatorResultMiddle" style="display: none">
+                <div class="d-flex flex-row align-items-center"><span class="mx-2 currency-flag currency-flag-pln"></span> <span class="h5 fw-normal mb-0 me-1 kantorCalculatorResultMiddleAmount"></span> <span class="me-1 text-muted fw-normal">PLN</span>
+                </div>
+               </div>
+               <div class="my-2 my-md-0 kantorCalculatorResultMiddle" style="display: none"><i class="mx-2" data-eva="arrow-forward-outline" data-eva-height="16px" data-eva-fill="#bbb"></i>
+               </div>
+               <div class="my-2 my-md-0 d-flex flex-row align-items-center"><span class="mx-2 currency-flag kantorCalculatorResultToCurrency"></span> <span class="h5 fw-normal mb-0 me-1 kantorCalculatorResultToAmount"></span> <span class="me-1 text-muted fw-normal kantorCalculatorResultToISO"></span>
+               </div>
+              </div>
+              <div class="mt-4"><a href="#" class="kantorCalculatorResultCompareLink" data-link="https://kantor.live/kantory/krakow"> <span>Porównaj wynik w innych kantorach</span> <i data-eva="arrow-ios-forward-outline" data-eva-height="22px" data-eva-width="14px" data-eva-fill="#bbb"></i> </a>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="py-2 my-2 position-relative">
+          <ins class="adsbygoogle" style="display:block;height:130px;width:100%;" data-ad-client="ca-pub-1588163567665001" data-ad-slot="2024910804"></ins>
+          <script>
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        </script>
+         </div>
+         <div class="card shadow mt-4" id="feedbacksBlock">
+          <div class="card-body pb-0">
+           <div class="d-flex flex-row justify-content-between align-items-end border-bottom pb-3 mb-3">
+            <h4 class="mb-0 fw-normal">Opinie</h4> <button type="button" data-bs-toggle="modal" data-bs-target="#commentModal" class="btn btn-sm btn-primary fw-normal d-flex flex-row align-items-center"> <i data-eva="plus-outline" data-eva-fill="#fff" data-eva-height="15px"></i> <span class="ms-2">Dodaj</span> </button>
+           </div>
+           <ul class="list-unstyled">
+            <li class="media media-comment align-items-start mt-2">
+             <div class="media-body">
+              <div class="w-100 d-flex flex-row align-items-center justify-content-between">
+               <div>
+                Adam
+               </div>
+               <div class="d-none d-md-flex flex-row align-items-center justify-content-end "><i data-eva="star" data-eva-fill="#17c671" data-eva-height="14px" data-eva-width="14px"></i> <i data-eva="star" data-eva-fill="#17c671" data-eva-height="14px" data-eva-width="14px"></i> <i data-eva="star" data-eva-fill="#17c671" data-eva-height="14px" data-eva-width="14px"></i> <i data-eva="star" data-eva-fill="#17c671" data-eva-height="14px" data-eva-width="14px"></i> <i data-eva="star" data-eva-fill="#17c671" data-eva-height="14px" data-eva-width="14px"></i>
+               </div>
+               <div class="d-flex d-md-none flex-row align-items-center justify-content-end "><span class="h5 mb-0 pb-0 text-success d-flex align-items-center"> <i data-eva="star" data-eva-fill="#17c671" data-eva-height="18px"></i> <small>5.0</small> </span>
+               </div>
+              </div>
+              <p class="fw-normal mb-1">Polecam! Cena jak na stronie, miło szybko i przyjemnie.</p>
+              <div class="d-flex flex-row align-items-center justify-content-start pb-2">
+               <div class="small fw-normal mb-0 text-muted momentJsComment" data-date="2022-09-26 14:31:01">
+                2022-09-26 14:31:01
+               </div>
+              </div>
+             </div></li>
+            <li class="media media-comment align-items-start mt-2">
+             <div class="media-body">
+              <div class="w-100 d-flex flex-row align-items-center justify-content-between">
+               <div>
+                Jakub
+               </div>
+               <div class="d-none d-md-flex flex-row align-items-center justify-content-end "><i data-eva="star" data-eva-fill="#17c671" data-eva-height="14px" data-eva-width="14px"></i> <i data-eva="star" data-eva-fill="#17c671" data-eva-height="14px" data-eva-width="14px"></i> <i data-eva="star" data-eva-fill="#17c671" data-eva-height="14px" data-eva-width="14px"></i> <i data-eva="star" data-eva-fill="#17c671" data-eva-height="14px" data-eva-width="14px"></i> <i data-eva="star" data-eva-fill="#17c671" data-eva-height="14px" data-eva-width="14px"></i>
+               </div>
+               <div class="d-flex d-md-none flex-row align-items-center justify-content-end "><span class="h5 mb-0 pb-0 text-success d-flex align-items-center"> <i data-eva="star" data-eva-fill="#17c671" data-eva-height="18px"></i> <small>5.0</small> </span>
+               </div>
+              </div>
+              <p class="fw-normal mb-1">Dobry kurs.</p>
+              <div class="d-flex flex-row align-items-center justify-content-start pb-2">
+               <div class="small fw-normal mb-0 text-muted momentJsComment" data-date="2022-09-21 11:58:02">
+                2022-09-21 11:58:02
+               </div>
+              </div>
+             </div></li>
+            <li class="media media-comment align-items-start mt-2">
+             <div class="media-body">
+              <div class="w-100 d-flex flex-row align-items-center justify-content-between">
+               <div>
+                Zadowolony klient)
+               </div>
+               <div class="d-none d-md-flex flex-row align-items-center justify-content-end "><i data-eva="star" data-eva-fill="#17c671" data-eva-height="14px" data-eva-width="14px"></i> <i data-eva="star" data-eva-fill="#17c671" data-eva-height="14px" data-eva-width="14px"></i> <i data-eva="star" data-eva-fill="#17c671" data-eva-height="14px" data-eva-width="14px"></i> <i data-eva="star" data-eva-fill="#17c671" data-eva-height="14px" data-eva-width="14px"></i> <i data-eva="star" data-eva-fill="#17c671" data-eva-height="14px" data-eva-width="14px"></i>
+               </div>
+               <div class="d-flex d-md-none flex-row align-items-center justify-content-end "><span class="h5 mb-0 pb-0 text-success d-flex align-items-center"> <i data-eva="star" data-eva-fill="#17c671" data-eva-height="18px"></i> <small>5.0</small> </span>
+               </div>
+              </div>
+              <p class="fw-normal mb-1">Dobry kantor. Zawsze jest kwota, której potrzebuję. Kurs odpowiada stronie.</p>
+              <div class="d-flex flex-row align-items-center justify-content-start pb-2">
+               <div class="small fw-normal mb-0 text-muted momentJsComment" data-date="2022-09-04 20:31:48">
+                2022-09-04 20:31:48
+               </div>
+              </div>
+             </div></li>
+            <li class="media media-comment align-items-start mt-2">
+             <div class="media-body">
+              <div class="w-100 d-flex flex-row align-items-center justify-content-between">
+               <div>
+                Kuba
+               </div>
+               <div class="d-none d-md-flex flex-row align-items-center justify-content-end "><i data-eva="star" data-eva-fill="#ff6b6b" data-eva-height="14px" data-eva-width="14px"></i> <i data-eva="star-outline" data-eva-fill="#feb6b6" data-eva-height="14px" data-eva-width="14px"></i> <i data-eva="star-outline" data-eva-fill="#feb6b6" data-eva-height="14px" data-eva-width="14px"></i> <i data-eva="star-outline" data-eva-fill="#feb6b6" data-eva-height="14px" data-eva-width="14px"></i> <i data-eva="star-outline" data-eva-fill="#feb6b6" data-eva-height="14px" data-eva-width="14px"></i>
+               </div>
+               <div class="d-flex d-md-none flex-row align-items-center justify-content-end "><span class="h5 mb-0 pb-0 text-danger d-flex align-items-center"> <i data-eva="star" data-eva-fill="#ff6b6b" data-eva-height="18px"></i> <small>1.0</small> </span>
+               </div>
+              </div>
+              <p class="fw-normal mb-1">Nie poleca, kursy nie zgadza się ze strona, brak kursów hurtowych, Pani na kasie zdenerwowana.</p>
+              <div class="d-flex flex-row align-items-center justify-content-start pb-2">
+               <div class="small fw-normal mb-0 text-muted momentJsComment" data-date="2022-01-18 15:50:39">
+                2022-01-18 15:50:39
+               </div>
+              </div>
+             </div></li>
+           </ul>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </section>
+   <div class="modal fade" id="improvementModal" tabindex="-1" role="dialog" aria-labelledby="improvementModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg" role="document">
+     <div class="modal-content">
+      <div class="modal-header border-0">
+       <div class="">
+        <h5 class="modal-title" id="improvementModalLabel">Zaproponuj zmianę</h5>
+        <div class="h6 mb-0 fw-normal text-muted">
+         Kantor 1913
+        </div>
+       </div> <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+       <div class="form-group"><label class="col-form-label">Wybierz zmianę</label> <select class="form-control improvementKantorSelect"> <option value="">Wybierz zmianę</option> <option value="main">Zmień nazwę lub uwagi</option> <option value="address">Zmień dane adresowe</option> <option value="contact">Zmień dane kontaktowe</option> <option value="hours">Zmień godziny otwarcia</option> <option value="remove">Miejsce nie istnieje lub jest zamknięte</option> </select>
+       </div>
+       <form class="improvementKantorForm improvementKantorForm_main" style="display: none" action="https://kantor.live/kantory/krakow/603758-kantor-1913/zmiana" method="POST">
+        <div class="form-group"><label for="name" class="col-form-label">Nazwa</label> <input type="text" autocomplete="no" class="form-control fw-normal" id="name" name="name" value="Kantor 1913" placeholder="Nazwa" required>
+        </div>
+        <div class="form-group"><label for="notes" class="col-form-label mb-0 pb-0">Uwagi</label> <br> <small class="text-small text-muted fw-normal">Np. "Kursy dla transakcji powyżej 4000 PLN"</small> <input type="text" autocomplete="no" class="form-control fw-normal" id="notes" name="notes" value="" placeholder="Uwagi">
+        </div>
+        <div class="form-group"><label>Dodatkowa informacja</label> <textarea class="form-control" name="details" rows="5"></textarea>
+        </div> <input type="hidden" name="_token" value="yKwVz8RBjFakUl6Hh5qBgZ0sx5yZIBViMUKKMS3O">
+        <div class="g-recaptcha" data-callback="recaptchaSuccess" data-error-callback="recaptchaFail" data-expired-callback="recaptchaFail" data-sitekey="6LdBJ7YZAAAAAOOJR-HZmcMucYCNPJChCb6bbfuU" data-size="normal" data-theme="light" id="recaptcha-element"></div> <button disabled type="submit" class="btn btn-primary w-100 mx-0 mt-0 btn-recaptcha">Wyślij</button>
+       </form>
+       <form class="improvementKantorForm improvementKantorForm_address" style="display: none" action="https://kantor.live/kantory/krakow/603758-kantor-1913/zmiana" method="POST">
+        <div class="form-group"><label for="address" class="col-form-label">Adres</label> <input type="text" autocomplete="no" class="form-control fw-normal" id="address" name="address" value="ul. Długa 16" placeholder="Adres" required>
+        </div>
+        <div class="form-group"><label for="sub_address" class="col-form-label mb-0 pb-0">Adres dodatkowy</label> <br> <small class="text-small text-muted fw-normal">Np. "Galeria Warszawa" lub "parter" lub "Lokal 123"</small> <input type="text" autocomplete="no" class="form-control fw-normal" id="sub_address" name="sub_address" value="" placeholder="Adres dodatkowy">
+        </div>
+        <div class="form-group"><label>Dodatkowa informacja</label> <textarea class="form-control" name="details" rows="5"></textarea>
+        </div> <input type="hidden" name="_token" value="yKwVz8RBjFakUl6Hh5qBgZ0sx5yZIBViMUKKMS3O">
+        <div class="g-recaptcha" data-callback="recaptchaSuccess" data-error-callback="recaptchaFail" data-expired-callback="recaptchaFail" data-sitekey="6LdBJ7YZAAAAAOOJR-HZmcMucYCNPJChCb6bbfuU" data-size="normal" data-theme="light" id="recaptcha-element"></div> <button disabled type="submit" class="btn btn-primary w-100 mx-0 mt-0 btn-recaptcha">Wyślij</button>
+       </form>
+       <form class="improvementKantorForm improvementKantorForm_contact" style="display: none" action="https://kantor.live/kantory/krakow/603758-kantor-1913/zmiana" method="POST">
+        <div class="form-group"><label for="phone" class="col-form-label">Numer telefonu</label> <input type="text" autocomplete="no" class="form-control fw-normal" id="phone" name="phone" value="511 119 131" placeholder="Numer telefonu">
+        </div>
+        <div class="form-group"><label for="phone2" class="col-form-label">Numer telefonu 2</label> <input type="text" autocomplete="no" class="form-control fw-normal" id="phone2" name="phone2" value="" placeholder="Numer telefonu 2">
+        </div>
+        <div class="form-group"><label for="www" class="col-form-label">Strona WWW</label> <input type="text" autocomplete="no" class="form-control fw-normal" id="www" name="www" value="https://kantor1913.pl/wszystkie-waluty" placeholder="Strona WWW" required>
+        </div>
+        <div class="form-group"><label>Dodatkowa informacja</label> <textarea class="form-control" name="details" rows="5"></textarea>
+        </div> <input type="hidden" name="_token" value="yKwVz8RBjFakUl6Hh5qBgZ0sx5yZIBViMUKKMS3O">
+        <div class="g-recaptcha" data-callback="recaptchaSuccess" data-error-callback="recaptchaFail" data-expired-callback="recaptchaFail" data-sitekey="6LdBJ7YZAAAAAOOJR-HZmcMucYCNPJChCb6bbfuU" data-size="normal" data-theme="light" id="recaptcha-element"></div> <button disabled type="submit" class="btn btn-primary w-100 mx-0 mt-0 btn-recaptcha">Wyślij</button>
+       </form>
+       <form class="improvementKantorForm improvementKantorForm_hours" style="display: none" action="https://kantor.live/kantory/krakow/603758-kantor-1913/zmiana" method="POST">
+        <div class="row align-items-center">
+         <div class="form-group mb-0 col-md-4 col-lg-2">
+          <div class="pt-2 fw-bold">
+           Poniedziałek
+          </div>
+         </div>
+         <div class="form-group mb-0 col-md-4 col-lg-2"><input type="text" autocomplete="no" class="form-control fw-normal timepicker" value="09:00" name="hours[1][open_time]" placeholder="od">
+         </div>
+         <div class="form-group mb-0 col-md-4 col-lg-2"><input type="text" autocomplete="no" class="form-control fw-normal timepicker" value="20:00" name="hours[1][close_time]" placeholder="do">
+         </div>
+         <div class="col-md-12 mb-0 col-lg-6 d-flex flex-row ">
+          <div class="custom-control custom-checkbox"><input type="checkbox" class="custom-control-input checkTime" data-type="closed" data-hide="true" id="checkClosed1"> <label class="custom-control-label" for="checkClosed1">Zamknięte</label>
+          </div>
+          <div class="custom-control custom-checkbox ms-3"><input type="checkbox" class="custom-control-input checkTime" data-type="24h" data-hide="true" id="check24H1"> <label class="custom-control-label" for="check24H1">Czynne całą dobę</label>
+          </div>
+         </div>
+        </div>
+        <hr>
+        <div class="row align-items-center">
+         <div class="form-group mb-0 col-md-4 col-lg-2">
+          <div class="pt-2 fw-bold">
+           Wtorek
+          </div>
+         </div>
+         <div class="form-group mb-0 col-md-4 col-lg-2"><input type="text" autocomplete="no" class="form-control fw-normal timepicker" value="09:00" name="hours[2][open_time]" placeholder="od">
+         </div>
+         <div class="form-group mb-0 col-md-4 col-lg-2"><input type="text" autocomplete="no" class="form-control fw-normal timepicker" value="20:00" name="hours[2][close_time]" placeholder="do">
+         </div>
+         <div class="col-md-12 mb-0 col-lg-6 d-flex flex-row ">
+          <div class="custom-control custom-checkbox"><input type="checkbox" class="custom-control-input checkTime" data-type="closed" data-hide="true" id="checkClosed2"> <label class="custom-control-label" for="checkClosed2">Zamknięte</label>
+          </div>
+          <div class="custom-control custom-checkbox ms-3"><input type="checkbox" class="custom-control-input checkTime" data-type="24h" data-hide="true" id="check24H2"> <label class="custom-control-label" for="check24H2">Czynne całą dobę</label>
+          </div>
+         </div>
+        </div>
+        <hr>
+        <div class="row align-items-center">
+         <div class="form-group mb-0 col-md-4 col-lg-2">
+          <div class="pt-2 fw-bold">
+           Środa
+          </div>
+         </div>
+         <div class="form-group mb-0 col-md-4 col-lg-2"><input type="text" autocomplete="no" class="form-control fw-normal timepicker" value="09:00" name="hours[3][open_time]" placeholder="od">
+         </div>
+         <div class="form-group mb-0 col-md-4 col-lg-2"><input type="text" autocomplete="no" class="form-control fw-normal timepicker" value="20:00" name="hours[3][close_time]" placeholder="do">
+         </div>
+         <div class="col-md-12 mb-0 col-lg-6 d-flex flex-row ">
+          <div class="custom-control custom-checkbox"><input type="checkbox" class="custom-control-input checkTime" data-type="closed" data-hide="true" id="checkClosed3"> <label class="custom-control-label" for="checkClosed3">Zamknięte</label>
+          </div>
+          <div class="custom-control custom-checkbox ms-3"><input type="checkbox" class="custom-control-input checkTime" data-type="24h" data-hide="true" id="check24H3"> <label class="custom-control-label" for="check24H3">Czynne całą dobę</label>
+          </div>
+         </div>
+        </div>
+        <hr>
+        <div class="row align-items-center">
+         <div class="form-group mb-0 col-md-4 col-lg-2">
+          <div class="pt-2 fw-bold">
+           Czwartek
+          </div>
+         </div>
+         <div class="form-group mb-0 col-md-4 col-lg-2"><input type="text" autocomplete="no" class="form-control fw-normal timepicker" value="09:00" name="hours[4][open_time]" placeholder="od">
+         </div>
+         <div class="form-group mb-0 col-md-4 col-lg-2"><input type="text" autocomplete="no" class="form-control fw-normal timepicker" value="20:00" name="hours[4][close_time]" placeholder="do">
+         </div>
+         <div class="col-md-12 mb-0 col-lg-6 d-flex flex-row ">
+          <div class="custom-control custom-checkbox"><input type="checkbox" class="custom-control-input checkTime" data-type="closed" data-hide="true" id="checkClosed4"> <label class="custom-control-label" for="checkClosed4">Zamknięte</label>
+          </div>
+          <div class="custom-control custom-checkbox ms-3"><input type="checkbox" class="custom-control-input checkTime" data-type="24h" data-hide="true" id="check24H4"> <label class="custom-control-label" for="check24H4">Czynne całą dobę</label>
+          </div>
+         </div>
+        </div>
+        <hr>
+        <div class="row align-items-center">
+         <div class="form-group mb-0 col-md-4 col-lg-2">
+          <div class="pt-2 fw-bold">
+           Piątek
+          </div>
+         </div>
+         <div class="form-group mb-0 col-md-4 col-lg-2"><input type="text" autocomplete="no" class="form-control fw-normal timepicker" value="09:00" name="hours[5][open_time]" placeholder="od">
+         </div>
+         <div class="form-group mb-0 col-md-4 col-lg-2"><input type="text" autocomplete="no" class="form-control fw-normal timepicker" value="20:00" name="hours[5][close_time]" placeholder="do">
+         </div>
+         <div class="col-md-12 mb-0 col-lg-6 d-flex flex-row ">
+          <div class="custom-control custom-checkbox"><input type="checkbox" class="custom-control-input checkTime" data-type="closed" data-hide="true" id="checkClosed5"> <label class="custom-control-label" for="checkClosed5">Zamknięte</label>
+          </div>
+          <div class="custom-control custom-checkbox ms-3"><input type="checkbox" class="custom-control-input checkTime" data-type="24h" data-hide="true" id="check24H5"> <label class="custom-control-label" for="check24H5">Czynne całą dobę</label>
+          </div>
+         </div>
+        </div>
+        <hr>
+        <div class="row align-items-center">
+         <div class="form-group mb-0 col-md-4 col-lg-2">
+          <div class="pt-2 fw-bold">
+           Sobota
+          </div>
+         </div>
+         <div class="form-group mb-0 col-md-4 col-lg-2"><input type="text" autocomplete="no" class="form-control fw-normal timepicker" value="09:00" name="hours[6][open_time]" placeholder="od">
+         </div>
+         <div class="form-group mb-0 col-md-4 col-lg-2"><input type="text" autocomplete="no" class="form-control fw-normal timepicker" value="20:00" name="hours[6][close_time]" placeholder="do">
+         </div>
+         <div class="col-md-12 mb-0 col-lg-6 d-flex flex-row ">
+          <div class="custom-control custom-checkbox"><input type="checkbox" class="custom-control-input checkTime" data-type="closed" data-hide="true" id="checkClosed6"> <label class="custom-control-label" for="checkClosed6">Zamknięte</label>
+          </div>
+          <div class="custom-control custom-checkbox ms-3"><input type="checkbox" class="custom-control-input checkTime" data-type="24h" data-hide="true" id="check24H6"> <label class="custom-control-label" for="check24H6">Czynne całą dobę</label>
+          </div>
+         </div>
+        </div>
+        <hr>
+        <div class="row align-items-center">
+         <div class="form-group mb-0 col-md-4 col-lg-2">
+          <div class="pt-2 fw-bold">
+           Niedzieła
+          </div>
+         </div>
+         <div class="form-group mb-0 col-md-4 col-lg-2"><input type="text" autocomplete="no" class="form-control fw-normal timepicker" value="09:00" name="hours[7][open_time]" placeholder="od">
+         </div>
+         <div class="form-group mb-0 col-md-4 col-lg-2"><input type="text" autocomplete="no" class="form-control fw-normal timepicker" value="20:00" name="hours[7][close_time]" placeholder="do">
+         </div>
+         <div class="col-md-12 mb-0 col-lg-6 d-flex flex-row ">
+          <div class="custom-control custom-checkbox"><input type="checkbox" class="custom-control-input checkTime" data-type="closed" data-hide="true" id="checkClosed7"> <label class="custom-control-label" for="checkClosed7">Zamknięte</label>
+          </div>
+          <div class="custom-control custom-checkbox ms-3"><input type="checkbox" class="custom-control-input checkTime" data-type="24h" data-hide="true" id="check24H7"> <label class="custom-control-label" for="check24H7">Czynne całą dobę</label>
+          </div>
+         </div>
+        </div>
+        <hr>
+        <div class="form-group"><label>Dodatkowa informacja</label> <textarea class="form-control" name="details" rows="5"></textarea>
+        </div> <input type="hidden" name="_token" value="yKwVz8RBjFakUl6Hh5qBgZ0sx5yZIBViMUKKMS3O">
+        <div class="g-recaptcha" data-callback="recaptchaSuccess" data-error-callback="recaptchaFail" data-expired-callback="recaptchaFail" data-sitekey="6LdBJ7YZAAAAAOOJR-HZmcMucYCNPJChCb6bbfuU" data-size="normal" data-theme="light" id="recaptcha-element"></div> <button disabled type="submit" class="btn btn-primary w-100 mx-0 mt-0 btn-recaptcha">Wyślij</button>
+       </form>
+       <form class="improvementKantorForm improvementKantorForm_remove" style="display: none" action="https://kantor.live/kantory/krakow/603758-kantor-1913/zmiana" method="POST">
+        <div class="form-group"><label>Przyczyna zmiany</label> <select required name="remove_because" class="form-control improvementKantorFormRemoveSelect"> <option value="closed_temporary">Tymczasowo zamknięte</option> <option value="closed_forever">Zamknięte na stałe</option> <option value="not_exists">Tego miejsca nie ma pod tym adresem</option> <option value="other">Inne</option> </select>
+        </div>
+        <p style="display:none;" class="improvementKantorFormRemoveInfo improvementKantorFormRemoveInfo_closed_temporary"><b>Oznacz jako tymczasowo zamknięte</b> <br> <span class="fw-ligth">Proponujesz, żeby miejsce Kantor 1913 wyświetlało się w Kantor.live jako tymczasowo zamknięte</span></p>
+        <p style="display:none;" class="improvementKantorFormRemoveInfo improvementKantorFormRemoveInfo_closed_forever"><b>Oznacz jako zamknięte na stałe</b> <br> <span class="fw-ligth">Proponujesz, żeby miejsce Kantor 1913 wyświetlało się w Kantor.live jako zamknięte na stałe</span></p>
+        <p style="display:none;" class="improvementKantorFormRemoveInfo improvementKantorFormRemoveInfo_not_exists"><b>To miejsce nie istnieje</b> <br> <span class="fw-ligth">Proponujesz, żeby miejsce Kantor 1913 zostało usunięte z Kantor.live, ponieważ jest nieprawdziwe, nigdy nie istniało lub nie ma go pod tym adresem</span></p>
+        <p style="display:none;" class="improvementKantorFormRemoveInfo improvementKantorFormRemoveInfo_other"><b>Usuń z innego powodu</b> <br> <span class="fw-ligth">Proponujesz, żeby miejsce Kantor 1913 zostało usunięte z Kantor.live z innego powodu</span></p>
+        <div class="form-group"><label>Dodatkowa informacja</label> <textarea class="form-control" name="details" rows="5"></textarea>
+        </div> <input type="hidden" name="_token" value="yKwVz8RBjFakUl6Hh5qBgZ0sx5yZIBViMUKKMS3O">
+        <div class="g-recaptcha" data-callback="recaptchaSuccess" data-error-callback="recaptchaFail" data-expired-callback="recaptchaFail" data-sitekey="6LdBJ7YZAAAAAOOJR-HZmcMucYCNPJChCb6bbfuU" data-size="normal" data-theme="light" id="recaptcha-element"></div> <button disabled type="submit" class="btn btn-primary w-100 mx-0 mt-0 btn-recaptcha">Wyślij</button>
+       </form>
+      </div>
+      <div style="display: none" id="improvementKantorSuccess" class="alert alert-primary my-3 mx-4" role="alert">
+       Zmiany zostały wysłane. Dziękujemy za wysłanie wiadomości.
+      </div>
+      <div style="display: none" id="improvementKantorError" class="alert alert-danger my-3 mx-4" role="alert">
+       Zmiany nie zostały wysłane. Prosimy skontaktować się z nami używając formularz kontaktowy.
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="modal fade" id="commentModal" tabindex="-1" role="dialog" aria-labelledby="commentModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+     <div class="modal-content">
+      <div id="commentModalRegulamin">
+       <div class="modal-header border-0">
+        <h5 class="modal-title" id="commentModalLabel">Regulamin umieszczania opinii</h5> <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+       </div>
+       <div class="modal-body pb-1">
+        <div style="max-height: 300px;overflow-y: auto;" class="my-2">
+         <ol class="small">
+          <li>Regulamin określa zasady dodawania opinii na stronie internetowej <a href="https://kantor.live">Kantor.live</a></li>
+          <li>Dodanie opinii przez użytkownika jest równoznaczne z zapoznaniem się z postanowieniami regulaminu i akceptacją tego regulaminu.</li>
+          <li>Każdy opiniodawca może dodać tylko jedną opinię do każdego kantoru.</li>
+          <li>Administrator będzie odrzucał opinie stojące w sprzeczności z obowiązującymi przepisami prawa oraz dobrymi obyczajami w tym w szczególności zabronione jest umieszczanie treści: 
+           <ul>
+            <li>wzywających do nienawiści rasowej, wyznaniowej, etnicznej</li>
+            <li>propagujących przemoc, obraźliwych</li>
+            <li>przyczyniających się do łamania praw autorskich</li>
+            <li>propagujących środki odurzające, narkotyki, alkohol</li>
+            <li>zawierających wulgaryzmy</li>
+            <li>zawierających treści reklamowe</li>
+            <li>pisanej w całości wielkimi literami</li>
+            <li>nie mających wartości merytorycznej</li>
+            <li>nie dotyczących opiniowanego kantoru</li>
+           </ul></li>
+          <li>Administrator zastrzega sobie prawo do usuwania treści, o których mowa w pkt. 3, 4 niniejszego Regulaminu</li>
+          <li>Administrator zastrzega sobie możliwość przeredagowywania fragmentów opinii w sposób nie zmieniający ich przekazu, a w szczególnych przypadkach usuwania fragmentów opinii.</li>
+          <li>Użytkownicy dodają swoje opinie wyłącznie na własną odpowiedzialność. Serwis <a href="https://kantor.live">Kantor.live</a> nie ponosi za nie jakiejkolwiek odpowiedzialności.</li>
+          <li>Opiniodawca udziela <a href="https://kantor.live">Kantor.live</a> nieograniczonej w czasie licencji na nieodpłatne korzystanie, rozpowszechnianie, utrwalanie, publikowanie, kopiowanie i wykorzystywanie opinii zamieszczonej w serwisie <a href="https://kantor.live">Kantor.live</a>.</li>
+          <li>Postanowienia Regulaminu umieszczania opinii obowiązują od momentu ich opublikowania. Administrator zastrzega sobie prawo do zmian, które będą obowiązujące od chwili zamieszczenia ich na stronie.</li>
+          <li>Informujemy, że oprogramowanie do obsługi opinii rejestruje dane opiniodawcy (IP, czas), które na wniosek prokuratury, sądu lub policji mogą zostać przekazane celem ścigania sprawców czynów sprzecznych z prawem.</li>
+         </ol>
+        </div>
+        <div class="modal-footer border-0"><button class="btn btn-primary w-100 mx-0 mt-0" onclick="$('#commentModalRegulamin').remove();$('#commentModalForm').show();">Akceptuję regulamin</button>
+        </div>
+       </div>
+      </div>
+      <div style="display: none;" id="commentModalForm">
+       <div class="modal-header border-0">
+        <div class="">
+         <h5 class="modal-title" id="commentModalLabel">Dodaj</h5>
+         <div class="h6 mb-0 fw-normal text-muted">
+          Kantor 1913
+         </div>
+        </div> <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+       </div>
+       <form action="https://kantor.live/kantory/krakow/603758-kantor-1913/komentarz" method="POST">
+        <div class="modal-body pb-1">
+         <div class="form-group"><label for="nameInput">Imię</label> <input type="text" name="author" class="form-control" id="nameInput" required minlength="3">
+         </div>
+         <div class="form-group"><label for="commentInput">Komentarz</label> <textarea class="form-control" name="comment" id="commentInput" rows="5" required minlength="10"></textarea>
+         </div>
+         <div class="form-group"><label class="align-items-center"> Ocena <i data-eva="star-outline" data-eva-fill="#aaa" data-eva-height="16px"></i> </label> <br>
+          <div class="btn-group" role="group" aria-label="Basic radio toggle button group"><input type="radio" class="btn-check" name="rate" id="rate1" autocomplete="off" value="1"> <label class="btn btn-outline-primary" for="rate1">1</label> <input type="radio" class="btn-check" name="rate" id="rate2" autocomplete="off" value="2"> <label class="btn btn-outline-primary" for="rate2">2</label> <input type="radio" class="btn-check" name="rate" id="rate3" autocomplete="off" value="3"> <label class="btn btn-outline-primary" for="rate3">3</label> <input type="radio" class="btn-check" name="rate" id="rate4" autocomplete="off" value="4"> <label class="btn btn-outline-primary" for="rate4">4</label> <input type="radio" class="btn-check" name="rate" id="rate5" autocomplete="off" value="5"> <label class="btn btn-outline-primary" for="rate5">5</label>
+          </div>
+         </div>
+        </div>
+        <div class="modal-footer border-0"><button type="submit" class="btn btn-primary w-100 mx-0 mt-0">Dodaj</button>
+        </div> <input type="hidden" name="_token" value="yKwVz8RBjFakUl6Hh5qBgZ0sx5yZIBViMUKKMS3O">
+       </form>
+      </div>
+     </div>
+    </div>
+   </div>
+   <section class="my-2 section py-4">
+    <div class="container-lg">
+     <h3 class="text-center my-4 "><span class="fw-normal">Inne kantory w mieście</span> <a class="fw-bold text-underline-dashed" href="https://kantor.live/kantory/krakow">Kraków</a></h3>
+     <div class="my-3 card">
+      <div class="card-body p-0">
+       <table class="table mb-0 border-0 ">
+        <tbody class="w-100">
+         <tr class="d-flex flex-column d-md-table-row w-100 border-bottom">
+          <td class="border-0 align-middle pt-4 pb-0 pt-md-2 pb-md-2">
+           <div class="d-flex flex-row flex-md-column align-items-center align-items-md-start justify-content-between mb-1 mb-md-0"><a class="h5 mb-0 ms-1 ms-md-0" href="https://kantor.live/kantory/krakow/203894-kantor-exchange-park-handlowy-zakopianka">Kantor Exchange Park Handlowy Zakopianka</a>
+            <div class="d-flex align-items-center"><i class="me-1" data-eva="star" data-eva-height="14px" data-eva-fill="#ffb400"></i>
+             <div class="media-body">
+              <div class="mt-0 mb-0 fw-bold d-flex flex-row align-items-center">
+               <div class="text-warning">
+                3.7
+               </div> <small class="text-muted ms-2 fw-normal d-none d-md-block"> (3 opinie)</small>
+              </div>
+             </div>
+            </div>
+           </div></td>
+          <td class="border-0 align-middle py-0 py-md-2">
+           <div class="d-none d-md-flex flex-row align-items-start"><i class="me-1" data-eva="clock" data-eva-height="20px" data-eva-fill="#95afc0"></i>
+            <div class="d-flex flex-column align-items-start justify-content-start"><span class=" text-warning ">Otwarte do <span class="h6">20:00</span></span>
+            </div>
+           </div></td>
+          <td class="border-0 align-middle py-0 py-md-2">
+           <div class="d-none d-md-flex flex-row align-items-start"><i class="me-1" data-eva="pin" data-eva-height="20px" data-eva-fill="#95afc0"></i> <span>ul. Zakopiańska 62</span>
+           </div></td>
+          <td class="border-0 align-middle pt-0 pb-4 pt-md-2 pb-md-2 ">
+           <div class="d-flex flex-row justify-content-between align-items-center">
+            <div>
+             <div class="d-flex flex-column d-md-none align-items-xs-center justify-content-start flex-wrap">
+              <div class="me-3"><i data-eva="pin" data-eva-height="20px" data-eva-fill="#95afc0"></i> <span>ul. Zakopiańska 62</span>
+              </div>
+              <div class="d-flex flex-row"><i data-eva="clock" data-eva-height="20px" data-eva-fill="#95afc0"></i>
+               <div class="d-flex flex-column align-items-start justify-content-start"><span class=" text-warning ">Otwarte do <span class="h6">20:00</span></span>
+               </div>
+              </div>
+             </div>
+            </div> <a href="https://kantor.live/kantory/krakow/203894-kantor-exchange-park-handlowy-zakopianka" class="btn btn-primary btn-go d-flex flex-row justify-content-center align-items-center py-1"> <span class="m-0 p-0">Pokaż</span> </a>
+           </div></td>
+         </tr>
+         <tr class="d-flex flex-column d-md-table-row w-100 border-bottom">
+          <td class="border-0 align-middle pt-4 pb-0 pt-md-2 pb-md-2">
+           <div class="d-flex flex-row flex-md-column align-items-center align-items-md-start justify-content-between mb-1 mb-md-0"><a class="h5 mb-0 ms-1 ms-md-0" href="https://kantor.live/kantory/krakow/466986-kantor-baksy">Kantor Baksy</a>
+            <div class="d-flex align-items-center"><i class="me-1" data-eva="star" data-eva-height="14px" data-eva-fill="#ffb400"></i>
+             <div class="media-body">
+              <div class="mt-0 mb-0 fw-bold d-flex flex-row align-items-center">
+               <div class="text-warning">
+                3.2
+               </div> <small class="text-muted ms-2 fw-normal d-none d-md-block"> (17 opinii)</small>
+              </div>
+             </div>
+            </div>
+           </div></td>
+          <td class="border-0 align-middle py-0 py-md-2">
+           <div class="d-none d-md-flex flex-row align-items-start"><i class="me-1" data-eva="clock" data-eva-height="20px" data-eva-fill="#95afc0"></i>
+            <div class="d-flex flex-column align-items-start justify-content-start"><span class="text-capitalize text-danger">Nieczynne</span>
+            </div>
+           </div></td>
+          <td class="border-0 align-middle py-0 py-md-2">
+           <div class="d-none d-md-flex flex-row align-items-start"><i class="me-1" data-eva="pin" data-eva-height="20px" data-eva-fill="#95afc0"></i> <span>ul. Królewska 82</span>
+           </div></td>
+          <td class="border-0 align-middle pt-0 pb-4 pt-md-2 pb-md-2 ">
+           <div class="d-flex flex-row justify-content-between align-items-center">
+            <div>
+             <div class="d-flex flex-column d-md-none align-items-xs-center justify-content-start flex-wrap">
+              <div class="me-3"><i data-eva="pin" data-eva-height="20px" data-eva-fill="#95afc0"></i> <span>ul. Królewska 82</span>
+              </div>
+              <div class="d-flex flex-row"><i data-eva="clock" data-eva-height="20px" data-eva-fill="#95afc0"></i>
+               <div class="d-flex flex-column align-items-start justify-content-start"><span class="text-capitalize text-danger">Nieczynne</span>
+               </div>
+              </div>
+             </div>
+            </div> <a href="https://kantor.live/kantory/krakow/466986-kantor-baksy" class="btn btn-primary btn-go d-flex flex-row justify-content-center align-items-center py-1"> <span class="m-0 p-0">Pokaż</span> </a>
+           </div></td>
+         </tr>
+         <tr class="d-flex flex-column d-md-table-row w-100 border-bottom">
+          <td class="border-0 align-middle pt-4 pb-0 pt-md-2 pb-md-2">
+           <div class="d-flex flex-row flex-md-column align-items-center align-items-md-start justify-content-between mb-1 mb-md-0"><a class="h5 mb-0 ms-1 ms-md-0" href="https://kantor.live/kantory/krakow/323716-kantor-cfs">Kantor CFS</a>
+           </div></td>
+          <td class="border-0 align-middle py-0 py-md-2">
+           <div class="d-none d-md-flex flex-row align-items-start"><i class="me-1" data-eva="clock" data-eva-height="20px" data-eva-fill="#95afc0"></i>
+            <div class="d-flex flex-column align-items-start justify-content-start"><span class=" text-warning ">Otwarte do <span class="h6">20:00</span></span>
+            </div>
+           </div></td>
+          <td class="border-0 align-middle py-0 py-md-2">
+           <div class="d-none d-md-flex flex-row align-items-start"><i class="me-1" data-eva="pin" data-eva-height="20px" data-eva-fill="#95afc0"></i> <span>ul. Pawia 12</span>
+           </div></td>
+          <td class="border-0 align-middle pt-0 pb-4 pt-md-2 pb-md-2 ">
+           <div class="d-flex flex-row justify-content-between align-items-center">
+            <div>
+             <div class="d-flex flex-column d-md-none align-items-xs-center justify-content-start flex-wrap">
+              <div class="me-3"><i data-eva="pin" data-eva-height="20px" data-eva-fill="#95afc0"></i> <span>ul. Pawia 12</span>
+              </div>
+              <div class="d-flex flex-row"><i data-eva="clock" data-eva-height="20px" data-eva-fill="#95afc0"></i>
+               <div class="d-flex flex-column align-items-start justify-content-start"><span class=" text-warning ">Otwarte do <span class="h6">20:00</span></span>
+               </div>
+              </div>
+             </div>
+            </div> <a href="https://kantor.live/kantory/krakow/323716-kantor-cfs" class="btn btn-primary btn-go d-flex flex-row justify-content-center align-items-center py-1"> <span class="m-0 p-0">Pokaż</span> </a>
+           </div></td>
+         </tr>
+         <tr class="d-flex flex-column d-md-table-row w-100 border-bottom">
+          <td class="border-0 align-middle pt-4 pb-0 pt-md-2 pb-md-2">
+           <div class="d-flex flex-row flex-md-column align-items-center align-items-md-start justify-content-between mb-1 mb-md-0"><a class="h5 mb-0 ms-1 ms-md-0" href="https://kantor.live/kantory/krakow/259837-kantor-futura-park">Kantor Futura Park</a>
+            <div class="d-flex align-items-center"><i class="me-1" data-eva="star" data-eva-height="14px" data-eva-fill="#17c671"></i>
+             <div class="media-body">
+              <div class="mt-0 mb-0 fw-bold d-flex flex-row align-items-center">
+               <div class="text-success">
+                4.3
+               </div> <small class="text-muted ms-2 fw-normal d-none d-md-block"> (6 opinii)</small>
+              </div>
+             </div>
+            </div>
+           </div></td>
+          <td class="border-0 align-middle py-0 py-md-2">
+           <div class="d-none d-md-flex flex-row align-items-start"><i class="me-1" data-eva="clock" data-eva-height="20px" data-eva-fill="#95afc0"></i>
+            <div class="d-flex flex-column align-items-start justify-content-start"><span class=" text-success ">Otwarte do <span class="h6">21:00</span></span>
+            </div>
+           </div></td>
+          <td class="border-0 align-middle py-0 py-md-2">
+           <div class="d-none d-md-flex flex-row align-items-start"><i class="me-1" data-eva="pin" data-eva-height="20px" data-eva-fill="#95afc0"></i> <span>ul. A. Rożańskiego 32</span>
+           </div></td>
+          <td class="border-0 align-middle pt-0 pb-4 pt-md-2 pb-md-2 ">
+           <div class="d-flex flex-row justify-content-between align-items-center">
+            <div>
+             <div class="d-flex flex-column d-md-none align-items-xs-center justify-content-start flex-wrap">
+              <div class="me-3"><i data-eva="pin" data-eva-height="20px" data-eva-fill="#95afc0"></i> <span>ul. A. Rożańskiego 32</span>
+              </div>
+              <div class="d-flex flex-row"><i data-eva="clock" data-eva-height="20px" data-eva-fill="#95afc0"></i>
+               <div class="d-flex flex-column align-items-start justify-content-start"><span class=" text-success ">Otwarte do <span class="h6">21:00</span></span>
+               </div>
+              </div>
+             </div>
+            </div> <a href="https://kantor.live/kantory/krakow/259837-kantor-futura-park" class="btn btn-primary btn-go d-flex flex-row justify-content-center align-items-center py-1"> <span class="m-0 p-0">Pokaż</span> </a>
+           </div></td>
+         </tr>
+         <tr class="d-flex flex-column d-md-table-row w-100 border-bottom">
+          <td class="border-0 align-middle pt-4 pb-0 pt-md-2 pb-md-2">
+           <div class="d-flex flex-row flex-md-column align-items-center align-items-md-start justify-content-between mb-1 mb-md-0"><a class="h5 mb-0 ms-1 ms-md-0" href="https://kantor.live/kantory/krakow/173973-kantor-karmelicka">Kantor Karmelicka</a>
+            <div class="d-flex align-items-center"><i class="me-1" data-eva="star" data-eva-height="14px" data-eva-fill="#ff6b6b"></i>
+             <div class="media-body">
+              <div class="mt-0 mb-0 fw-bold d-flex flex-row align-items-center">
+               <div class="text-danger">
+                1.0
+               </div> <small class="text-muted ms-2 fw-normal d-none d-md-block"> (1 opinia)</small>
+              </div>
+             </div>
+            </div>
+           </div></td>
+          <td class="border-0 align-middle py-0 py-md-2">
+           <div class="d-none d-md-flex flex-row align-items-start"><i class="me-1" data-eva="clock" data-eva-height="20px" data-eva-fill="#95afc0"></i>
+            <div class="d-flex flex-column align-items-start justify-content-start"><span class="text-capitalize text-danger">Nieczynne</span>
+            </div>
+           </div></td>
+          <td class="border-0 align-middle py-0 py-md-2">
+           <div class="d-none d-md-flex flex-row align-items-start"><i class="me-1" data-eva="pin" data-eva-height="20px" data-eva-fill="#95afc0"></i> <span>ul. Karmelicka 1</span>
+           </div></td>
+          <td class="border-0 align-middle pt-0 pb-4 pt-md-2 pb-md-2 ">
+           <div class="d-flex flex-row justify-content-between align-items-center">
+            <div>
+             <div class="d-flex flex-column d-md-none align-items-xs-center justify-content-start flex-wrap">
+              <div class="me-3"><i data-eva="pin" data-eva-height="20px" data-eva-fill="#95afc0"></i> <span>ul. Karmelicka 1</span>
+              </div>
+              <div class="d-flex flex-row"><i data-eva="clock" data-eva-height="20px" data-eva-fill="#95afc0"></i>
+               <div class="d-flex flex-column align-items-start justify-content-start"><span class="text-capitalize text-danger">Nieczynne</span>
+               </div>
+              </div>
+             </div>
+            </div> <a href="https://kantor.live/kantory/krakow/173973-kantor-karmelicka" class="btn btn-primary btn-go d-flex flex-row justify-content-center align-items-center py-1"> <span class="m-0 p-0">Pokaż</span> </a>
+           </div></td>
+         </tr>
+         <tr class="d-flex flex-column d-md-table-row w-100 border-bottom">
+          <td class="border-0 align-middle pt-4 pb-0 pt-md-2 pb-md-2">
+           <div class="d-flex flex-row flex-md-column align-items-center align-items-md-start justify-content-between mb-1 mb-md-0"><a class="h5 mb-0 ms-1 ms-md-0" href="https://kantor.live/kantory/krakow/116745-kantor-exchange-carrefour-czyzyny">Kantor Exchange Carrefour Czyżyny</a>
+            <div class="d-flex align-items-center"><i class="me-1" data-eva="star" data-eva-height="14px" data-eva-fill="#ff6b6b"></i>
+             <div class="media-body">
+              <div class="mt-0 mb-0 fw-bold d-flex flex-row align-items-center">
+               <div class="text-danger">
+                1.0
+               </div> <small class="text-muted ms-2 fw-normal d-none d-md-block"> (1 opinia)</small>
+              </div>
+             </div>
+            </div>
+           </div></td>
+          <td class="border-0 align-middle py-0 py-md-2">
+           <div class="d-none d-md-flex flex-row align-items-start"><i class="me-1" data-eva="clock" data-eva-height="20px" data-eva-fill="#95afc0"></i>
+            <div class="d-flex flex-column align-items-start justify-content-start"><span class=" text-warning ">Otwarte do <span class="h6">20:00</span></span>
+            </div>
+           </div></td>
+          <td class="border-0 align-middle py-0 py-md-2">
+           <div class="d-none d-md-flex flex-row align-items-start"><i class="me-1" data-eva="pin" data-eva-height="20px" data-eva-fill="#95afc0"></i> <span>ul. Medweckiego 2</span>
+           </div></td>
+          <td class="border-0 align-middle pt-0 pb-4 pt-md-2 pb-md-2 ">
+           <div class="d-flex flex-row justify-content-between align-items-center">
+            <div>
+             <div class="d-flex flex-column d-md-none align-items-xs-center justify-content-start flex-wrap">
+              <div class="me-3"><i data-eva="pin" data-eva-height="20px" data-eva-fill="#95afc0"></i> <span>ul. Medweckiego 2</span>
+              </div>
+              <div class="d-flex flex-row"><i data-eva="clock" data-eva-height="20px" data-eva-fill="#95afc0"></i>
+               <div class="d-flex flex-column align-items-start justify-content-start"><span class=" text-warning ">Otwarte do <span class="h6">20:00</span></span>
+               </div>
+              </div>
+             </div>
+            </div> <a href="https://kantor.live/kantory/krakow/116745-kantor-exchange-carrefour-czyzyny" class="btn btn-primary btn-go d-flex flex-row justify-content-center align-items-center py-1"> <span class="m-0 p-0">Pokaż</span> </a>
+           </div></td>
+         </tr>
+         <tr class="d-flex flex-column d-md-table-row w-100 border-bottom">
+          <td class="border-0 align-middle pt-4 pb-0 pt-md-2 pb-md-2">
+           <div class="d-flex flex-row flex-md-column align-items-center align-items-md-start justify-content-between mb-1 mb-md-0"><a class="h5 mb-0 ms-1 ms-md-0" href="https://kantor.live/kantory/krakow/381591-kantor-tysiaclecia">Kantor TYSIĄCLECIA</a>
+            <div class="d-flex align-items-center"><i class="me-1" data-eva="star" data-eva-height="14px" data-eva-fill="#17c671"></i>
+             <div class="media-body">
+              <div class="mt-0 mb-0 fw-bold d-flex flex-row align-items-center">
+               <div class="text-success">
+                5.0
+               </div> <small class="text-muted ms-2 fw-normal d-none d-md-block"> (2 opinie)</small>
+              </div>
+             </div>
+            </div>
+           </div></td>
+          <td class="border-0 align-middle py-0 py-md-2">
+           <div class="d-none d-md-flex flex-row align-items-start"><i class="me-1" data-eva="clock" data-eva-height="20px" data-eva-fill="#95afc0"></i>
+            <div class="d-flex flex-column align-items-start justify-content-start"><span class="text-capitalize text-danger">Nieczynne</span>
+            </div>
+           </div></td>
+          <td class="border-0 align-middle py-0 py-md-2">
+           <div class="d-none d-md-flex flex-row align-items-start"><i class="me-1" data-eva="pin" data-eva-height="20px" data-eva-fill="#95afc0"></i> <span>Os. Tysiąclecia 46</span>
+           </div></td>
+          <td class="border-0 align-middle pt-0 pb-4 pt-md-2 pb-md-2 ">
+           <div class="d-flex flex-row justify-content-between align-items-center">
+            <div>
+             <div class="d-flex flex-column d-md-none align-items-xs-center justify-content-start flex-wrap">
+              <div class="me-3"><i data-eva="pin" data-eva-height="20px" data-eva-fill="#95afc0"></i> <span>Os. Tysiąclecia 46</span>
+              </div>
+              <div class="d-flex flex-row"><i data-eva="clock" data-eva-height="20px" data-eva-fill="#95afc0"></i>
+               <div class="d-flex flex-column align-items-start justify-content-start"><span class="text-capitalize text-danger">Nieczynne</span>
+               </div>
+              </div>
+             </div>
+            </div> <a href="https://kantor.live/kantory/krakow/381591-kantor-tysiaclecia" class="btn btn-primary btn-go d-flex flex-row justify-content-center align-items-center py-1"> <span class="m-0 p-0">Pokaż</span> </a>
+           </div></td>
+         </tr>
+         <tr class="d-flex flex-column d-md-table-row w-100 border-bottom">
+          <td class="border-0 align-middle pt-4 pb-0 pt-md-2 pb-md-2">
+           <div class="d-flex flex-row flex-md-column align-items-center align-items-md-start justify-content-between mb-1 mb-md-0"><a class="h5 mb-0 ms-1 ms-md-0" href="https://kantor.live/kantory/krakow/272859-kantor-grosz">Kantor Grosz</a>
+            <div class="d-flex align-items-center"><i class="me-1" data-eva="star" data-eva-height="14px" data-eva-fill="#ffb400"></i>
+             <div class="media-body">
+              <div class="mt-0 mb-0 fw-bold d-flex flex-row align-items-center">
+               <div class="text-warning">
+                3.4
+               </div> <small class="text-muted ms-2 fw-normal d-none d-md-block"> (10 opinii)</small>
+              </div>
+             </div>
+            </div>
+           </div></td>
+          <td class="border-0 align-middle py-0 py-md-2">
+           <div class="d-none d-md-flex flex-row align-items-start"><i class="me-1" data-eva="clock" data-eva-height="20px" data-eva-fill="#95afc0"></i>
+            <div class="d-flex flex-column align-items-start justify-content-start"><span class="text-capitalize text-danger">Nieczynne</span>
+            </div>
+           </div></td>
+          <td class="border-0 align-middle py-0 py-md-2">
+           <div class="d-none d-md-flex flex-row align-items-start"><i class="me-1" data-eva="pin" data-eva-height="20px" data-eva-fill="#95afc0"></i> <span>ul. Sławkowska 4</span>
+           </div></td>
+          <td class="border-0 align-middle pt-0 pb-4 pt-md-2 pb-md-2 ">
+           <div class="d-flex flex-row justify-content-between align-items-center">
+            <div>
+             <div class="d-flex flex-column d-md-none align-items-xs-center justify-content-start flex-wrap">
+              <div class="me-3"><i data-eva="pin" data-eva-height="20px" data-eva-fill="#95afc0"></i> <span>ul. Sławkowska 4</span>
+              </div>
+              <div class="d-flex flex-row"><i data-eva="clock" data-eva-height="20px" data-eva-fill="#95afc0"></i>
+               <div class="d-flex flex-column align-items-start justify-content-start"><span class="text-capitalize text-danger">Nieczynne</span>
+               </div>
+              </div>
+             </div>
+            </div> <a href="https://kantor.live/kantory/krakow/272859-kantor-grosz" class="btn btn-primary btn-go d-flex flex-row justify-content-center align-items-center py-1"> <span class="m-0 p-0">Pokaż</span> </a>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div>
+     </div>
+    </div>
+   </section>
+  </main>
+  <footer class="footer mt-auto">
+   <div class="container-lg">
+    <div class="py-2 my-2 position-relative">
+     <ins class="adsbygoogle" style="display:block" data-ad-format="autorelaxed" data-ad-client="ca-pub-1588163567665001" data-ad-slot="8603954491"></ins>
+     <script>
+                         (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+    </div>
+   </div>
+   <div class="bg-body py-3 border-top">
+    <div class="container-lg">
+     <div class="d-flex flex-column-reverse flex-md-row flex-wrap align-items-start justify-content-between py-2">
+      <div class="w-100 w-md-auto d-flex flex-column justify-content-between justify-content-md-start align-items-center align-items-md-start">
+       <ul class="navbar-nav d-flex flex-row flex-wrap justify-content-center justify-content-md-start align-items-center align-items-md-start">
+        <li class="nav-item text-center pe-4 ps-0"><a class="nav-link" href="https://kantor.live/kantory">Kantory</a></li>
+        <li class="nav-item text-center pe-4"><a class="nav-link" href="https://kantor.live/kursy-walut">Kursy walut NBP</a></li>
+        <li class="nav-item text-center pe-4"><a class="nav-link" href="https://kantor.live/dla-biznesu">Dla biznesu</a></li>
+        <li class="nav-item text-center pe-4"><a class="nav-link" href="https://kantor.live/kontakt">Kontakt</a></li>
+        <li class="nav-item text-center pe-4"><a class="nav-link" href="https://kantor.live/polityka-prywatnosci">Polityka prywatności</a></li>
+       </ul>
+       <div class="me-1 mt-5 mt-md-3">
+        2023 - <span class="text-black ">Kantor</span><span class="text-muted">.live</span>
+       </div>
+      </div> <!-- <div class="w-100 mb-4 mb-md-0 w-md-auto d-flex flex-column justify-content-between justify-content-md-start align-items-center align-items-md-end">
+                    <a class="mb-3 btn btn-primary shadow d-flex flex-row justify-content-center align-items-center" href="https://www.facebook.com/kantorlivepoland">
+                        <span class="me-2">Polub nas na Facebooku</span>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 24 24">
+                            <path fill="#ffffff" d="M22.675 0h-21.35c-.732 0-1.325.593-1.325 1.325v21.351c0 .731.593 1.324 1.325 1.324h11.495v-9.294h-3.128v-3.622h3.128v-2.671c0-3.1 1.893-4.788 4.659-4.788 1.325 0 2.463.099 2.795.143v3.24l-1.918.001c-1.504 0-1.795.715-1.795 1.763v2.313h3.587l-.467 3.622h-3.12v9.293h6.116c.73 0 1.323-.593 1.323-1.325v-21.35c0-.732-.593-1.325-1.325-1.325z"/>
+                        </svg>
+                    </a>
+                </div> -->
+     </div>
+    </div>
+   </div>
+  </footer>
+ </body>
+</html>
+2023-01-09 19:31:37 INFO  TableInfo:14  connecting with https://kantor.live/kantory/krakow/603758-kantor-1913
+2023-01-09 19:37:05 INFO  TableInfo:15  connecting with https://kantor.live/kantory/krakow/603758-kantor-1913
+2023-01-09 19:37:07 INFO  TableInfo:19  connected with https://kantor.live/kantory/krakow/603758-kantor-1913
+2023-01-09 19:37:07 INFO  TableInfo:29  <div class="tab-content-wrap  shadow bg-white">
+ <div class="tab-content " id="myTabContent">
+  <div class="tab-pane border fade show active" id="detal" role="tabpanel" aria-labelledby="detal-tab">
+   <div class="table-responsive table-responsive-md p-2">
+    <table class="table table-sm mb-0 overflow-hidden">
+     <thead class="thead-light">
+      <tr>
+       <th class="fw-bold text-uppercase small" style="width: 120px">Waluta</th>
+       <th class="d-none d-md-table-cell"></th>
+       <th class="fw-bold text-uppercase small" style="width: 140px">Kupno</th>
+       <th class="fw-bold text-uppercase small" style="width: 140px">Sprzedaż</th>
+       <th style="width: 1%;white-space: nowrap;"></th>
+      </tr>
+     </thead>
+     <tbody>
+      <tr>
+       <td class="nowrap">
+        <div class="currency-flag currency-flag-eur me-2"></div> <span class="me-2">1 EUR</span></td>
+       <td class="text-muted d-none d-md-table-cell">euro</td>
+       <td class="nowrap">
+        <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">4.643</span> <span class="text-muted fw-normal small">PLN</span>
+        </div></td>
+       <td class="nowrap">
+        <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">4.723</span> <span class="text-muted fw-normal small">PLN</span>
+        </div></td>
+       <td><a class="btn btn-outline-light text-primary btn-sm px-1 py-1 py-lg-0 pb-lg-1 nowrap" href="https://kantor.live/kantory/krakow/EUR"> <i data-eva="swap-outline" data-eva-height="16px" data-eva-fill="#95afc0"></i> <span class="fw-normal d-none d-lg-inline my-0">porównaj</span> </a></td>
+      </tr>
+      <tr>
+       <td class="nowrap">
+        <div class="currency-flag currency-flag-usd me-2"></div> <span class="me-2">1 USD</span></td>
+       <td class="text-muted d-none d-md-table-cell">dolar amerykański</td>
+       <td class="nowrap">
+        <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">4.334</span> <span class="text-muted fw-normal small">PLN</span>
+        </div></td>
+       <td class="nowrap">
+        <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">4.394</span> <span class="text-muted fw-normal small">PLN</span>
+        </div></td>
+       <td><a class="btn btn-outline-light text-primary btn-sm px-1 py-1 py-lg-0 pb-lg-1 nowrap" href="https://kantor.live/kantory/krakow/USD"> <i data-eva="swap-outline" data-eva-height="16px" data-eva-fill="#95afc0"></i> <span class="fw-normal d-none d-lg-inline my-0">porównaj</span> </a></td>
+      </tr>
+      <tr>
+       <td class="nowrap">
+        <div class="currency-flag currency-flag-gbp me-2"></div> <span class="me-2">1 GBP</span></td>
+       <td class="text-muted d-none d-md-table-cell">funt szterling</td>
+       <td class="nowrap">
+        <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">5.249</span> <span class="text-muted fw-normal small">PLN</span>
+        </div></td>
+       <td class="nowrap">
+        <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">5.349</span> <span class="text-muted fw-normal small">PLN</span>
+        </div></td>
+       <td><a class="btn btn-outline-light text-primary btn-sm px-1 py-1 py-lg-0 pb-lg-1 nowrap" href="https://kantor.live/kantory/krakow/GBP"> <i data-eva="swap-outline" data-eva-height="16px" data-eva-fill="#95afc0"></i> <span class="fw-normal d-none d-lg-inline my-0">porównaj</span> </a></td>
+      </tr>
+      <tr>
+       <td class="nowrap">
+        <div class="currency-flag currency-flag-chf me-2"></div> <span class="me-2">1 CHF</span></td>
+       <td class="text-muted d-none d-md-table-cell">frank szwajcarski</td>
+       <td class="nowrap">
+        <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">4.733</span> <span class="text-muted fw-normal small">PLN</span>
+        </div></td>
+       <td class="nowrap">
+        <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">4.813</span> <span class="text-muted fw-normal small">PLN</span>
+        </div></td>
+       <td><a class="btn btn-outline-light text-primary btn-sm px-1 py-1 py-lg-0 pb-lg-1 nowrap" href="https://kantor.live/kantory/krakow/CHF"> <i data-eva="swap-outline" data-eva-height="16px" data-eva-fill="#95afc0"></i> <span class="fw-normal d-none d-lg-inline my-0">porównaj</span> </a></td>
+      </tr>
+      <tr>
+       <td class="nowrap">
+        <div class="currency-flag currency-flag-ils me-2"></div> <span class="me-2">1 ILS</span></td>
+       <td class="text-muted d-none d-md-table-cell">nowy szekel izraelski</td>
+       <td class="nowrap">
+        <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">1.15</span> <span class="text-muted fw-normal small">PLN</span>
+        </div></td>
+       <td class="nowrap">
+        <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">1.35</span> <span class="text-muted fw-normal small">PLN</span>
+        </div></td>
+       <td><a class="btn btn-outline-light text-primary btn-sm px-1 py-1 py-lg-0 pb-lg-1 nowrap" href="https://kantor.live/kantory/krakow/ILS"> <i data-eva="swap-outline" data-eva-height="16px" data-eva-fill="#95afc0"></i> <span class="fw-normal d-none d-lg-inline my-0">porównaj</span> </a></td>
+      </tr>
+      <tr>
+       <td class="nowrap">
+        <div class="currency-flag currency-flag-cny me-2"></div> <span class="me-2">1 CNY</span></td>
+       <td class="text-muted d-none d-md-table-cell">juan chiński</td>
+       <td class="nowrap">
+        <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">0.511</span> <span class="text-muted fw-normal small">PLN</span>
+        </div></td>
+       <td class="nowrap">
+        <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">0.661</span> <span class="text-muted fw-normal small">PLN</span>
+        </div></td>
+       <td><a class="btn btn-outline-light text-primary btn-sm px-1 py-1 py-lg-0 pb-lg-1 nowrap" href="https://kantor.live/kantory/krakow/CNY"> <i data-eva="swap-outline" data-eva-height="16px" data-eva-fill="#95afc0"></i> <span class="fw-normal d-none d-lg-inline my-0">porównaj</span> </a></td>
+      </tr>
+      <tr>
+       <td class="nowrap">
+        <div class="currency-flag currency-flag-try me-2"></div> <span class="me-2">1 TRY</span></td>
+       <td class="text-muted d-none d-md-table-cell">lira turecka</td>
+       <td class="nowrap">
+        <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">0.224</span> <span class="text-muted fw-normal small">PLN</span>
+        </div></td>
+       <td class="nowrap">
+        <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">0.314</span> <span class="text-muted fw-normal small">PLN</span>
+        </div></td>
+       <td><a class="btn btn-outline-light text-primary btn-sm px-1 py-1 py-lg-0 pb-lg-1 nowrap" href="https://kantor.live/kantory/krakow/TRY"> <i data-eva="swap-outline" data-eva-height="16px" data-eva-fill="#95afc0"></i> <span class="fw-normal d-none d-lg-inline my-0">porównaj</span> </a></td>
+      </tr>
+      <tr>
+       <td class="nowrap">
+        <div class="currency-flag currency-flag-cad me-2"></div> <span class="me-2">1 CAD</span></td>
+       <td class="text-muted d-none d-md-table-cell">dolar kanadyjski</td>
+       <td class="nowrap">
+        <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">3.21</span> <span class="text-muted fw-normal small">PLN</span>
+        </div></td>
+       <td class="nowrap">
+        <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">3.338</span> <span class="text-muted fw-normal small">PLN</span>
+        </div></td>
+       <td><a class="btn btn-outline-light text-primary btn-sm px-1 py-1 py-lg-0 pb-lg-1 nowrap" href="https://kantor.live/kantory/krakow/CAD"> <i data-eva="swap-outline" data-eva-height="16px" data-eva-fill="#95afc0"></i> <span class="fw-normal d-none d-lg-inline my-0">porównaj</span> </a></td>
+      </tr>
+      <tr>
+       <td class="nowrap">
+        <div class="currency-flag currency-flag-aud me-2"></div> <span class="me-2">1 AUD</span></td>
+       <td class="text-muted d-none d-md-table-cell">dolar australijski</td>
+       <td class="nowrap">
+        <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">2.941</span> <span class="text-muted fw-normal small">PLN</span>
+        </div></td>
+       <td class="nowrap">
+        <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">3.058</span> <span class="text-muted fw-normal small">PLN</span>
+        </div></td>
+       <td><a class="btn btn-outline-light text-primary btn-sm px-1 py-1 py-lg-0 pb-lg-1 nowrap" href="https://kantor.live/kantory/krakow/AUD"> <i data-eva="swap-outline" data-eva-height="16px" data-eva-fill="#95afc0"></i> <span class="fw-normal d-none d-lg-inline my-0">porównaj</span> </a></td>
+      </tr>
+      <tr>
+       <td class="nowrap">
+        <div class="currency-flag currency-flag-dkk me-2"></div> <span class="me-2">1 DKK</span></td>
+       <td class="text-muted d-none d-md-table-cell">korona duńska</td>
+       <td class="nowrap">
+        <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">0</span> <span class="text-muted fw-normal small">PLN</span>
+        </div></td>
+       <td class="nowrap">
+        <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">0.646</span> <span class="text-muted fw-normal small">PLN</span>
+        </div></td>
+       <td><a class="btn btn-outline-light text-primary btn-sm px-1 py-1 py-lg-0 pb-lg-1 nowrap" href="https://kantor.live/kantory/krakow/DKK"> <i data-eva="swap-outline" data-eva-height="16px" data-eva-fill="#95afc0"></i> <span class="fw-normal d-none d-lg-inline my-0">porównaj</span> </a></td>
+      </tr>
+      <tr>
+       <td class="nowrap">
+        <div class="currency-flag currency-flag-nok me-2"></div> <span class="me-2">1 NOK</span></td>
+       <td class="text-muted d-none d-md-table-cell">korona norweska</td>
+       <td class="nowrap">
+        <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">0.43</span> <span class="text-muted fw-normal small">PLN</span>
+        </div></td>
+       <td class="nowrap">
+        <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">0.443</span> <span class="text-muted fw-normal small">PLN</span>
+        </div></td>
+       <td><a class="btn btn-outline-light text-primary btn-sm px-1 py-1 py-lg-0 pb-lg-1 nowrap" href="https://kantor.live/kantory/krakow/NOK"> <i data-eva="swap-outline" data-eva-height="16px" data-eva-fill="#95afc0"></i> <span class="fw-normal d-none d-lg-inline my-0">porównaj</span> </a></td>
+      </tr>
+      <tr>
+       <td class="nowrap">
+        <div class="currency-flag currency-flag-sek me-2"></div> <span class="me-2">1 SEK</span></td>
+       <td class="text-muted d-none d-md-table-cell">korona szwedzka</td>
+       <td class="nowrap">
+        <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">0.407</span> <span class="text-muted fw-normal small">PLN</span>
+        </div></td>
+       <td class="nowrap">
+        <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">0.426</span> <span class="text-muted fw-normal small">PLN</span>
+        </div></td>
+       <td><a class="btn btn-outline-light text-primary btn-sm px-1 py-1 py-lg-0 pb-lg-1 nowrap" href="https://kantor.live/kantory/krakow/SEK"> <i data-eva="swap-outline" data-eva-height="16px" data-eva-fill="#95afc0"></i> <span class="fw-normal d-none d-lg-inline my-0">porównaj</span> </a></td>
+      </tr>
+      <tr>
+       <td class="nowrap">
+        <div class="currency-flag currency-flag-czk me-2"></div> <span class="me-2">1 CZK</span></td>
+       <td class="text-muted d-none d-md-table-cell">korona czeska</td>
+       <td class="nowrap">
+        <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">0.184</span> <span class="text-muted fw-normal small">PLN</span>
+        </div></td>
+       <td class="nowrap">
+        <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">0.199</span> <span class="text-muted fw-normal small">PLN</span>
+        </div></td>
+       <td><a class="btn btn-outline-light text-primary btn-sm px-1 py-1 py-lg-0 pb-lg-1 nowrap" href="https://kantor.live/kantory/krakow/CZK"> <i data-eva="swap-outline" data-eva-height="16px" data-eva-fill="#95afc0"></i> <span class="fw-normal d-none d-lg-inline my-0">porównaj</span> </a></td>
+      </tr>
+      <tr>
+       <td class="nowrap">
+        <div class="currency-flag currency-flag-huf me-2"></div> <span class="me-2">1 HUF</span></td>
+       <td class="text-muted d-none d-md-table-cell">forint węgierski</td>
+       <td class="nowrap">
+        <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">0.011</span> <span class="text-muted fw-normal small">PLN</span>
+        </div></td>
+       <td class="nowrap">
+        <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">0.013</span> <span class="text-muted fw-normal small">PLN</span>
+        </div></td>
+       <td><a class="btn btn-outline-light text-primary btn-sm px-1 py-1 py-lg-0 pb-lg-1 nowrap" href="https://kantor.live/kantory/krakow/HUF"> <i data-eva="swap-outline" data-eva-height="16px" data-eva-fill="#95afc0"></i> <span class="fw-normal d-none d-lg-inline my-0">porównaj</span> </a></td>
+      </tr>
+      <tr>
+       <td class="nowrap">
+        <div class="currency-flag currency-flag-hkd me-2"></div> <span class="me-2">1 HKD</span></td>
+       <td class="text-muted d-none d-md-table-cell">dolar hongkoński</td>
+       <td class="nowrap">
+        <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">0.4</span> <span class="text-muted fw-normal small">PLN</span>
+        </div></td>
+       <td class="nowrap">
+        <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">0.49</span> <span class="text-muted fw-normal small">PLN</span>
+        </div></td>
+       <td><a class="btn btn-outline-light text-primary btn-sm px-1 py-1 py-lg-0 pb-lg-1 nowrap" href="https://kantor.live/kantory/krakow/HKD"> <i data-eva="swap-outline" data-eva-height="16px" data-eva-fill="#95afc0"></i> <span class="fw-normal d-none d-lg-inline my-0">porównaj</span> </a></td>
+      </tr>
+      <tr>
+       <td class="nowrap">
+        <div class="currency-flag currency-flag-isk me-2"></div> <span class="me-2">1 ISK</span></td>
+       <td class="text-muted d-none d-md-table-cell">korona islandzka</td>
+       <td class="nowrap">
+        <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">0.025</span> <span class="text-muted fw-normal small">PLN</span>
+        </div></td>
+       <td class="nowrap">
+        <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">0.035</span> <span class="text-muted fw-normal small">PLN</span>
+        </div></td>
+       <td><a class="btn btn-outline-light text-primary btn-sm px-1 py-1 py-lg-0 pb-lg-1 nowrap" href="https://kantor.live/kantory/krakow/ISK"> <i data-eva="swap-outline" data-eva-height="16px" data-eva-fill="#95afc0"></i> <span class="fw-normal d-none d-lg-inline my-0">porównaj</span> </a></td>
+      </tr>
+      <tr>
+       <td class="nowrap">
+        <div class="currency-flag currency-flag-jpy me-2"></div> <span class="me-2">1 JPY</span></td>
+       <td class="text-muted d-none d-md-table-cell">jen japoński</td>
+       <td class="nowrap">
+        <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">0.03</span> <span class="text-muted fw-normal small">PLN</span>
+        </div></td>
+       <td class="nowrap">
+        <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">0.035</span> <span class="text-muted fw-normal small">PLN</span>
+        </div></td>
+       <td><a class="btn btn-outline-light text-primary btn-sm px-1 py-1 py-lg-0 pb-lg-1 nowrap" href="https://kantor.live/kantory/krakow/JPY"> <i data-eva="swap-outline" data-eva-height="16px" data-eva-fill="#95afc0"></i> <span class="fw-normal d-none d-lg-inline my-0">porównaj</span> </a></td>
+      </tr>
+      <tr>
+       <td class="nowrap">
+        <div class="currency-flag currency-flag-aed me-2"></div> <span class="me-2">1 AED</span></td>
+       <td class="text-muted d-none d-md-table-cell">dirham arabski</td>
+       <td class="nowrap">
+        <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">1.1</span> <span class="text-muted fw-normal small">PLN</span>
+        </div></td>
+       <td class="nowrap">
+        <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">1.3</span> <span class="text-muted fw-normal small">PLN</span>
+        </div></td>
+       <td><a class="btn btn-outline-light text-primary btn-sm px-1 py-1 py-lg-0 pb-lg-1 nowrap" href="https://kantor.live/kantory/krakow/AED"> <i data-eva="swap-outline" data-eva-height="16px" data-eva-fill="#95afc0"></i> <span class="fw-normal d-none d-lg-inline my-0">porównaj</span> </a></td>
+      </tr>
+     </tbody>
+    </table>
+   </div>
+   <div class="p-2">
+    <div class="d-flex flex-row align-items-center justify-content-start small fw-normal"><i data-eva="clock-outline" data-eva-height="16px" data-eva-fill="#aaa"></i> <span class="mx-1">Kursy zaktualizowane </span> <span class="momentJsComment" data-date="2023-01-09 19:35:33"></span>
+    </div>
+    <div class="small lh-1 text-center bg-white text-muted text-wrap fw-normal mt-2 mb-0">
+     Kursy walut często ulegają zmianom, dlatego tabela ma jedynie charakter informacyjny. W celu potwierdzenia kursu prosimy o sprawdzenie kursów walut na podanej stronie internetowej kantoru lub za pomocą kontaktu telefonicznego z wybranym kantorem.
+    </div>
+   </div>
+  </div>
+  <div class="tab-pane border fade" id="hurt" role="tabpanel" aria-labelledby="hurt-tab">
+   <div class="text-center px-2 py-5 d-flex justify-content-center align-items-center flex-column" style="min-height: 200px;">
+    <div class="h4 text-muted">
+     Brak danych
+    </div> <a class="mt-3" href="https://kantor.live/kantory/krakow">Sprawdź inne kantory w mieście Kraków</a>
+   </div>
+  </div>
+  <div class="tab-pane border fade" id="kalkulator" role="tabpanel" aria-labelledby="kalkulator-tab">
+   <div class="p-2 p-md-3">
+    <script>
+                                            var calculator_exchanges = {"EUR":{"iso":"EUR","buy":"4.643","sell":"4.723"},"USD":{"iso":"USD","buy":"4.334","sell":"4.394"},"GBP":{"iso":"GBP","buy":"5.249","sell":"5.349"},"CHF":{"iso":"CHF","buy":"4.733","sell":"4.813"},"ILS":{"iso":"ILS","buy":"1.15","sell":"1.35"},"CNY":{"iso":"CNY","buy":"0.511","sell":"0.661"},"TRY":{"iso":"TRY","buy":"0.224","sell":"0.314"},"CAD":{"iso":"CAD","buy":"3.21","sell":"3.338"},"AUD":{"iso":"AUD","buy":"2.941","sell":"3.058"},"DKK":{"iso":"DKK","buy":"0","sell":"0.646"},"NOK":{"iso":"NOK","buy":"0.43","sell":"0.443"},"SEK":{"iso":"SEK","buy":"0.407","sell":"0.426"},"CZK":{"iso":"CZK","buy":"0.184","sell":"0.199"},"HUF":{"iso":"HUF","buy":"0.011","sell":"0.013"},"HKD":{"iso":"HKD","buy":"0.4","sell":"0.49"},"ISK":{"iso":"ISK","buy":"0.025","sell":"0.035"},"JPY":{"iso":"JPY","buy":"0.03","sell":"0.035"},"AED":{"iso":"AED","buy":"1.1","sell":"1.3"}};
+                                        </script>
+    <div class="row mb-4">
+     <div class="col-12 col-md-4 mt-3"><label>Kwota</label> <input type="text" maxlength="11" class="kantorCalculator kantorCalculatorAmount form-control border-light fw-normal bg-white" placeholder="Kwota">
+     </div>
+     <div class="col-6 col-md-4 mt-3"><label>Z waluty</label> <select class="kantorCalculator kantorCalculatorFrom " data-style="border-light" data-width="100%" data-live-search="true"> <option value="" selected>Wybierz walutę</option> <option data-content="<span class=&quot;currency-flag currency-flag-pln me-2&quot;></span>PLN" value="PLN">PLN</option> <option data-content="<span class=&quot;currency-flag currency-flag-aed me-2&quot;></span>AED" value="AED"> AED </option> <option data-content="<span class=&quot;currency-flag currency-flag-aud me-2&quot;></span>AUD" value="AUD"> AUD </option> <option data-content="<span class=&quot;currency-flag currency-flag-cad me-2&quot;></span>CAD" value="CAD"> CAD </option> <option data-content="<span class=&quot;currency-flag currency-flag-chf me-2&quot;></span>CHF" value="CHF"> CHF </option> <option data-content="<span class=&quot;currency-flag currency-flag-cny me-2&quot;></span>CNY" value="CNY"> CNY </option> <option data-content="<span class=&quot;currency-flag currency-flag-czk me-2&quot;></span>CZK" value="CZK"> CZK </option> <option data-content="<span class=&quot;currency-flag currency-flag-dkk me-2&quot;></span>DKK" value="DKK"> DKK </option> <option data-content="<span class=&quot;currency-flag currency-flag-eur me-2&quot;></span>EUR" value="EUR"> EUR </option> <option data-content="<span class=&quot;currency-flag currency-flag-gbp me-2&quot;></span>GBP" value="GBP"> GBP </option> <option data-content="<span class=&quot;currency-flag currency-flag-hkd me-2&quot;></span>HKD" value="HKD"> HKD </option> <option data-content="<span class=&quot;currency-flag currency-flag-huf me-2&quot;></span>HUF" value="HUF"> HUF </option> <option data-content="<span class=&quot;currency-flag currency-flag-ils me-2&quot;></span>ILS" value="ILS"> ILS </option> <option data-content="<span class=&quot;currency-flag currency-flag-isk me-2&quot;></span>ISK" value="ISK"> ISK </option> <option data-content="<span class=&quot;currency-flag currency-flag-jpy me-2&quot;></span>JPY" value="JPY"> JPY </option> <option data-content="<span class=&quot;currency-flag currency-flag-nok me-2&quot;></span>NOK" value="NOK"> NOK </option> <option data-content="<span class=&quot;currency-flag currency-flag-sek me-2&quot;></span>SEK" value="SEK"> SEK </option> <option data-content="<span class=&quot;currency-flag currency-flag-try me-2&quot;></span>TRY" value="TRY"> TRY </option> <option data-content="<span class=&quot;currency-flag currency-flag-usd me-2&quot;></span>USD" value="USD"> USD </option> </select>
+     </div>
+     <div class="col-6 col-md-4 mt-3"><label>Na walutę</label> <select class="kantorCalculator kantorCalculatorTo " data-style="border-light" data-width="100%" data-live-search="true"> <option value="" selected>Wybierz walutę</option> <option data-content="<span class=&quot;currency-flag currency-flag-pln me-2&quot;></span>PLN" value="PLN">PLN</option> <option data-content="<span class=&quot;currency-flag currency-flag-aed me-2&quot;></span>AED" value="AED"> AED </option> <option data-content="<span class=&quot;currency-flag currency-flag-aud me-2&quot;></span>AUD" value="AUD"> AUD </option> <option data-content="<span class=&quot;currency-flag currency-flag-cad me-2&quot;></span>CAD" value="CAD"> CAD </option> <option data-content="<span class=&quot;currency-flag currency-flag-chf me-2&quot;></span>CHF" value="CHF"> CHF </option> <option data-content="<span class=&quot;currency-flag currency-flag-cny me-2&quot;></span>CNY" value="CNY"> CNY </option> <option data-content="<span class=&quot;currency-flag currency-flag-czk me-2&quot;></span>CZK" value="CZK"> CZK </option> <option data-content="<span class=&quot;currency-flag currency-flag-dkk me-2&quot;></span>DKK" value="DKK"> DKK </option> <option data-content="<span class=&quot;currency-flag currency-flag-eur me-2&quot;></span>EUR" value="EUR"> EUR </option> <option data-content="<span class=&quot;currency-flag currency-flag-gbp me-2&quot;></span>GBP" value="GBP"> GBP </option> <option data-content="<span class=&quot;currency-flag currency-flag-hkd me-2&quot;></span>HKD" value="HKD"> HKD </option> <option data-content="<span class=&quot;currency-flag currency-flag-huf me-2&quot;></span>HUF" value="HUF"> HUF </option> <option data-content="<span class=&quot;currency-flag currency-flag-ils me-2&quot;></span>ILS" value="ILS"> ILS </option> <option data-content="<span class=&quot;currency-flag currency-flag-isk me-2&quot;></span>ISK" value="ISK"> ISK </option> <option data-content="<span class=&quot;currency-flag currency-flag-jpy me-2&quot;></span>JPY" value="JPY"> JPY </option> <option data-content="<span class=&quot;currency-flag currency-flag-nok me-2&quot;></span>NOK" value="NOK"> NOK </option> <option data-content="<span class=&quot;currency-flag currency-flag-sek me-2&quot;></span>SEK" value="SEK"> SEK </option> <option data-content="<span class=&quot;currency-flag currency-flag-try me-2&quot;></span>TRY" value="TRY"> TRY </option> <option data-content="<span class=&quot;currency-flag currency-flag-usd me-2&quot;></span>USD" value="USD"> USD </option> </select>
+     </div>
+    </div>
+    <div class="kantorCalculatorResult" style="display: none;">
+     <div class="fw-bold mb-3">
+      Wynik
+     </div>
+     <div class="d-flex flex-row align-items-center flex-wrap d-row w-100">
+      <div class="my-2 my-md-0 d-flex flex-row align-items-center"><span class="me-2 currency-flag kantorCalculatorResultFromCurrency"></span> <span class="h5 fw-normal mb-0 me-1 kantorCalculatorResultFromAmount"></span> <span class="me-1 text-muted fw-normal kantorCalculatorResultFromISO"></span>
+      </div>
+      <div class="my-2 my-md-0 "><i class="mx-2" data-eva="arrow-forward-outline" data-eva-height="16px" data-eva-fill="#bbb"></i>
+      </div>
+      <div class="my-2 my-md-0 kantorCalculatorResultMiddle" style="display: none">
+       <div class="d-flex flex-row align-items-center"><span class="mx-2 currency-flag currency-flag-pln"></span> <span class="h5 fw-normal mb-0 me-1 kantorCalculatorResultMiddleAmount"></span> <span class="me-1 text-muted fw-normal">PLN</span>
+       </div>
+      </div>
+      <div class="my-2 my-md-0 kantorCalculatorResultMiddle" style="display: none"><i class="mx-2" data-eva="arrow-forward-outline" data-eva-height="16px" data-eva-fill="#bbb"></i>
+      </div>
+      <div class="my-2 my-md-0 d-flex flex-row align-items-center"><span class="mx-2 currency-flag kantorCalculatorResultToCurrency"></span> <span class="h5 fw-normal mb-0 me-1 kantorCalculatorResultToAmount"></span> <span class="me-1 text-muted fw-normal kantorCalculatorResultToISO"></span>
+      </div>
+     </div>
+     <div class="mt-4"><a href="#" class="kantorCalculatorResultCompareLink" data-link="https://kantor.live/kantory/krakow"> <span>Porównaj wynik w innych kantorach</span> <i data-eva="arrow-ios-forward-outline" data-eva-height="22px" data-eva-width="14px" data-eva-fill="#bbb"></i> </a>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+</div>
+2023-01-09 19:39:43 INFO  TableInfo:15  connecting with https://kantor.live/kantory/krakow/603758-kantor-1913
+2023-01-09 19:39:46 INFO  TableInfo:19  connected with https://kantor.live/kantory/krakow/603758-kantor-1913
+2023-01-09 19:39:46 INFO  TableInfo:29  <tbody>
+ <tr>
+  <td class="nowrap">
+   <div class="currency-flag currency-flag-eur me-2"></div> <span class="me-2">1 EUR</span></td>
+  <td class="text-muted d-none d-md-table-cell">euro</td>
+  <td class="nowrap">
+   <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">4.643</span> <span class="text-muted fw-normal small">PLN</span>
+   </div></td>
+  <td class="nowrap">
+   <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">4.723</span> <span class="text-muted fw-normal small">PLN</span>
+   </div></td>
+  <td><a class="btn btn-outline-light text-primary btn-sm px-1 py-1 py-lg-0 pb-lg-1 nowrap" href="https://kantor.live/kantory/krakow/EUR"> <i data-eva="swap-outline" data-eva-height="16px" data-eva-fill="#95afc0"></i> <span class="fw-normal d-none d-lg-inline my-0">porównaj</span> </a></td>
+ </tr>
+ <tr>
+  <td class="nowrap">
+   <div class="currency-flag currency-flag-usd me-2"></div> <span class="me-2">1 USD</span></td>
+  <td class="text-muted d-none d-md-table-cell">dolar amerykański</td>
+  <td class="nowrap">
+   <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">4.334</span> <span class="text-muted fw-normal small">PLN</span>
+   </div></td>
+  <td class="nowrap">
+   <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">4.394</span> <span class="text-muted fw-normal small">PLN</span>
+   </div></td>
+  <td><a class="btn btn-outline-light text-primary btn-sm px-1 py-1 py-lg-0 pb-lg-1 nowrap" href="https://kantor.live/kantory/krakow/USD"> <i data-eva="swap-outline" data-eva-height="16px" data-eva-fill="#95afc0"></i> <span class="fw-normal d-none d-lg-inline my-0">porównaj</span> </a></td>
+ </tr>
+ <tr>
+  <td class="nowrap">
+   <div class="currency-flag currency-flag-gbp me-2"></div> <span class="me-2">1 GBP</span></td>
+  <td class="text-muted d-none d-md-table-cell">funt szterling</td>
+  <td class="nowrap">
+   <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">5.249</span> <span class="text-muted fw-normal small">PLN</span>
+   </div></td>
+  <td class="nowrap">
+   <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">5.349</span> <span class="text-muted fw-normal small">PLN</span>
+   </div></td>
+  <td><a class="btn btn-outline-light text-primary btn-sm px-1 py-1 py-lg-0 pb-lg-1 nowrap" href="https://kantor.live/kantory/krakow/GBP"> <i data-eva="swap-outline" data-eva-height="16px" data-eva-fill="#95afc0"></i> <span class="fw-normal d-none d-lg-inline my-0">porównaj</span> </a></td>
+ </tr>
+ <tr>
+  <td class="nowrap">
+   <div class="currency-flag currency-flag-chf me-2"></div> <span class="me-2">1 CHF</span></td>
+  <td class="text-muted d-none d-md-table-cell">frank szwajcarski</td>
+  <td class="nowrap">
+   <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">4.733</span> <span class="text-muted fw-normal small">PLN</span>
+   </div></td>
+  <td class="nowrap">
+   <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">4.813</span> <span class="text-muted fw-normal small">PLN</span>
+   </div></td>
+  <td><a class="btn btn-outline-light text-primary btn-sm px-1 py-1 py-lg-0 pb-lg-1 nowrap" href="https://kantor.live/kantory/krakow/CHF"> <i data-eva="swap-outline" data-eva-height="16px" data-eva-fill="#95afc0"></i> <span class="fw-normal d-none d-lg-inline my-0">porównaj</span> </a></td>
+ </tr>
+ <tr>
+  <td class="nowrap">
+   <div class="currency-flag currency-flag-ils me-2"></div> <span class="me-2">1 ILS</span></td>
+  <td class="text-muted d-none d-md-table-cell">nowy szekel izraelski</td>
+  <td class="nowrap">
+   <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">1.15</span> <span class="text-muted fw-normal small">PLN</span>
+   </div></td>
+  <td class="nowrap">
+   <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">1.35</span> <span class="text-muted fw-normal small">PLN</span>
+   </div></td>
+  <td><a class="btn btn-outline-light text-primary btn-sm px-1 py-1 py-lg-0 pb-lg-1 nowrap" href="https://kantor.live/kantory/krakow/ILS"> <i data-eva="swap-outline" data-eva-height="16px" data-eva-fill="#95afc0"></i> <span class="fw-normal d-none d-lg-inline my-0">porównaj</span> </a></td>
+ </tr>
+ <tr>
+  <td class="nowrap">
+   <div class="currency-flag currency-flag-cny me-2"></div> <span class="me-2">1 CNY</span></td>
+  <td class="text-muted d-none d-md-table-cell">juan chiński</td>
+  <td class="nowrap">
+   <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">0.511</span> <span class="text-muted fw-normal small">PLN</span>
+   </div></td>
+  <td class="nowrap">
+   <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">0.661</span> <span class="text-muted fw-normal small">PLN</span>
+   </div></td>
+  <td><a class="btn btn-outline-light text-primary btn-sm px-1 py-1 py-lg-0 pb-lg-1 nowrap" href="https://kantor.live/kantory/krakow/CNY"> <i data-eva="swap-outline" data-eva-height="16px" data-eva-fill="#95afc0"></i> <span class="fw-normal d-none d-lg-inline my-0">porównaj</span> </a></td>
+ </tr>
+ <tr>
+  <td class="nowrap">
+   <div class="currency-flag currency-flag-try me-2"></div> <span class="me-2">1 TRY</span></td>
+  <td class="text-muted d-none d-md-table-cell">lira turecka</td>
+  <td class="nowrap">
+   <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">0.224</span> <span class="text-muted fw-normal small">PLN</span>
+   </div></td>
+  <td class="nowrap">
+   <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">0.314</span> <span class="text-muted fw-normal small">PLN</span>
+   </div></td>
+  <td><a class="btn btn-outline-light text-primary btn-sm px-1 py-1 py-lg-0 pb-lg-1 nowrap" href="https://kantor.live/kantory/krakow/TRY"> <i data-eva="swap-outline" data-eva-height="16px" data-eva-fill="#95afc0"></i> <span class="fw-normal d-none d-lg-inline my-0">porównaj</span> </a></td>
+ </tr>
+ <tr>
+  <td class="nowrap">
+   <div class="currency-flag currency-flag-cad me-2"></div> <span class="me-2">1 CAD</span></td>
+  <td class="text-muted d-none d-md-table-cell">dolar kanadyjski</td>
+  <td class="nowrap">
+   <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">3.21</span> <span class="text-muted fw-normal small">PLN</span>
+   </div></td>
+  <td class="nowrap">
+   <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">3.338</span> <span class="text-muted fw-normal small">PLN</span>
+   </div></td>
+  <td><a class="btn btn-outline-light text-primary btn-sm px-1 py-1 py-lg-0 pb-lg-1 nowrap" href="https://kantor.live/kantory/krakow/CAD"> <i data-eva="swap-outline" data-eva-height="16px" data-eva-fill="#95afc0"></i> <span class="fw-normal d-none d-lg-inline my-0">porównaj</span> </a></td>
+ </tr>
+ <tr>
+  <td class="nowrap">
+   <div class="currency-flag currency-flag-aud me-2"></div> <span class="me-2">1 AUD</span></td>
+  <td class="text-muted d-none d-md-table-cell">dolar australijski</td>
+  <td class="nowrap">
+   <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">2.941</span> <span class="text-muted fw-normal small">PLN</span>
+   </div></td>
+  <td class="nowrap">
+   <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">3.058</span> <span class="text-muted fw-normal small">PLN</span>
+   </div></td>
+  <td><a class="btn btn-outline-light text-primary btn-sm px-1 py-1 py-lg-0 pb-lg-1 nowrap" href="https://kantor.live/kantory/krakow/AUD"> <i data-eva="swap-outline" data-eva-height="16px" data-eva-fill="#95afc0"></i> <span class="fw-normal d-none d-lg-inline my-0">porównaj</span> </a></td>
+ </tr>
+ <tr>
+  <td class="nowrap">
+   <div class="currency-flag currency-flag-dkk me-2"></div> <span class="me-2">1 DKK</span></td>
+  <td class="text-muted d-none d-md-table-cell">korona duńska</td>
+  <td class="nowrap">
+   <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">0</span> <span class="text-muted fw-normal small">PLN</span>
+   </div></td>
+  <td class="nowrap">
+   <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">0.646</span> <span class="text-muted fw-normal small">PLN</span>
+   </div></td>
+  <td><a class="btn btn-outline-light text-primary btn-sm px-1 py-1 py-lg-0 pb-lg-1 nowrap" href="https://kantor.live/kantory/krakow/DKK"> <i data-eva="swap-outline" data-eva-height="16px" data-eva-fill="#95afc0"></i> <span class="fw-normal d-none d-lg-inline my-0">porównaj</span> </a></td>
+ </tr>
+ <tr>
+  <td class="nowrap">
+   <div class="currency-flag currency-flag-nok me-2"></div> <span class="me-2">1 NOK</span></td>
+  <td class="text-muted d-none d-md-table-cell">korona norweska</td>
+  <td class="nowrap">
+   <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">0.43</span> <span class="text-muted fw-normal small">PLN</span>
+   </div></td>
+  <td class="nowrap">
+   <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">0.443</span> <span class="text-muted fw-normal small">PLN</span>
+   </div></td>
+  <td><a class="btn btn-outline-light text-primary btn-sm px-1 py-1 py-lg-0 pb-lg-1 nowrap" href="https://kantor.live/kantory/krakow/NOK"> <i data-eva="swap-outline" data-eva-height="16px" data-eva-fill="#95afc0"></i> <span class="fw-normal d-none d-lg-inline my-0">porównaj</span> </a></td>
+ </tr>
+ <tr>
+  <td class="nowrap">
+   <div class="currency-flag currency-flag-sek me-2"></div> <span class="me-2">1 SEK</span></td>
+  <td class="text-muted d-none d-md-table-cell">korona szwedzka</td>
+  <td class="nowrap">
+   <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">0.407</span> <span class="text-muted fw-normal small">PLN</span>
+   </div></td>
+  <td class="nowrap">
+   <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">0.426</span> <span class="text-muted fw-normal small">PLN</span>
+   </div></td>
+  <td><a class="btn btn-outline-light text-primary btn-sm px-1 py-1 py-lg-0 pb-lg-1 nowrap" href="https://kantor.live/kantory/krakow/SEK"> <i data-eva="swap-outline" data-eva-height="16px" data-eva-fill="#95afc0"></i> <span class="fw-normal d-none d-lg-inline my-0">porównaj</span> </a></td>
+ </tr>
+ <tr>
+  <td class="nowrap">
+   <div class="currency-flag currency-flag-czk me-2"></div> <span class="me-2">1 CZK</span></td>
+  <td class="text-muted d-none d-md-table-cell">korona czeska</td>
+  <td class="nowrap">
+   <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">0.184</span> <span class="text-muted fw-normal small">PLN</span>
+   </div></td>
+  <td class="nowrap">
+   <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">0.199</span> <span class="text-muted fw-normal small">PLN</span>
+   </div></td>
+  <td><a class="btn btn-outline-light text-primary btn-sm px-1 py-1 py-lg-0 pb-lg-1 nowrap" href="https://kantor.live/kantory/krakow/CZK"> <i data-eva="swap-outline" data-eva-height="16px" data-eva-fill="#95afc0"></i> <span class="fw-normal d-none d-lg-inline my-0">porównaj</span> </a></td>
+ </tr>
+ <tr>
+  <td class="nowrap">
+   <div class="currency-flag currency-flag-huf me-2"></div> <span class="me-2">1 HUF</span></td>
+  <td class="text-muted d-none d-md-table-cell">forint węgierski</td>
+  <td class="nowrap">
+   <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">0.011</span> <span class="text-muted fw-normal small">PLN</span>
+   </div></td>
+  <td class="nowrap">
+   <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">0.013</span> <span class="text-muted fw-normal small">PLN</span>
+   </div></td>
+  <td><a class="btn btn-outline-light text-primary btn-sm px-1 py-1 py-lg-0 pb-lg-1 nowrap" href="https://kantor.live/kantory/krakow/HUF"> <i data-eva="swap-outline" data-eva-height="16px" data-eva-fill="#95afc0"></i> <span class="fw-normal d-none d-lg-inline my-0">porównaj</span> </a></td>
+ </tr>
+ <tr>
+  <td class="nowrap">
+   <div class="currency-flag currency-flag-hkd me-2"></div> <span class="me-2">1 HKD</span></td>
+  <td class="text-muted d-none d-md-table-cell">dolar hongkoński</td>
+  <td class="nowrap">
+   <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">0.4</span> <span class="text-muted fw-normal small">PLN</span>
+   </div></td>
+  <td class="nowrap">
+   <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">0.49</span> <span class="text-muted fw-normal small">PLN</span>
+   </div></td>
+  <td><a class="btn btn-outline-light text-primary btn-sm px-1 py-1 py-lg-0 pb-lg-1 nowrap" href="https://kantor.live/kantory/krakow/HKD"> <i data-eva="swap-outline" data-eva-height="16px" data-eva-fill="#95afc0"></i> <span class="fw-normal d-none d-lg-inline my-0">porównaj</span> </a></td>
+ </tr>
+ <tr>
+  <td class="nowrap">
+   <div class="currency-flag currency-flag-isk me-2"></div> <span class="me-2">1 ISK</span></td>
+  <td class="text-muted d-none d-md-table-cell">korona islandzka</td>
+  <td class="nowrap">
+   <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">0.025</span> <span class="text-muted fw-normal small">PLN</span>
+   </div></td>
+  <td class="nowrap">
+   <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">0.035</span> <span class="text-muted fw-normal small">PLN</span>
+   </div></td>
+  <td><a class="btn btn-outline-light text-primary btn-sm px-1 py-1 py-lg-0 pb-lg-1 nowrap" href="https://kantor.live/kantory/krakow/ISK"> <i data-eva="swap-outline" data-eva-height="16px" data-eva-fill="#95afc0"></i> <span class="fw-normal d-none d-lg-inline my-0">porównaj</span> </a></td>
+ </tr>
+ <tr>
+  <td class="nowrap">
+   <div class="currency-flag currency-flag-jpy me-2"></div> <span class="me-2">1 JPY</span></td>
+  <td class="text-muted d-none d-md-table-cell">jen japoński</td>
+  <td class="nowrap">
+   <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">0.03</span> <span class="text-muted fw-normal small">PLN</span>
+   </div></td>
+  <td class="nowrap">
+   <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">0.035</span> <span class="text-muted fw-normal small">PLN</span>
+   </div></td>
+  <td><a class="btn btn-outline-light text-primary btn-sm px-1 py-1 py-lg-0 pb-lg-1 nowrap" href="https://kantor.live/kantory/krakow/JPY"> <i data-eva="swap-outline" data-eva-height="16px" data-eva-fill="#95afc0"></i> <span class="fw-normal d-none d-lg-inline my-0">porównaj</span> </a></td>
+ </tr>
+ <tr>
+  <td class="nowrap">
+   <div class="currency-flag currency-flag-aed me-2"></div> <span class="me-2">1 AED</span></td>
+  <td class="text-muted d-none d-md-table-cell">dirham arabski</td>
+  <td class="nowrap">
+   <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">1.1</span> <span class="text-muted fw-normal small">PLN</span>
+   </div></td>
+  <td class="nowrap">
+   <div class="d-flex flex-row align-items-end"><span class="h5 fw-normal mb-0 me-1">1.3</span> <span class="text-muted fw-normal small">PLN</span>
+   </div></td>
+  <td><a class="btn btn-outline-light text-primary btn-sm px-1 py-1 py-lg-0 pb-lg-1 nowrap" href="https://kantor.live/kantory/krakow/AED"> <i data-eva="swap-outline" data-eva-height="16px" data-eva-fill="#95afc0"></i> <span class="fw-normal d-none d-lg-inline my-0">porównaj</span> </a></td>
+ </tr>
+</tbody>
+2023-01-09 19:42:17 INFO  TableInfo:16  connecting with https://kantor.live/kantory/krakow/603758-kantor-1913
+2023-01-09 19:42:18 INFO  TableInfo:20  connected with https://kantor.live/kantory/krakow/603758-kantor-1913
+2023-01-09 19:43:24 INFO  TableInfo:16  connecting with https://kantor.live/kantory/krakow/603758-kantor-1913
+2023-01-09 19:43:25 INFO  TableInfo:20  connected with https://kantor.live/kantory/krakow/603758-kantor-1913
+2023-01-09 19:46:34 INFO  TableInfo:16  connecting with https://kantor.live/kantory/krakow/603758-kantor-1913
+2023-01-09 19:46:36 INFO  TableInfo:20  connected with https://kantor.live/kantory/krakow/603758-kantor-1913
+2023-01-09 19:48:17 INFO  TableInfo:16  connecting with https://kantor.live/kantory/krakow/603758-kantor-1913
+2023-01-09 19:48:18 INFO  TableInfo:20  connected with https://kantor.live/kantory/krakow/603758-kantor-1913
+2023-01-09 20:03:21 INFO  TableInfo:16  connecting with https://kantor.live/kantory/krakow/603758-kantor-1913
+2023-01-09 20:03:23 INFO  TableInfo:20  connected with https://kantor.live/kantory/krakow/603758-kantor-1913
+2023-01-09 20:03:52 INFO  TableInfo:16  connecting with https://kantor.live/kantory/krakow/603758-kantor-1913
+2023-01-09 20:03:54 INFO  TableInfo:20  connected with https://kantor.live/kantory/krakow/603758-kantor-1913
+2023-01-09 20:03:54 INFO  TableInfo:34  CODE:EUR
+2023-01-09 20:03:54 INFO  TableInfo:34  CODE:USD
+2023-01-09 20:03:54 INFO  TableInfo:34  CODE:GBP
+2023-01-09 20:03:54 INFO  TableInfo:34  CODE:CHF
+2023-01-09 20:03:54 INFO  TableInfo:34  CODE:ILS
+2023-01-09 20:03:54 INFO  TableInfo:34  CODE:CNY
+2023-01-09 20:03:54 INFO  TableInfo:34  CODE:TRY
+2023-01-09 20:03:54 INFO  TableInfo:34  CODE:CAD
+2023-01-09 20:03:54 INFO  TableInfo:34  CODE:AUD
+2023-01-09 20:03:54 INFO  TableInfo:34  CODE:DKK
+2023-01-09 20:03:54 INFO  TableInfo:34  CODE:NOK
+2023-01-09 20:03:54 INFO  TableInfo:34  CODE:SEK
+2023-01-09 20:03:54 INFO  TableInfo:34  CODE:CZK
+2023-01-09 20:03:54 INFO  TableInfo:34  CODE:HUF
+2023-01-09 20:03:54 INFO  TableInfo:34  CODE:HKD
+2023-01-09 20:03:54 INFO  TableInfo:34  CODE:ISK
+2023-01-09 20:03:54 INFO  TableInfo:34  CODE:JPY
+2023-01-09 20:03:54 INFO  TableInfo:34  CODE:AED
+2023-01-09 20:09:28 INFO  TableInfo:16  connecting with https://kantor.live/kantory/krakow/603758-kantor-1913
+2023-01-09 20:09:30 INFO  TableInfo:20  connected with https://kantor.live/kantory/krakow/603758-kantor-1913
+2023-01-09 20:09:30 INFO  TableInfo:34  4.644
+2023-01-09 20:09:30 INFO  TableInfo:34  4.339
+2023-01-09 20:09:30 INFO  TableInfo:34  5.246
+2023-01-09 20:09:30 INFO  TableInfo:34  4.733
+2023-01-09 20:09:30 INFO  TableInfo:34  1.15
+2023-01-09 20:09:30 INFO  TableInfo:34  0.511
+2023-01-09 20:09:30 INFO  TableInfo:34  0.225
+2023-01-09 20:09:30 INFO  TableInfo:34  3.21
+2023-01-09 20:09:30 INFO  TableInfo:34  2.939
+2023-01-09 20:09:30 INFO  TableInfo:34  0
+2023-01-09 20:09:30 INFO  TableInfo:34  0.43
+2023-01-09 20:09:30 INFO  TableInfo:34  0.407
+2023-01-09 20:09:30 INFO  TableInfo:34  0.184
+2023-01-09 20:09:30 INFO  TableInfo:34  0.011
+2023-01-09 20:09:30 INFO  TableInfo:34  0.4
+2023-01-09 20:09:30 INFO  TableInfo:34  0.025
+2023-01-09 20:09:30 INFO  TableInfo:34  0.03
+2023-01-09 20:09:30 INFO  TableInfo:34  1.1
+2023-01-09 20:13:19 INFO  TableInfo:16  connecting with https://kantor.live/kantory/krakow/603758-kantor-1913
+2023-01-09 20:13:21 INFO  TableInfo:20  connected with https://kantor.live/kantory/krakow/603758-kantor-1913
+2023-01-09 20:13:37 INFO  TableInfo:16  connecting with https://kantor.live/kantory/krakow/603758-kantor-1913
+2023-01-09 20:13:39 INFO  TableInfo:20  connected with https://kantor.live/kantory/krakow/603758-kantor-1913
+2023-01-09 20:13:39 INFO  TableInfo:38  projekt.Currency@60015ef5
+2023-01-09 20:13:39 INFO  TableInfo:38  projekt.Currency@2f54a33d
+2023-01-09 20:13:39 INFO  TableInfo:38  projekt.Currency@1018bde2
+2023-01-09 20:13:39 INFO  TableInfo:38  projekt.Currency@65b3f4a4
+2023-01-09 20:13:39 INFO  TableInfo:38  projekt.Currency@f2ff811
+2023-01-09 20:13:39 INFO  TableInfo:38  projekt.Currency@568ff82
+2023-01-09 20:13:39 INFO  TableInfo:38  projekt.Currency@50caa560
+2023-01-09 20:13:39 INFO  TableInfo:38  projekt.Currency@2a266d09
+2023-01-09 20:13:39 INFO  TableInfo:38  projekt.Currency@5ab9e72c
+2023-01-09 20:13:39 INFO  TableInfo:38  projekt.Currency@186f8716
+2023-01-09 20:13:39 INFO  TableInfo:38  projekt.Currency@1d8bd0de
+2023-01-09 20:13:39 INFO  TableInfo:38  projekt.Currency@45ca843
+2023-01-09 20:13:39 INFO  TableInfo:38  projekt.Currency@11c9af63
+2023-01-09 20:13:39 INFO  TableInfo:38  projekt.Currency@757acd7b
+2023-01-09 20:13:39 INFO  TableInfo:38  projekt.Currency@36b4fe2a
+2023-01-09 20:13:39 INFO  TableInfo:38  projekt.Currency@574b560f
+2023-01-09 20:13:39 INFO  TableInfo:38  projekt.Currency@ba54932
+2023-01-09 20:13:39 INFO  TableInfo:38  projekt.Currency@28975c28
+2023-01-09 20:13:48 INFO  TableInfo:16  connecting with https://kantor.live/kantory/krakow/603758-kantor-1913
+2023-01-09 20:13:50 INFO  TableInfo:20  connected with https://kantor.live/kantory/krakow/603758-kantor-1913
+2023-01-09 20:13:50 INFO  TableInfo:38  projekt.Currency@366647c2
+2023-01-09 20:13:50 INFO  TableInfo:38  projekt.Currency@6a6afff2
+2023-01-09 20:13:50 INFO  TableInfo:38  projekt.Currency@1649b0e6
+2023-01-09 20:13:50 INFO  TableInfo:38  projekt.Currency@865dd6
+2023-01-09 20:13:50 INFO  TableInfo:38  projekt.Currency@4da4253
+2023-01-09 20:13:50 INFO  TableInfo:38  projekt.Currency@3972a855
+2023-01-09 20:13:50 INFO  TableInfo:38  projekt.Currency@62e7f11d
+2023-01-09 20:13:50 INFO  TableInfo:38  projekt.Currency@503d687a
+2023-01-09 20:13:50 INFO  TableInfo:38  projekt.Currency@6a370f4
+2023-01-09 20:13:50 INFO  TableInfo:38  projekt.Currency@2abf4075
+2023-01-09 20:13:50 INFO  TableInfo:38  projekt.Currency@770d3326
+2023-01-09 20:13:50 INFO  TableInfo:38  projekt.Currency@4cc8eb05
+2023-01-09 20:13:50 INFO  TableInfo:38  projekt.Currency@51f116b8
+2023-01-09 20:13:51 INFO  TableInfo:38  projekt.Currency@19d481b
+2023-01-09 20:13:51 INFO  TableInfo:38  projekt.Currency@1f97cf0d
+2023-01-09 20:13:51 INFO  TableInfo:38  projekt.Currency@140c9f39
+2023-01-09 20:13:51 INFO  TableInfo:38  projekt.Currency@4d910fd6
+2023-01-09 20:13:51 INFO  TableInfo:38  projekt.Currency@26275bef
+2023-01-09 20:15:58 INFO  TableInfo:16  connecting with https://kantor.live/kantory/krakow/603758-kantor-1913
+2023-01-09 20:16:01 INFO  TableInfo:20  connected with https://kantor.live/kantory/krakow/603758-kantor-1913
+2023-01-09 20:16:01 INFO  TableInfo:38  EUR, 4.644, 4.724
+2023-01-09 20:16:01 INFO  TableInfo:38  USD, 4.339, 4.399
+2023-01-09 20:16:01 INFO  TableInfo:38  GBP, 5.246, 5.346
+2023-01-09 20:16:01 INFO  TableInfo:38  CHF, 4.733, 4.813
+2023-01-09 20:16:01 INFO  TableInfo:38  ILS, 1.15, 1.35
+2023-01-09 20:16:01 INFO  TableInfo:38  CNY, 0.511, 0.661
+2023-01-09 20:16:01 INFO  TableInfo:38  TRY, 0.225, 0.315
+2023-01-09 20:16:01 INFO  TableInfo:38  CAD, 3.21, 3.338
+2023-01-09 20:16:01 INFO  TableInfo:38  AUD, 2.939, 3.056
+2023-01-09 20:16:01 INFO  TableInfo:38  DKK, 0.0, 0.646
+2023-01-09 20:16:01 INFO  TableInfo:38  NOK, 0.43, 0.443
+2023-01-09 20:16:01 INFO  TableInfo:38  SEK, 0.407, 0.425
+2023-01-09 20:16:01 INFO  TableInfo:38  CZK, 0.184, 0.199
+2023-01-09 20:16:01 INFO  TableInfo:38  HUF, 0.011, 0.013
+2023-01-09 20:16:01 INFO  TableInfo:38  HKD, 0.4, 0.49
+2023-01-09 20:16:01 INFO  TableInfo:38  ISK, 0.025, 0.035
+2023-01-09 20:16:01 INFO  TableInfo:38  JPY, 0.03, 0.035
+2023-01-09 20:16:01 INFO  TableInfo:38  AED, 1.1, 1.3
+2023-01-09 20:27:35 INFO  TableInfo:18  connecting with https://kantor.live/kantory/krakow/603758-kantor-1913
+2023-01-09 20:27:37 INFO  TableInfo:22  connected with https://kantor.live/kantory/krakow/603758-kantor-1913
+2023-01-09 20:32:56 INFO  TableInfo:18  connecting with https://kantor.live/kantory/krakow/603758-kantor-1913
+2023-01-09 20:32:58 INFO  TableInfo:22  connected with https://kantor.live/kantory/krakow/603758-kantor-1913
+2023-01-09 20:32:58 INFO  TableInfo:44  [EUR, 4.644, 4.724Exchange office: ]
+2023-01-09 20:32:58 INFO  TableInfo:44  [EUR, 4.644, 4.724Exchange office: , USD, 4.339, 4.399Exchange office: ]
+2023-01-09 20:32:58 INFO  TableInfo:44  [EUR, 4.644, 4.724Exchange office: , USD, 4.339, 4.399Exchange office: , GBP, 5.246, 5.346Exchange office: ]
+2023-01-09 20:32:58 INFO  TableInfo:44  [EUR, 4.644, 4.724Exchange office: , USD, 4.339, 4.399Exchange office: , GBP, 5.246, 5.346Exchange office: , CHF, 4.733, 4.813Exchange office: ]
+2023-01-09 20:32:58 INFO  TableInfo:44  [EUR, 4.644, 4.724Exchange office: , USD, 4.339, 4.399Exchange office: , GBP, 5.246, 5.346Exchange office: , CHF, 4.733, 4.813Exchange office: , ILS, 1.15, 1.35Exchange office: ]
+2023-01-09 20:32:58 INFO  TableInfo:44  [EUR, 4.644, 4.724Exchange office: , USD, 4.339, 4.399Exchange office: , GBP, 5.246, 5.346Exchange office: , CHF, 4.733, 4.813Exchange office: , ILS, 1.15, 1.35Exchange office: , CNY, 0.511, 0.661Exchange office: ]
+2023-01-09 20:32:58 INFO  TableInfo:44  [EUR, 4.644, 4.724Exchange office: , USD, 4.339, 4.399Exchange office: , GBP, 5.246, 5.346Exchange office: , CHF, 4.733, 4.813Exchange office: , ILS, 1.15, 1.35Exchange office: , CNY, 0.511, 0.661Exchange office: , TRY, 0.225, 0.315Exchange office: ]
+2023-01-09 20:32:58 INFO  TableInfo:44  [EUR, 4.644, 4.724Exchange office: , USD, 4.339, 4.399Exchange office: , GBP, 5.246, 5.346Exchange office: , CHF, 4.733, 4.813Exchange office: , ILS, 1.15, 1.35Exchange office: , CNY, 0.511, 0.661Exchange office: , TRY, 0.225, 0.315Exchange office: , CAD, 3.21, 3.338Exchange office: ]
+2023-01-09 20:32:58 INFO  TableInfo:44  [EUR, 4.644, 4.724Exchange office: , USD, 4.339, 4.399Exchange office: , GBP, 5.246, 5.346Exchange office: , CHF, 4.733, 4.813Exchange office: , ILS, 1.15, 1.35Exchange office: , CNY, 0.511, 0.661Exchange office: , TRY, 0.225, 0.315Exchange office: , CAD, 3.21, 3.338Exchange office: , AUD, 2.939, 3.056Exchange office: ]
+2023-01-09 20:32:58 INFO  TableInfo:44  [EUR, 4.644, 4.724Exchange office: , USD, 4.339, 4.399Exchange office: , GBP, 5.246, 5.346Exchange office: , CHF, 4.733, 4.813Exchange office: , ILS, 1.15, 1.35Exchange office: , CNY, 0.511, 0.661Exchange office: , TRY, 0.225, 0.315Exchange office: , CAD, 3.21, 3.338Exchange office: , AUD, 2.939, 3.056Exchange office: , DKK, 0.0, 0.646Exchange office: ]
+2023-01-09 20:32:58 INFO  TableInfo:44  [EUR, 4.644, 4.724Exchange office: , USD, 4.339, 4.399Exchange office: , GBP, 5.246, 5.346Exchange office: , CHF, 4.733, 4.813Exchange office: , ILS, 1.15, 1.35Exchange office: , CNY, 0.511, 0.661Exchange office: , TRY, 0.225, 0.315Exchange office: , CAD, 3.21, 3.338Exchange office: , AUD, 2.939, 3.056Exchange office: , DKK, 0.0, 0.646Exchange office: , NOK, 0.43, 0.443Exchange office: ]
+2023-01-09 20:32:58 INFO  TableInfo:44  [EUR, 4.644, 4.724Exchange office: , USD, 4.339, 4.399Exchange office: , GBP, 5.246, 5.346Exchange office: , CHF, 4.733, 4.813Exchange office: , ILS, 1.15, 1.35Exchange office: , CNY, 0.511, 0.661Exchange office: , TRY, 0.225, 0.315Exchange office: , CAD, 3.21, 3.338Exchange office: , AUD, 2.939, 3.056Exchange office: , DKK, 0.0, 0.646Exchange office: , NOK, 0.43, 0.443Exchange office: , SEK, 0.407, 0.425Exchange office: ]
+2023-01-09 20:32:58 INFO  TableInfo:44  [EUR, 4.644, 4.724Exchange office: , USD, 4.339, 4.399Exchange office: , GBP, 5.246, 5.346Exchange office: , CHF, 4.733, 4.813Exchange office: , ILS, 1.15, 1.35Exchange office: , CNY, 0.511, 0.661Exchange office: , TRY, 0.225, 0.315Exchange office: , CAD, 3.21, 3.338Exchange office: , AUD, 2.939, 3.056Exchange office: , DKK, 0.0, 0.646Exchange office: , NOK, 0.43, 0.443Exchange office: , SEK, 0.407, 0.425Exchange office: , CZK, 0.184, 0.199Exchange office: ]
+2023-01-09 20:32:58 INFO  TableInfo:44  [EUR, 4.644, 4.724Exchange office: , USD, 4.339, 4.399Exchange office: , GBP, 5.246, 5.346Exchange office: , CHF, 4.733, 4.813Exchange office: , ILS, 1.15, 1.35Exchange office: , CNY, 0.511, 0.661Exchange office: , TRY, 0.225, 0.315Exchange office: , CAD, 3.21, 3.338Exchange office: , AUD, 2.939, 3.056Exchange office: , DKK, 0.0, 0.646Exchange office: , NOK, 0.43, 0.443Exchange office: , SEK, 0.407, 0.425Exchange office: , CZK, 0.184, 0.199Exchange office: , HUF, 0.011, 0.013Exchange office: ]
+2023-01-09 20:32:58 INFO  TableInfo:44  [EUR, 4.644, 4.724Exchange office: , USD, 4.339, 4.399Exchange office: , GBP, 5.246, 5.346Exchange office: , CHF, 4.733, 4.813Exchange office: , ILS, 1.15, 1.35Exchange office: , CNY, 0.511, 0.661Exchange office: , TRY, 0.225, 0.315Exchange office: , CAD, 3.21, 3.338Exchange office: , AUD, 2.939, 3.056Exchange office: , DKK, 0.0, 0.646Exchange office: , NOK, 0.43, 0.443Exchange office: , SEK, 0.407, 0.425Exchange office: , CZK, 0.184, 0.199Exchange office: , HUF, 0.011, 0.013Exchange office: ]
+2023-01-09 20:32:58 INFO  TableInfo:44  [EUR, 4.644, 4.724Exchange office: , USD, 4.339, 4.399Exchange office: , GBP, 5.246, 5.346Exchange office: , CHF, 4.733, 4.813Exchange office: , ILS, 1.15, 1.35Exchange office: , CNY, 0.511, 0.661Exchange office: , TRY, 0.225, 0.315Exchange office: , CAD, 3.21, 3.338Exchange office: , AUD, 2.939, 3.056Exchange office: , DKK, 0.0, 0.646Exchange office: , NOK, 0.43, 0.443Exchange office: , SEK, 0.407, 0.425Exchange office: , CZK, 0.184, 0.199Exchange office: , HUF, 0.011, 0.013Exchange office: ]
+2023-01-09 20:32:58 INFO  TableInfo:44  [EUR, 4.644, 4.724Exchange office: , USD, 4.339, 4.399Exchange office: , GBP, 5.246, 5.346Exchange office: , CHF, 4.733, 4.813Exchange office: , ILS, 1.15, 1.35Exchange office: , CNY, 0.511, 0.661Exchange office: , TRY, 0.225, 0.315Exchange office: , CAD, 3.21, 3.338Exchange office: , AUD, 2.939, 3.056Exchange office: , DKK, 0.0, 0.646Exchange office: , NOK, 0.43, 0.443Exchange office: , SEK, 0.407, 0.425Exchange office: , CZK, 0.184, 0.199Exchange office: , HUF, 0.011, 0.013Exchange office: , JPY, 0.03, 0.035Exchange office: ]
+2023-01-09 20:32:58 INFO  TableInfo:44  [EUR, 4.644, 4.724Exchange office: , USD, 4.339, 4.399Exchange office: , GBP, 5.246, 5.346Exchange office: , CHF, 4.733, 4.813Exchange office: , ILS, 1.15, 1.35Exchange office: , CNY, 0.511, 0.661Exchange office: , TRY, 0.225, 0.315Exchange office: , CAD, 3.21, 3.338Exchange office: , AUD, 2.939, 3.056Exchange office: , DKK, 0.0, 0.646Exchange office: , NOK, 0.43, 0.443Exchange office: , SEK, 0.407, 0.425Exchange office: , CZK, 0.184, 0.199Exchange office: , HUF, 0.011, 0.013Exchange office: , JPY, 0.03, 0.035Exchange office: , AED, 1.1, 1.3Exchange office: ]
+2023-01-09 20:33:40 INFO  TableInfo:18  connecting with https://kantor.live/kantory/krakow/603758-kantor-1913
+2023-01-09 20:33:42 INFO  TableInfo:22  connected with https://kantor.live/kantory/krakow/603758-kantor-1913
+2023-01-09 20:33:42 INFO  TableInfo:46  [EUR, 4.644, 4.724Exchange office: , USD, 4.339, 4.399Exchange office: , GBP, 5.246, 5.346Exchange office: , CHF, 4.733, 4.813Exchange office: , ILS, 1.15, 1.35Exchange office: , CNY, 0.511, 0.661Exchange office: , TRY, 0.225, 0.315Exchange office: , CAD, 3.21, 3.338Exchange office: , AUD, 2.939, 3.056Exchange office: , DKK, 0.0, 0.646Exchange office: , NOK, 0.43, 0.443Exchange office: , SEK, 0.407, 0.425Exchange office: , CZK, 0.184, 0.199Exchange office: , HUF, 0.011, 0.013Exchange office: , JPY, 0.03, 0.035Exchange office: , AED, 1.1, 1.3Exchange office: ]
+2023-01-09 21:02:46 INFO  TableInfo:18  connecting with https://kantor.live/kantory/krakow/603758-kantor-1913
+2023-01-09 21:02:47 INFO  TableInfo:22  connected with https://kantor.live/kantory/krakow/603758-kantor-1913
+2023-01-09 21:02:47 INFO  TableInfo:47  [EUR, 4.645, 4.725Exchange office: , USD, 4.339, 4.399Exchange office: , GBP, 5.25, 5.35Exchange office: , CHF, 4.736, 4.816Exchange office: , ILS, 1.15, 1.35Exchange office: , CNY, 0.511, 0.661Exchange office: , TRY, 0.225, 0.315Exchange office: , CAD, 3.21, 3.338Exchange office: , AUD, 2.941, 3.058Exchange office: , DKK, 0.0, 0.646Exchange office: , NOK, 0.43, 0.443Exchange office: , SEK, 0.407, 0.426Exchange office: , CZK, 0.184, 0.199Exchange office: , HUF, 0.011, 0.013Exchange office: , JPY, 0.03, 0.035Exchange office: , AED, 1.1, 1.3Exchange office: ]
+2023-01-09 21:07:00 INFO  TableInfo:18  connecting with https://kantor.live/kantory/krakow/603758-kantor-1913
+2023-01-09 21:07:01 INFO  TableInfo:22  connected with https://kantor.live/kantory/krakow/603758-kantor-1913
+2023-01-09 21:07:02 INFO  TableInfo:48  [EUR, 4.645, 4.725Exchange office: , USD, 4.339, 4.399Exchange office: , GBP, 5.25, 5.35Exchange office: , CHF, 4.736, 4.816Exchange office: , ILS, 1.15, 1.35Exchange office: , CNY, 0.511, 0.661Exchange office: , TRY, 0.225, 0.315Exchange office: , CAD, 3.21, 3.338Exchange office: , AUD, 2.941, 3.058Exchange office: , DKK, 0.0, 0.646Exchange office: , NOK, 0.43, 0.443Exchange office: , SEK, 0.407, 0.426Exchange office: , CZK, 0.184, 0.199Exchange office: , HUF, 0.011, 0.013Exchange office: , JPY, 0.03, 0.035Exchange office: , AED, 1.1, 1.3Exchange office: ]
+2023-01-09 21:08:02 INFO  TableInfo:18  connecting with https://kantor.live/kantory/krakow/603758-kantor-1913
+2023-01-09 21:08:03 INFO  TableInfo:22  connected with https://kantor.live/kantory/krakow/603758-kantor-1913
+2023-01-09 21:43:56 INFO  TableInfo:18  connecting with https://kantor.live/kantory/krakow/603758-kantor-1913
+2023-01-09 21:43:58 INFO  TableInfo:22  connected with https://kantor.live/kantory/krakow/603758-kantor-1913
+2023-01-09 21:45:46 INFO  TableInfo:18  connecting with https://kantor.live/kantory/krakow/603758-kantor-1913
+2023-01-09 21:45:48 INFO  TableInfo:22  connected with https://kantor.live/kantory/krakow/603758-kantor-1913
+2023-01-09 21:47:00 INFO  TableInfo:18  connecting with https://kantor.live/kantory/krakow/603758-kantor-1913
+2023-01-09 21:47:02 INFO  TableInfo:22  connected with https://kantor.live/kantory/krakow/603758-kantor-1913
+2023-01-09 21:48:46 INFO  TableInfo:18  connecting with https://kantor.live/kantory/krakow/603758-kantor-1913
+2023-01-09 21:48:48 INFO  TableInfo:22  connected with https://kantor.live/kantory/krakow/603758-kantor-1913
+2023-01-09 21:48:49 INFO  TableInfo:48  [EUR, 4.645, 4.725Exchange office: Kantor 1913, USD, 4.339, 4.399Exchange office: Kantor 1913, GBP, 5.25, 5.35Exchange office: Kantor 1913, CHF, 4.736, 4.816Exchange office: Kantor 1913, ILS, 1.15, 1.35Exchange office: Kantor 1913, CNY, 0.511, 0.661Exchange office: Kantor 1913, TRY, 0.225, 0.315Exchange office: Kantor 1913, CAD, 3.21, 3.338Exchange office: Kantor 1913, AUD, 2.941, 3.058Exchange office: Kantor 1913, DKK, 0.0, 0.646Exchange office: Kantor 1913, NOK, 0.43, 0.443Exchange office: Kantor 1913, SEK, 0.407, 0.426Exchange office: Kantor 1913, CZK, 0.184, 0.199Exchange office: Kantor 1913, HUF, 0.011, 0.013Exchange office: Kantor 1913, JPY, 0.03, 0.035Exchange office: Kantor 1913, AED, 1.1, 1.3Exchange office: Kantor 1913]
+2023-01-09 21:51:24 INFO  TableInfo:18  connecting with https://kantor.live/kantory/krakow/603758-kantor-1913
+2023-01-09 21:51:26 INFO  TableInfo:22  connected with https://kantor.live/kantory/krakow/603758-kantor-1913
+2023-01-09 21:51:27 INFO  TableInfo:48  data from Kantor 1913
+2023-01-09 22:05:17 INFO  TableInfo:22  connecting with https://kantor.live/kantory/krakow/603758-kantor-1913
+2023-01-09 22:05:19 INFO  TableInfo:26  connected with https://kantor.live/kantory/krakow/603758-kantor-1913
+2023-01-09 22:05:20 INFO  TableInfo:69  Data from Kantor 1913 has been downloaded.
+2023-01-09 22:07:15 INFO  TableInfo:41  Reading txt file
+2023-01-09 22:07:15 INFO  TableInfo:22  connecting with https://kantor.live/kantory/krakow/603758-kantor-1913
+2023-01-09 22:07:17 INFO  TableInfo:26  connected with https://kantor.live/kantory/krakow/603758-kantor-1913
+2023-01-09 22:07:18 INFO  TableInfo:72  Data from Kantor 1913 has been downloaded.
+2023-01-09 22:08:56 INFO  TableInfo:41  Reading txt file
+2023-01-09 22:08:56 INFO  TableInfo:22  connecting with https://kantor.live/kantory/krakow/603758-kantor-1913
+2023-01-09 22:08:57 INFO  TableInfo:26  connected with https://kantor.live/kantory/krakow/603758-kantor-1913
+2023-01-09 22:08:58 INFO  TableInfo:72  Data from Kantor 1913 has been downloaded.
+2023-01-09 22:08:58 INFO  TableInfo:22  connecting with https://kantor.live/kantory/krakow/837130-kantor-1913-pkp
+2023-01-09 22:08:59 INFO  TableInfo:26  connected with https://kantor.live/kantory/krakow/837130-kantor-1913-pkp
+2023-01-09 22:08:59 INFO  TableInfo:72  Data from Kantor 1913 has been downloaded.
+2023-01-09 22:08:59 INFO  TableInfo:22  connecting with https://kantor.live/kantory/krakow/643512-kantor-agatka
+2023-01-09 22:08:59 INFO  TableInfo:26  connected with https://kantor.live/kantory/krakow/643512-kantor-agatka
+2023-01-09 22:08:59 INFO  TableInfo:72  Data from Kantor 1913 has been downloaded.
+2023-01-09 22:13:49 INFO  TableInfo:41  Reading txt file
+2023-01-09 22:13:49 INFO  TableInfo:22  connecting with https://kantor.live/kantory/krakow/603758-kantor-1913
+2023-01-09 22:13:51 INFO  TableInfo:26  connected with https://kantor.live/kantory/krakow/603758-kantor-1913
+2023-01-09 22:13:51 INFO  TableInfo:70  Data from Kantor 1913 has been downloaded.
+2023-01-09 22:13:52 INFO  TableInfo:22  connecting with https://kantor.live/kantory/krakow/837130-kantor-1913-pkp
+2023-01-09 22:13:52 INFO  TableInfo:26  connected with https://kantor.live/kantory/krakow/837130-kantor-1913-pkp
+2023-01-09 22:13:52 INFO  TableInfo:70  Data from Kantor 1913 PKP has been downloaded.
+2023-01-09 22:13:53 INFO  TableInfo:22  connecting with https://kantor.live/kantory/krakow/643512-kantor-agatka
+2023-01-09 22:13:53 INFO  TableInfo:26  connected with https://kantor.live/kantory/krakow/643512-kantor-agatka
+2023-01-09 22:13:53 INFO  TableInfo:70  Data from Kantor Agatka has been downloaded.
