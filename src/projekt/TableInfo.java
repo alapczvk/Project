@@ -49,6 +49,7 @@ public class TableInfo extends GUI{
     }
 
     public static void main(String[] args){
+        int id=1;
         ArrayList<String> exchanges=getExchanges();
         ArrayList<Currency> curr = new ArrayList<Currency>();
         for(String exchange: exchanges){
@@ -56,6 +57,7 @@ public class TableInfo extends GUI{
             Elements records = html.select("#detal > div.table-responsive.table-responsive-md.p-2 > table > tbody > tr"); // a with href
             //logger.info(records);
             boolean f=true;
+
             for(Element record: records){
                 //System.out.println(record);
                 String currencyCode=record.select("td:nth-child(1) > span").text().substring(2); //kod
@@ -63,18 +65,18 @@ public class TableInfo extends GUI{
                 Double sellFor= Double.parseDouble(record.select("td:nth-child(4) > div > span.h5.fw-normal.mb-0.me-1").text());//sprzedaz
                 String exName=record.selectXpath("/html/body/main/section[1]/div/h1/span[2]").text(); //nazwa kantoru
                 if(Arrays.asList(currenciesCodes).contains(currencyCode)){
-                    Currency currency=new Currency(currencyCode,buyFor,sellFor,exName);
+                    Currency currency=new Currency(id,currencyCode,buyFor,sellFor,exName);
                     curr.add(currency);
                 }
                 if (f){
-                    logger.info("Data from "+exName+" has been downloaded.");
+                    logger.info("Data from "+exName+" "+id+" has been downloaded.");
                     f=false;
                 }
 
                 ///html/body/main/section[1]/div/h1/span[2]
             }
 
-
+        id++;
         }
 
         //logger.info(getURL("https://kantor.live/kantory/krakow/603758-kantor-1913"));

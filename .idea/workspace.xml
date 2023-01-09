@@ -2,22 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e582510e-e33b-40c8-b0c3-1b6bf8bd1a28" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jsoup_1_15_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/log4j.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/jsoup-1.15.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logger.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projekt.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projekt/Currency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projekt/GUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projekt/TableInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/projekt/exchangeoffices.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logger.log" beforeDir="false" afterPath="$PROJECT_DIR$/logger.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/projekt/Currency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/projekt/Currency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/projekt/TableInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/projekt/TableInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/projekt/exchangeoffices.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/projekt/exchangeoffices.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
