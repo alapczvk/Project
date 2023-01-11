@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e582510e-e33b-40c8-b0c3-1b6bf8bd1a28" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logger.log" beforeDir="false" afterPath="$PROJECT_DIR$/logger.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/projekt/Currency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/projekt/Currency.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/projekt/GUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/projekt/GUI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/projekt/TableInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/projekt/TableInfo.java" afterDir="false" />
     </list>
@@ -57,7 +57,7 @@
       <recent name="C:\Users\Ola\Desktop\STUDIA\JAVA\projekt" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TableInfo">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="projekt" />
@@ -93,9 +93,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.TableInfo" />
         <item itemvalue="Application.Threads" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>

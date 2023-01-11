@@ -76,46 +76,21 @@ public class TableInfo extends GUI{
     }
     public static void main(String[] args){
         ArrayList<String> exchanges=getExchanges();
+         Thread t1=new Thread(()-> toThreads(new ArrayList<String> (exchanges.subList(0,5))));
 
+        Thread t2=new Thread(()-> toThreads(new ArrayList<String> (exchanges.subList(5,10))));
 
-         Thread t1=new Thread(()->{
-                toThreads(new ArrayList<String> (exchanges.subList(0,5)));
+        Thread t3=new Thread(()->toThreads(new ArrayList<String>( exchanges.subList(10,15))));
 
-            });
+        Thread t4=new Thread(()-> toThreads(new ArrayList<String> ( exchanges.subList(15,20))));
 
-        Thread t2=new Thread(()->{
-            toThreads(new ArrayList<String> (exchanges.subList(5,10)));
+        Thread t5=new Thread(()-> toThreads(new ArrayList<String> (exchanges.subList(20,25))));
 
-             });
+        Thread t6=new Thread(()->toThreads(new ArrayList<String> (exchanges.subList(25,30))));
 
-        Thread t3=new Thread(()->{
-            toThreads(new ArrayList<String>( exchanges.subList(10,15)));
-            currlen+=5;
-            });
+        Thread t7=new Thread(()->toThreads(new ArrayList<String> (exchanges.subList(30,35))));
 
-        Thread t4=new Thread(()->{
-            toThreads(new ArrayList<String> ( exchanges.subList(15,20)));
-
-            });
-
-        Thread t5=new Thread(()->{
-            toThreads(new ArrayList<String> (exchanges.subList(20,25)));
-
-             });
-
-        Thread t6=new Thread(()->{
-            toThreads(new ArrayList<String> (exchanges.subList(25,30)));
-
-        });
-
-        Thread t7=new Thread(()->{
-            toThreads(new ArrayList<String> (exchanges.subList(30,35)));
-
-        });
-
-        Thread t8=new Thread(()->{
-            toThreads(new ArrayList<String> (exchanges.subList(35,38)));
-        });
+        Thread t8=new Thread(()->toThreads(new ArrayList<String> (exchanges.subList(35,38))));
         t1.start();
         t2.start();
         t3.start();

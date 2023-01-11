@@ -14,7 +14,7 @@ public class GUI{ //ta klasa dziedzicyz z klasy table info zeby miec dostep do f
     private static JComboBox ccodes;
     private static JPanel jp;
     private static JFrame jf;
-    protected static String[] currenciesCodes ={null,"USD", "EUR", "AUD", "CAD", "GBP", "CHF", "SEK", "DKK", "BGN", "NOK", "RON", "CZK", "UAH", "HUF","JPY","TRY","ILS","CNY","AED","RUB"};
+    protected static String[] currenciesCodes ={"USD", "EUR", "AUD", "CAD", "GBP", "CHF", "SEK", "DKK", "BGN", "NOK", "RON", "CZK", "UAH", "HUF","JPY","TRY","ILS","CNY","AED","RUB"};
     public static void createAndShowGUI() {
         jf= new JFrame("Virtual Exchange");
         jf.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
@@ -31,6 +31,7 @@ public class GUI{ //ta klasa dziedzicyz z klasy table info zeby miec dostep do f
         l.setFont(new Font("Arial",Font.ROMAN_BASELINE,25));
         //tworzenie przycisków dla kazdej waluty do ktorej mozemy przekonwertowac z PLN
         ccodes= new JComboBox(currenciesCodes);
+        ccodes.setSelectedItem(null);
         Dimension dimension=new Dimension(350,30);
         ccodes.setPreferredSize(dimension);
         ccodes.setMaximumSize(dimension);
@@ -76,15 +77,6 @@ public class GUI{ //ta klasa dziedzicyz z klasy table info zeby miec dostep do f
         TRY.setToolTipText("PLN to Turkish lira");
         JPY= new JButton("JPY");
         JPY.setToolTipText("PLN to Japanese yen");
-        for (JButton b : Arrays.asList(USD, EUR, AUD, CAD, GBP, CHF, SEK, DKK, BGN, NOK, RON, CZK, UAH, HUF,JPY,TRY,ILS,CNY,AED,RUB)) {
-            Dimension dimension = new Dimension(570, 40);
-            b.setPreferredSize(dimension);
-            b.setMaximumSize(dimension);
-            b.setHorizontalAlignment(JButton.CENTER);
-            b.setLayout(new BoxLayout(b,BoxLayout.X_AXIS));
-            jp.add(b);
-            b.addActionListener(GUI::mainactionPerformed);
-        }
         jp.add(HUF);*/
         jp.add(l,BorderLayout.PAGE_START); //page start
         jf.add(jp);
@@ -95,22 +87,17 @@ public class GUI{ //ta klasa dziedzicyz z klasy table info zeby miec dostep do f
        ccodes.addActionListener((e)->{
                                         String click= (String) ccodes.getSelectedItem();
                                         logger.info("Currency "+click+" chosen");
-                                        currencyChosenEvent(click);
+                                        currencyChosen(click);
+
                                         });
        ccodes.getSelectedItem();
 
     }
-    protected static void firstClickPerformed(ActionEvent e) {
-        String click= (String) ccodes.getSelectedItem();
-        if(click==null){
-            return;
-        }
+    protected static void buttonClickedListener(ActionEvent e) {
         //System.out.println("Button = "+e.getActionCommand());
-        logger.info("Currency "+click+" chosen");
-
         }
 
-        protected static void currencyChosenEvent(String curr){
+        protected static void currencyChosen(String curr){
             String[] columnNames = { "LP", "KANTOR","KUPNO","SPRZEDAŻ" };
             String data[][] = {{"100","Vinod","programmer","5000"},
                     {"101","Deepak","Content Writer","20000"},
