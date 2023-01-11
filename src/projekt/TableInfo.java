@@ -77,6 +77,7 @@ public class TableInfo extends GUI{
     public static void main(String[] args){
         ArrayList<String> exchanges=getExchanges();
 
+
          Thread t1=new Thread(()->{
                 toThreads(new ArrayList<String> (exchanges.subList(0,5)));
 
