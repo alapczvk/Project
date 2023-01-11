@@ -4,20 +4,20 @@ public class Currency {
     private String code;
     private double buyFor;
     private double sellFor;
-
+    private String address;
     private String exName;
-    private int exid;
 
-    public Currency(int exid,String code, double buyFor, double sellFor, String exName) {
+
+    public Currency(String code, double buyFor, double sellFor, String exName, String address) {
         this.code=code;
         this.buyFor=buyFor;
         this.sellFor=sellFor;
         this.exName = exName;
-        this.exid=exid;
+        this.address=address;
     }
 
-    public int getExid() {
-        return this.exid;
+    public String getAddress(){
+        return this.address;
     }
 
     public String getCode(){
@@ -35,6 +35,6 @@ public class Currency {
     }
 
     public String toString(){
-        return code+", " + buyFor+", " + sellFor+"Exchange office: "+ exName+" "+exid;
+        return code+", " + buyFor+", " + sellFor+"Exchange office: "+ exName+" "+address;
     }
 }

@@ -4,31 +4,39 @@ import org.apache.log4j.Logger;
 
 import javax.swing.*;
 import javax.swing.border.EmptyBorder;
+import javax.swing.table.DefaultTableModel;
 import java.awt.*;
 import java.awt.event.ActionEvent;
-import java.util.Arrays;
 
 public class GUI{ //ta klasa dziedzicyz z klasy table info zeby miec dostep do funkcji tabelki wyswietlaacej
     private static Logger logger= Logger.getLogger(GUI.class); //w kazdej klasie tak robie zeby zbierac logi
-    private static JButton USD, EUR, AUD, CAD, GBP, CHF, SEK, DKK, BGN, NOK, RON, CZK, UAH, HUF,JPY,TRY,ILS,CNY,AED,RUB;
-    protected static String[] currenciesCodes ={"USD", "EUR", "AUD", "CAD", "GBP", "CHF", "SEK", "DKK", "BGN", "NOK", "RON", "CZK", "UAH", "HUF","JPY","TRY","ILS","CNY","AED","RUB"};
+    //private static JButton USD, EUR, AUD, CAD, GBP, CHF, SEK, DKK, BGN, NOK, RON, CZK, UAH, HUF,JPY,TRY,ILS,CNY,AED,RUB;
+    private static JComboBox ccodes;
+    private static JPanel jp;
+    private static JFrame jf;
+    protected static String[] currenciesCodes ={null,"USD", "EUR", "AUD", "CAD", "GBP", "CHF", "SEK", "DKK", "BGN", "NOK", "RON", "CZK", "UAH", "HUF","JPY","TRY","ILS","CNY","AED","RUB"};
     public static void createAndShowGUI() {
-        JFrame jf= new JFrame("Virtual Exchange");
+        jf= new JFrame("Virtual Exchange");
         jf.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         jf.setVisible(true);
         jf.setResizable(false);
         jf.setLocationRelativeTo(null);
-        jf.setPreferredSize(new Dimension(600,800));
-        JPanel jp = new JPanel();
-        jp.setLayout(new BoxLayout(jp, BoxLayout.PAGE_AXIS));
+        jf.setPreferredSize(new Dimension(400,110));
+        jp = new JPanel();//new BorderLayout()
+        jp.setLayout(new BorderLayout());
         jp.setBorder(new EmptyBorder(10, 10, 10, 10));
         JLabel l= new JLabel( "Choose currency");
         l.setHorizontalAlignment(JLabel.CENTER);
-        l.setMaximumSize(new Dimension(500,40));
+        l.setMaximumSize(new Dimension(400,40));
         l.setFont(new Font("Arial",Font.ROMAN_BASELINE,25));
-        jp.add(l);
         //tworzenie przycisków dla kazdej waluty do ktorej mozemy przekonwertowac z PLN
-        USD = new JButton("USD");
+        ccodes= new JComboBox(currenciesCodes);
+        Dimension dimension=new Dimension(350,30);
+        ccodes.setPreferredSize(dimension);
+        ccodes.setMaximumSize(dimension);
+        ccodes.setEditable(false);
+
+       /* USD = new JButton("USD");
         USD.setToolTipText("PLN to US dollar");
         EUR = new JButton("EUR");
         EUR.setToolTipText("PLN to Euro");
@@ -77,35 +85,46 @@ public class GUI{ //ta klasa dziedzicyz z klasy table info zeby miec dostep do f
             jp.add(b);
             b.addActionListener(GUI::mainactionPerformed);
         }
-        jp.add(HUF);
+        jp.add(HUF);*/
+        jp.add(l,BorderLayout.PAGE_START); //page start
         jf.add(jp);
+        jp.add(ccodes,BorderLayout.LINE_START); //line start
+
         jf.getContentPane().add(jp);
         jf.pack();
-
+       ccodes.addActionListener((e)->{
+                                        String click= (String) ccodes.getSelectedItem();
+                                        logger.info("Currency "+click+" chosen");
+                                        currencyChosenEvent(click);
+                                        });
+       ccodes.getSelectedItem();
 
     }
-    protected static void mainactionPerformed(ActionEvent e) {
-        String click=e.getActionCommand();
+    protected static void firstClickPerformed(ActionEvent e) {
+        String click= (String) ccodes.getSelectedItem();
+        if(click==null){
+            return;
+        }
         //System.out.println("Button = "+e.getActionCommand());
-        logger.info("Button "+click+" chosen");
-        currencyChosenEvent(click);
+        logger.info("Currency "+click+" chosen");
 
         }
+
         protected static void currencyChosenEvent(String curr){
-            JFrame jframe=new JFrame(curr);
-            jframe.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
-            jframe.setVisible(true);
-            jframe.setResizable(false);
-            jframe.setLocationRelativeTo(null);
-            jframe.setPreferredSize(new Dimension(500,800));
-            jframe.setSize(500,800);
-            jframe.setMaximumSize(new Dimension(500,800));
-            String[] columnNames = { "Lp", "kantor","kupno","sprzedaż" };
-            //JTable jt= new JTable(data,columnNames);
-            JPanel jp = new JPanel();
-            jp.setLayout(new BoxLayout(jp, BoxLayout.PAGE_AXIS));
-            jp.setBorder(new EmptyBorder(10, 10, 10, 10));
-            jframe.add(jp);
+            String[] columnNames = { "LP", "KANTOR","KUPNO","SPRZEDAŻ" };
+            String data[][] = {{"100","Vinod","programmer","5000"},
+                    {"101","Deepak","Content Writer","20000"},
+                    {"102","Noor","Techniqual Writer","30000"},
+                    {"104","Rinku","PHP programar","25000"}};
+            DefaultTableModel model = new DefaultTableModel(data,columnNames);
+            JTable jtable=new JTable(model);
+            jtable.setAutoCreateRowSorter(true);
+            jp.add(new JScrollPane(jtable),BorderLayout.PAGE_END); //page end
+            jf.add(jp);
+            jf.setSize(400,535);
+            jf.setMaximumSize(new Dimension(400,535));
+            jf.setPreferredSize(new Dimension(400,535));
+            jf.setVisible(true);
 
         }
 }
