@@ -59,7 +59,9 @@ public class TableInfo extends GUI{
                 Double buyFor= Double.parseDouble(record.select("td:nth-child(3) > div > span.h5.fw-normal.mb-0.me-1").text()); //kupno
                 Double sellFor= Double.parseDouble(record.select("td:nth-child(4) > div > span.h5.fw-normal.mb-0.me-1").text());//sprzedaz
                 String exName=record.selectXpath("/html/body/main/section[1]/div/h1/span[2]").text(); //nazwa kantoru
-                String address=record.select("#main > section.my-2.mt-4.kantor-section > div > div > div > div.col-12.col-lg-4.p-0.pe-md-2 > div.card.shadow.mt-0.mt-md-3 > div > div.media.my-4.d-flex.align-items-start > div > a > h2").text();
+                //String address=record.select("#main > section.my-2.mt-4.kantor-section > div > div > div > div.col-12.col-lg-4.p-0.pe-md-2 > div.card.shadow.mt-0.mt-md-3 > div > div.media.my-4.d-flex.align-items-start > div > a > h2").text();
+                String address=record.selectXpath("/html/body/main/section[1]/div/div/div/div[1]/div[2]/div/div[1]/div/a/h2").text();
+                ///html/body/main/section[1]/div/div/div/div[1]/div[2]/div/div[1]/div/a/h2
                 //#main > section.my-2.mt-4.kantor-section > div > div > div > div.col-12.col-lg-4.p-0.pe-md-2 > div.card.shadow.mt-0.mt-md-3 > div > div.media.my-4.d-flex.align-items-start > div > a > h2
                 if(Arrays.asList(currenciesCodes).contains(currencyCode)){
                     Currency currency=new Currency(currencyCode,buyFor,sellFor,exName,address);
@@ -74,9 +76,9 @@ public class TableInfo extends GUI{
 
         }
     }
-    public static void main(String[] args){
+    public static void getData(){
         ArrayList<String> exchanges=getExchanges();
-         Thread t1=new Thread(()-> toThreads(new ArrayList<String> (exchanges.subList(0,5))));
+        Thread t1=new Thread(()-> toThreads(new ArrayList<String> (exchanges.subList(0,5))));
 
         Thread t2=new Thread(()-> toThreads(new ArrayList<String> (exchanges.subList(5,10))));
 
@@ -101,6 +103,7 @@ public class TableInfo extends GUI{
         t8.start();
         for (Thread thread : Arrays.asList(t1,t2,t3,t4,t5,t6,t7,t8)) {
             try {
+
                 thread.join();
             } catch (InterruptedException e) {
                 throw new RuntimeException(e);

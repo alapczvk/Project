@@ -12,8 +12,8 @@ public class Currency {
         this.code=code;
         this.buyFor=buyFor;
         this.sellFor=sellFor;
-        this.exName = exName;
-        this.address=address;
+        this.exName = exName.replace("Kantor","");
+        this.address=address.split(",")[0];
     }
 
     public String getAddress(){
