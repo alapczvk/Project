@@ -14748,3 +14748,120 @@
 2023-01-14 19:10:10 INFO  GUI:66  Currency ILS chosen
 2023-01-14 19:10:14 INFO  GUI:66  Currency JPY chosen
 2023-01-14 19:10:17 INFO  GUI:66  Currency RUB chosen
+2023-01-14 19:40:55 INFO  TableInfo:42  Reading txt file
+2023-01-14 19:40:55 INFO  TableInfo:23  connecting with https://kantor.live/kantory/krakow/603758-kantor-1913
+2023-01-14 19:40:57 INFO  TableInfo:27  connected with https://kantor.live/kantory/krakow/603758-kantor-1913
+2023-01-14 19:40:57 INFO  TableInfo:71  Data from Kantor 1913 ul. Długa 16, 31-146 Kraków has been downloaded.
+2023-01-14 19:40:59 INFO  TableInfo:23  connecting with https://kantor.live/kantory/krakow/837130-kantor-1913-pkp
+2023-01-14 19:40:59 INFO  TableInfo:27  connected with https://kantor.live/kantory/krakow/837130-kantor-1913-pkp
+2023-01-14 19:40:59 INFO  TableInfo:71  Data from Kantor 1913 PKP ul. Pawia 5a, 31-154 Kraków has been downloaded.
+2023-01-14 19:40:59 INFO  TableInfo:23  connecting with https://kantor.live/kantory/krakow/643512-kantor-agatka
+2023-01-14 19:41:00 INFO  TableInfo:27  connected with https://kantor.live/kantory/krakow/643512-kantor-agatka
+2023-01-14 19:41:00 INFO  TableInfo:71  Data from Kantor Agatka os. Teatralne 4, 31-945 Kraków has been downloaded.
+2023-01-14 19:41:00 INFO  TableInfo:23  connecting with https://kantor.live/kantory/krakow/466986-kantor-baksy
+2023-01-14 19:41:00 INFO  TableInfo:27  connected with https://kantor.live/kantory/krakow/466986-kantor-baksy
+2023-01-14 19:41:00 INFO  TableInfo:71  Data from Kantor Baksy ul. Królewska 82, 30-079 Kraków has been downloaded.
+2023-01-14 19:41:01 INFO  TableInfo:23  connecting with https://kantor.live/kantory/krakow/707917-kantor-centrum
+2023-01-14 19:41:02 INFO  TableInfo:27  connected with https://kantor.live/kantory/krakow/707917-kantor-centrum
+2023-01-14 19:41:02 INFO  TableInfo:71  Data from Kantor Centrum ul. Zwierzyniecka 14, 31-102 Kraków has been downloaded.
+2023-01-14 19:41:04 INFO  TableInfo:23  connecting with https://kantor.live/kantory/krakow/323716-kantor-cfs
+2023-01-14 19:41:04 INFO  TableInfo:27  connected with https://kantor.live/kantory/krakow/323716-kantor-cfs
+2023-01-14 19:41:05 INFO  TableInfo:71  Data from Kantor CFS ul. Pawia 12, 31-154 Kraków has been downloaded.
+2023-01-14 19:41:06 INFO  TableInfo:23  connecting with https://kantor.live/kantory/krakow/529196-kantor-exchange
+2023-01-14 19:41:06 INFO  TableInfo:27  connected with https://kantor.live/kantory/krakow/529196-kantor-exchange
+2023-01-14 19:41:06 INFO  TableInfo:71  Data from Kantor EXCHANGE ul. Kalwaryjska 7, 33-332 Kraków has been downloaded.
+2023-01-14 19:41:06 INFO  TableInfo:23  connecting with https://kantor.live/kantory/krakow/616520-kantor-exchange-bonarka-city-center
+2023-01-14 19:41:07 INFO  TableInfo:27  connected with https://kantor.live/kantory/krakow/616520-kantor-exchange-bonarka-city-center
+2023-01-14 19:41:07 INFO  TableInfo:71  Data from Kantor Exchange Bonarka City Center ul. Kamieńskiego 11, 30-644 Kraków has been downloaded.
+2023-01-14 19:41:07 INFO  TableInfo:23  connecting with https://kantor.live/kantory/krakow/940592-kantor-exchange-bonarka-city-center
+2023-01-14 19:41:07 INFO  TableInfo:27  connected with https://kantor.live/kantory/krakow/940592-kantor-exchange-bonarka-city-center
+2023-01-14 19:41:07 INFO  TableInfo:71  Data from Kantor Exchange Bonarka City Center ul. Kamieńskiego 11, 30-644 Kraków has been downloaded.
+2023-01-14 19:41:08 INFO  TableInfo:23  connecting with https://kantor.live/kantory/krakow/116745-kantor-exchange-carrefour-czyzyny
+2023-01-14 19:41:08 INFO  TableInfo:27  connected with https://kantor.live/kantory/krakow/116745-kantor-exchange-carrefour-czyzyny
+2023-01-14 19:41:08 INFO  TableInfo:71  Data from Kantor Exchange Carrefour Czyżyny ul. Medweckiego 2, 31-870 Kraków has been downloaded.
+2023-01-14 19:41:09 INFO  TableInfo:23  connecting with https://kantor.live/kantory/krakow/805257-kantor-exchange-galeria-bronowice
+2023-01-14 19:41:09 INFO  TableInfo:27  connected with https://kantor.live/kantory/krakow/805257-kantor-exchange-galeria-bronowice
+2023-01-14 19:41:09 INFO  TableInfo:71  Data from Kantor Exchange Galeria Bronowice ul. Stawowa 61, 31-346 Kraków has been downloaded.
+2023-01-14 19:41:10 INFO  TableInfo:23  connecting with https://kantor.live/kantory/krakow/790055-kantor-exchange-galeria-krakowska
+2023-01-14 19:41:10 INFO  TableInfo:27  connected with https://kantor.live/kantory/krakow/790055-kantor-exchange-galeria-krakowska
+2023-01-14 19:41:10 INFO  TableInfo:71  Data from Kantor Exchange Galeria Krakowska ul. Pawia 5, 31-154 Kraków has been downloaded.
+2023-01-14 19:41:10 INFO  TableInfo:23  connecting with https://kantor.live/kantory/krakow/297577-kantor-exchange-galeria-krakowska
+2023-01-14 19:41:10 INFO  TableInfo:27  connected with https://kantor.live/kantory/krakow/297577-kantor-exchange-galeria-krakowska
+2023-01-14 19:41:10 INFO  TableInfo:71  Data from Kantor Exchange Galeria Krakowska ul. Pawia 5, 31-154 Kraków has been downloaded.
+2023-01-14 19:41:11 INFO  TableInfo:23  connecting with https://kantor.live/kantory/krakow/241533-kantor-exchange-kaufland-bratyslawska
+2023-01-14 19:41:11 INFO  TableInfo:27  connected with https://kantor.live/kantory/krakow/241533-kantor-exchange-kaufland-bratyslawska
+2023-01-14 19:41:11 INFO  TableInfo:71  Data from Kantor Exchange Kaufland Bratysławska ul. Bratysławska 4, 31-201 Kraków has been downloaded.
+2023-01-14 19:41:11 INFO  TableInfo:23  connecting with https://kantor.live/kantory/krakow/203894-kantor-exchange-park-handlowy-zakopianka
+2023-01-14 19:41:11 INFO  TableInfo:27  connected with https://kantor.live/kantory/krakow/203894-kantor-exchange-park-handlowy-zakopianka
+2023-01-14 19:41:11 INFO  TableInfo:71  Data from Kantor Exchange Park Handlowy Zakopianka ul. Zakopiańska 62, 30-418 Kraków has been downloaded.
+2023-01-14 19:41:12 INFO  TableInfo:23  connecting with https://kantor.live/kantory/krakow/772564-kantor-eexchange-tesco-wielicka
+2023-01-14 19:41:12 INFO  TableInfo:27  connected with https://kantor.live/kantory/krakow/772564-kantor-eexchange-tesco-wielicka
+2023-01-14 19:41:12 INFO  TableInfo:71  Data from Kantor Exchange Tesco Wielicka ul. Wielicka 259, 30-663 Kraków has been downloaded.
+2023-01-14 19:41:13 INFO  TableInfo:23  connecting with https://kantor.live/kantory/krakow/761948-kantor-fajny
+2023-01-14 19:41:13 INFO  TableInfo:27  connected with https://kantor.live/kantory/krakow/761948-kantor-fajny
+2023-01-14 19:41:13 INFO  TableInfo:71  Data from Kantor Fajny ul. Długa 8, 31-143 Kraków has been downloaded.
+2023-01-14 19:41:13 INFO  TableInfo:23  connecting with https://kantor.live/kantory/krakow/259837-kantor-futura-park
+2023-01-14 19:41:13 INFO  TableInfo:27  connected with https://kantor.live/kantory/krakow/259837-kantor-futura-park
+2023-01-14 19:41:13 INFO  TableInfo:71  Data from Kantor Futura Park ul. A. Rożańskiego 32, 32-085 Kraków has been downloaded.
+2023-01-14 19:41:14 INFO  TableInfo:23  connecting with https://kantor.live/kantory/krakow/909619-kantor-goldfinger
+2023-01-14 19:41:15 INFO  TableInfo:27  connected with https://kantor.live/kantory/krakow/909619-kantor-goldfinger
+2023-01-14 19:41:15 INFO  TableInfo:71  Data from Kantor Goldfinger ul. Starowiślna 56, 31-035 Kraków has been downloaded.
+2023-01-14 19:41:15 INFO  TableInfo:23  connecting with https://kantor.live/kantory/krakow/990110-kantor-grodzka
+2023-01-14 19:41:15 INFO  TableInfo:27  connected with https://kantor.live/kantory/krakow/990110-kantor-grodzka
+2023-01-14 19:41:15 INFO  TableInfo:71  Data from Kantor Grodzka ul. Grodzka 46, 31-044 Kraków has been downloaded.
+2023-01-14 19:41:16 INFO  TableInfo:23  connecting with https://kantor.live/kantory/krakow/272859-kantor-grosz
+2023-01-14 19:41:16 INFO  TableInfo:27  connected with https://kantor.live/kantory/krakow/272859-kantor-grosz
+2023-01-14 19:41:16 INFO  TableInfo:71  Data from Kantor Grosz ul. Sławkowska 4, 31-014 Kraków has been downloaded.
+2023-01-14 19:41:16 INFO  TableInfo:23  connecting with https://kantor.live/kantory/krakow/898352-kantor-impuls-trading
+2023-01-14 19:41:17 INFO  TableInfo:27  connected with https://kantor.live/kantory/krakow/898352-kantor-impuls-trading
+2023-01-14 19:41:17 INFO  TableInfo:23  connecting with https://kantor.live/kantory/krakow/362983-kantor-jb
+2023-01-14 19:41:17 INFO  TableInfo:27  connected with https://kantor.live/kantory/krakow/362983-kantor-jb
+2023-01-14 19:41:17 INFO  TableInfo:71  Data from Kantor JB Bieńczycki Plac Targowy paw.7, 31-863 Kraków has been downloaded.
+2023-01-14 19:41:17 INFO  TableInfo:23  connecting with https://kantor.live/kantory/krakow/173973-kantor-karmelicka
+2023-01-14 19:41:17 INFO  TableInfo:27  connected with https://kantor.live/kantory/krakow/173973-kantor-karmelicka
+2023-01-14 19:41:17 INFO  TableInfo:71  Data from Kantor Karmelicka ul. Karmelicka 1, 31-133 Kraków has been downloaded.
+2023-01-14 19:41:17 INFO  TableInfo:23  connecting with https://kantor.live/kantory/krakow/876406-kantor-luma
+2023-01-14 19:41:18 INFO  TableInfo:27  connected with https://kantor.live/kantory/krakow/876406-kantor-luma
+2023-01-14 19:41:18 INFO  TableInfo:71  Data from Kantor LUMA ul. Lindego 1c, 30-148 Kraków has been downloaded.
+2023-01-14 19:41:18 INFO  TableInfo:23  connecting with https://kantor.live/kantory/krakow/300724-kantor-lodzinscy-podgorze
+2023-01-14 19:41:18 INFO  TableInfo:27  connected with https://kantor.live/kantory/krakow/300724-kantor-lodzinscy-podgorze
+2023-01-14 19:41:18 INFO  TableInfo:71  Data from Kantor Łodzińscy Podgórze ul. Kalwaryjska 36, 30-504 Kraków has been downloaded.
+2023-01-14 19:41:19 INFO  TableInfo:23  connecting with https://kantor.live/kantory/krakow/696395-kantor-lodzinscy-podgorze
+2023-01-14 19:41:19 INFO  TableInfo:27  connected with https://kantor.live/kantory/krakow/696395-kantor-lodzinscy-podgorze
+2023-01-14 19:41:19 INFO  TableInfo:71  Data from Kantor Łodzińscy Podgórze ul. Witosa 7, 30-612 Kraków has been downloaded.
+2023-01-14 19:41:19 INFO  TableInfo:23  connecting with https://kantor.live/kantory/krakow/658312-kantor-lodzinscy-podgorze
+2023-01-14 19:41:20 INFO  TableInfo:27  connected with https://kantor.live/kantory/krakow/658312-kantor-lodzinscy-podgorze
+2023-01-14 19:41:20 INFO  TableInfo:71  Data from Kantor Łodzińscy Podgórze ul. Zakopiańska 105, 30-418 Kraków has been downloaded.
+2023-01-14 19:41:21 INFO  TableInfo:23  connecting with https://kantor.live/kantory/krakow/280834-kantor-meritum
+2023-01-14 19:41:21 INFO  TableInfo:27  connected with https://kantor.live/kantory/krakow/280834-kantor-meritum
+2023-01-14 19:41:21 INFO  TableInfo:71  Data from Kantor Meritum pl. Imbramowski 2, 31-217 Kraków has been downloaded.
+2023-01-14 19:41:21 INFO  TableInfo:23  connecting with https://kantor.live/kantory/krakow/844179-kantor-merkury
+2023-01-14 19:41:23 INFO  TableInfo:27  connected with https://kantor.live/kantory/krakow/844179-kantor-merkury
+2023-01-14 19:41:23 INFO  TableInfo:71  Data from Kantor Merkury ul. Wielopole 10, 31-072 Kraków has been downloaded.
+2023-01-14 19:41:23 INFO  TableInfo:23  connecting with https://kantor.live/kantory/krakow/876368-kantor-pr
+2023-01-14 19:41:23 INFO  TableInfo:27  connected with https://kantor.live/kantory/krakow/876368-kantor-pr
+2023-01-14 19:41:23 INFO  TableInfo:71  Data from Kantor P&R ul. Basztowa 10, 31-143 Kraków has been downloaded.
+2023-01-14 19:41:23 INFO  TableInfo:23  connecting with https://kantor.live/kantory/krakow/990619-kantor-parana
+2023-01-14 19:41:24 INFO  TableInfo:27  connected with https://kantor.live/kantory/krakow/990619-kantor-parana
+2023-01-14 19:41:24 INFO  TableInfo:71  Data from Kantor Parana ul. Grodzka 61, 33-332 Kraków has been downloaded.
+2023-01-14 19:41:24 INFO  TableInfo:23  connecting with https://kantor.live/kantory/krakow/771317-kantor-tomex
+2023-01-14 19:41:25 INFO  TableInfo:27  connected with https://kantor.live/kantory/krakow/771317-kantor-tomex
+2023-01-14 19:41:25 INFO  TableInfo:71  Data from Kantor Tomex ul. Bieńczycka 168, 31-860 Kraków has been downloaded.
+2023-01-14 19:41:25 INFO  TableInfo:23  connecting with https://kantor.live/kantory/krakow/381591-kantor-tysiaclecia
+2023-01-14 19:41:25 INFO  TableInfo:27  connected with https://kantor.live/kantory/krakow/381591-kantor-tysiaclecia
+2023-01-14 19:41:25 INFO  TableInfo:71  Data from Kantor TYSIĄCLECIA Os. Tysiąclecia 46, 31-612 Kraków has been downloaded.
+2023-01-14 19:41:25 INFO  TableInfo:23  connecting with https://kantor.live/kantory/krakow/692194-kantor-union-standard
+2023-01-14 19:41:25 INFO  TableInfo:27  connected with https://kantor.live/kantory/krakow/692194-kantor-union-standard
+2023-01-14 19:41:25 INFO  TableInfo:71  Data from Kantor Union Standard ul. Szczepańska 7, 31-011 Kraków has been downloaded.
+2023-01-14 19:41:26 INFO  TableInfo:23  connecting with https://kantor.live/kantory/krakow/236359-kantor-va-banque
+2023-01-14 19:41:26 INFO  TableInfo:27  connected with https://kantor.live/kantory/krakow/236359-kantor-va-banque
+2023-01-14 19:41:26 INFO  TableInfo:71  Data from Kantor Va Banque ul. Wielopole 13, 31-072 Kraków has been downloaded.
+2023-01-14 19:41:26 INFO  TableInfo:23  connecting with https://kantor.live/kantory/krakow/669521-kantor-va-banque
+2023-01-14 19:41:26 INFO  TableInfo:27  connected with https://kantor.live/kantory/krakow/669521-kantor-va-banque
+2023-01-14 19:41:26 INFO  TableInfo:71  Data from Kantor Va Banque ul. Grota Roweckiego 7E, 31-072 Kraków has been downloaded.
+2023-01-14 19:41:26 INFO  TableInfo:23  connecting with https://kantor.live/kantory/krakow/503566-kantor-wanda
+2023-01-14 19:41:26 INFO  TableInfo:27  connected with https://kantor.live/kantory/krakow/503566-kantor-wanda
+2023-01-14 19:41:26 INFO  TableInfo:71  Data from Kantor WANDA ul. Władysława Broniewskiego 1, 31-801 Kraków has been downloaded.
+2023-01-14 19:41:27 INFO  TableInfo:95  Everything Downloaded
+2023-01-14 19:41:34 INFO  GUI:66  Currency RUB chosen
+2023-01-14 19:41:48 INFO  GUI:66  Currency CNY chosen

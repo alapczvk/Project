@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e582510e-e33b-40c8-b0c3-1b6bf8bd1a28" name="Changes" comment="imperfections improved with bobasek">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logger.log" beforeDir="false" afterPath="$PROJECT_DIR$/logger.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/projekt/Currency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/projekt/Currency.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/projekt/GUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/projekt/GUI.java" afterDir="false" />
+    <list default="true" id="e582510e-e33b-40c8-b0c3-1b6bf8bd1a28" name="Changes" comment="imperfections improved with bobasek again">
       <change beforePath="$PROJECT_DIR$/src/projekt/TableInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/projekt/TableInfo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -115,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673480264478</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="imperfections improved with bobasek again">
+      <created>1673721126152</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673721126152</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -131,6 +134,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="imperfections improved with bobasek" />
-    <option name="LAST_COMMIT_MESSAGE" value="imperfections improved with bobasek" />
+    <MESSAGE value="imperfections improved with bobasek again" />
+    <option name="LAST_COMMIT_MESSAGE" value="imperfections improved with bobasek again" />
   </component>
 </project>

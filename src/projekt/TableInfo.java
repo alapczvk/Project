@@ -78,37 +78,20 @@ public class TableInfo extends GUI{
     }
     public static void getData(){
         ArrayList<String> exchanges=getExchanges();
-        Thread t1=new Thread(()-> toThreads(new ArrayList<String> (exchanges.subList(0,5))));
-
-        Thread t2=new Thread(()-> toThreads(new ArrayList<String> (exchanges.subList(5,10))));
-
-        Thread t3=new Thread(()->toThreads(new ArrayList<String>( exchanges.subList(10,15))));
-
-        Thread t4=new Thread(()-> toThreads(new ArrayList<String> ( exchanges.subList(15,20))));
-
-        Thread t5=new Thread(()-> toThreads(new ArrayList<String> (exchanges.subList(20,25))));
-
-        Thread t6=new Thread(()->toThreads(new ArrayList<String> (exchanges.subList(25,30))));
-
-        Thread t7=new Thread(()->toThreads(new ArrayList<String> (exchanges.subList(30,35))));
-
-        Thread t8=new Thread(()->toThreads(new ArrayList<String> (exchanges.subList(35,38))));
-        t1.start();
-        t2.start();
-        t3.start();
-        t4.start();
-        t5.start();
-        t6.start();
-        t7.start();
-        t8.start();
-        for (Thread thread : Arrays.asList(t1,t2,t3,t4,t5,t6,t7,t8)) {
+        for(int i=0;i<40;i=i+5) {
+            int finalI = i;
+            Thread t =new Thread(()->toThreads(new ArrayList<String>(exchanges.subList(finalI,(finalI ==35? 38:(finalI +5))))));
+            t.start();
             try {
-
-                thread.join();
+                t.join();
             } catch (InterruptedException e) {
                 throw new RuntimeException(e);
             }
+
         }
+//        Thread t8=new Thread(()->toThreads(new ArrayList<String> (exchanges.subList(35,38))));
+
+
         logger.info("Everything Downloaded");
 
     }
